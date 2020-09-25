@@ -59,16 +59,23 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 	body {
 		font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 	}
-
 	h1, h2, h3, h4, h5 {
 		font-weight: 700;
 	}
+	
+	img.emoji {
+		height: 1em;
+		width: 1em;
+		margin: 0 .05em 0 .1em;
+		vertical-align: -0.1em;
+	}
+
 	</style>	
 </head>
 <body class="bg-dark text-white">
 	<div class="container-fluid col-lg-4 offset-lg-4">
 		<header class="my-3 d-print-none">
-			<input type="search" class="form-control" id="q" placeholder="Vyhledej recept">
+			<input type="search" class="form-control bg-dark text-white border-secondary" id="q" placeholder="Vyhledej recept">
 		</header>
 		<main><article>${page.content}</article></main>
 	</div>
