@@ -58,8 +58,6 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 	<style type="text/css">
 	body {
 		font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-		color: #fff;
-		background: #242222;
 	}
 
 	h1, h2, h3, h4, h5 {
@@ -67,7 +65,7 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 	}
 	</style>	
 </head>
-<body class="bg-dark ">
+<body class="bg-dark text-white">
 	<div class="container-fluid col-lg-4 offset-lg-4">
 		<header class="my-3 d-print-none">
 			<input type="search" class="form-control" id="q" placeholder="Vyhledej recept">
