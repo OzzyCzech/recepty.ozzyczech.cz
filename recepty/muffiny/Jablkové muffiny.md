@@ -1,5 +1,5 @@
 ---
-title: Jablkové muffiny
+title: 🍎 Jablkové muffiny
 tags: [Recepty, Pečení]
 ---
 
