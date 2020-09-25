@@ -1,7 +1,6 @@
 ---
 title: Jablkové muffiny
 tags: [Recepty, Pečení]
-date: 2019-12-22
 ---
 
 # Jablkové muffiny

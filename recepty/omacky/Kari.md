@@ -1,7 +1,6 @@
 ---
 title: Kari
 tags: [Recepty, Vaření]
-date: 2000-01-01
 ---
 
 # Kari
@@ -17,5 +16,6 @@ date: 2000-01-01
 * 200 ml kokosového mléka
   
   
+
 Wok na kterém opečeme maso na nudličky (můžeme přidat gram masalu nebo kurkumu).
 Všechny ingredience na omáčku rozmixujeme bokem - přidáme k masu a provaříme. Podáváme s rýží.

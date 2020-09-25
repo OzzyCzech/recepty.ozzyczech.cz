@@ -1,7 +1,6 @@
 ---
 title: Banánová bábovka
 tags: [Recepty, Pečení]
-date: 2020-06-11
 ---
 
 # Banánová bábovka

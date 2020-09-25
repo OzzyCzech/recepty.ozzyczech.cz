@@ -8,7 +8,6 @@ import {markdown, renderer} from '@sphido/markdown';
 import meta from '@sphido/meta';
 import {copy, outputFile} from 'fs-extra';
 import globby from 'globby';
-import getPageHtml from './src/page'
 import {link} from '@sphido/link';
 
 const domain = new URL(process.env.NODE_ENV || 'production' === 'development' ? 'http://localhost:5000/' : 'https://recepty.ozzyczech.cz/');
@@ -33,6 +32,51 @@ renderer(
 		}
 	}
 );
+
+const getPageHtml = (page) => `<!DOCTYPE html>
+<html lang="cs" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<link rel="shortcut icon" href="/favicon.svg"/>
+
+	<!-- Google Fonts -->
+	<link href="//fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet"/>
+
+	<!-- Boostrap 5 -->
+	<link rel="stylesheet" href="//stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+	<script src="//cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+	<script src="//stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>	
+
+	<!-- Fuse.js -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
+
+	<script src="/search.js"></script>
+	<title>${page.title}</title>
+	
+	<style type="text/css">
+	body {
+		font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+		color: #fff;
+		background: #242222;
+	}
+
+	h1, h2, h3, h4, h5 {
+		font-weight: 700;
+	}
+	</style>	
+</head>
+<body>
+	<div class="container-fluid col-lg-4 offset-lg-4">
+		<header class="my-3 d-print-none">
+			<input type="search" class="form-control" id="q" placeholder="Vyhledej recept">
+		</header>
+		<main><article>${page.content}</article></main>
+	</div>
+</body>
+</html>`;
+
 
 (async () => {
 	try {
@@ -64,7 +108,7 @@ renderer(
 
 		// index.json for https://fusejs.io/
 		await outputFile('public/index.json', JSON.stringify(
-			pages.map(
+			pages.filter((page) => page.ext === '.md').map(
 				page => ({
 					title: page.title,
 					content: page.content.replace(/(<([^>]+)>)/ig, ''),
@@ -75,7 +119,7 @@ renderer(
 		));
 
 
-		const files = await globby(['static/**/*.*', 'recepty/**/*.*', '!**/*.{md,html}']);
+		const files = await globby(['recepty/**/*.*', '!**/*.md', '!**/index.html']);
 		for await (const file of files) {
 			await copy(file, file.replace(/^\w+/, 'public'));
 		}

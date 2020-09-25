@@ -1,7 +1,6 @@
 ---
 title: Bábovka s jablky
 tags: [Recepty, Pečení]
-date: 2000-01-01
 ---
 
 # Bábovka s jablky

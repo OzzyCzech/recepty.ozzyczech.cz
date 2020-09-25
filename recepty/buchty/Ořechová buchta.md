@@ -1,7 +1,6 @@
 ---
 title: Ořechová buchta
 tags: [Recepty, Pečení]
-date: 2000-01-01
 ---
 
 # Ořechová buchta

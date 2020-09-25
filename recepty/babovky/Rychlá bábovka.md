@@ -1,7 +1,6 @@
 ---
 title: Rychlá Bábovka
 tags: [Recepty, Pečení]
-date: 2000-01-01
 ---
 
 # Rychlá Bábovka

@@ -1,7 +1,6 @@
 ---
 title: Kynutý jahodový koláč
 tags: [Recepty, Pečení]
-date: 2000-01-01
 ---
 
 # Kynutý jahodový koláč

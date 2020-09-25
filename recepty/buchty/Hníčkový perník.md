@@ -1,7 +1,6 @@
 ---
 title: Hrníčkový perník
 tags: [Recepty, Pečení]
-date: 2000-01-01
 ---
 
 # Hrníčkový perník

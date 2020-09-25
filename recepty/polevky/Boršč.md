@@ -1,7 +1,6 @@
 ---
 title: Boršč
 tags: [Recepty, Polévky]
-date: 2000-01-01
 ---
 
 # Boršč

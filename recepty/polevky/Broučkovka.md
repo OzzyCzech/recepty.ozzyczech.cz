@@ -1,7 +1,6 @@
 ---
 title: Broučkovka - Valašská Kyselica
 tags: [Recepty, Polévky]
-date: 2000-01-01
 ---
 
 # Broučkovka - Valašská Kyselica

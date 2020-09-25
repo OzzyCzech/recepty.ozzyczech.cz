@@ -1,7 +1,6 @@
 ---
 title: Bábovka s mákem
 tags: [Recepty, Pečení]
-date: 2020-03-16
 ---
 
 # Bábovka s mákem

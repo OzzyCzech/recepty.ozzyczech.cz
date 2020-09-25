@@ -1,7 +1,6 @@
 ---
 title: Bramborové knedlíky
 tags: [Recepty, Vaření]
-date: 2000-01-01
 ---
 
 # Bramborové knedlíky

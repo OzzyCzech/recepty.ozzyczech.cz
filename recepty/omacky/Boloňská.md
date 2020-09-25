@@ -1,7 +1,6 @@
 ---
 title: Boloňská omáčka
 tags: [Recepty, Omáčky]
-date: 2000-01-01
 ---
 
 # Boloňská omáčka

@@ -1,7 +1,6 @@
 ---
 title: Okurky od Dr. Bubenče
 tags: [Recepty, Zavařování]
-date: 2000-01-01
 ---
 
 # 🥒 Okurky od Dr. Bubenče

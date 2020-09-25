@@ -1,7 +1,6 @@
 ---
 title: Buchtičky s krémem
 tags: [Recepty]
-date: 2000-01-01
 ---
 
 # Buchtičky s krémem
@@ -16,12 +15,10 @@ date: 2000-01-01
 * 100 ml oleje
 * rozpuštěné máslo na vymazání plechu a potření buchtiček
 
-Připravíme kvásek a následně těsto. Těsto necháme 45 minut kynout.
-Vyválíme cca 4 válečky. Krájíme a pokládáme těsně vedle sebe na
-máslem vymazaný pekáč. Každou buchtičku důkladně potřete
-rozpuštěným máslem. Pečema na  180 °C cca 20-30 minut dozlatova.
+Připravíme kvásek a následně těsto. Těsto necháme 45 minut kynout. Vyválíme cca 4 válečky. Krájíme a pokládáme těsně vedle sebe na
+máslem vymazaný pekáč. Každou buchtičku důkladně potřete rozpuštěným máslem. Pečema na  180 °C cca 20-30 minut dozlatova.
 
-Na žloutkový krém:
+#### Na žloutkový krém:
 
 * na špičku nože vydlabané vanilky
 * 750 ml plnotučného mléka
@@ -30,6 +27,5 @@ Na žloutkový krém:
 * 1–2 lžíce  <abbr title="Kukuřičný škrob">maizeny</abbr>
 * 6 žloutků
 
-Svařte mléko, polovinu cukru, maizenu a vanilková zrnka.
-Směs nechtě 15 minut odpočívat. Následně ve vodní do horkého
-mléka zašleháme žloutky.
+Svařte mléko, polovinu cukru, maizenu a vanilková zrnka. Směs nechtě 15 minut odpočívat. Následně ve vodní do horkého mléka zašleháme žloutky.
+
