@@ -58,6 +58,7 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 	<style type="text/css">
 	body {
 		font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+		font-size: 1.2rem;
 	}
 	h1, h2, h3, h4, h5 {
 		font-weight: 700;
