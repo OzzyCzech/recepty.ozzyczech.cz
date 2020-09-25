@@ -1,5 +1,5 @@
 ---
-title: Boloňská omáčka
+title: 🍝 Boloňská omáčka
 tags: [Recepty, Omáčky]
 ---
 
