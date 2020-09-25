@@ -11,7 +11,7 @@ import globby from 'globby';
 import getPageHtml from './src/page'
 import {link} from '@sphido/link';
 
-const domain = new URL(process.env.NODE_ENV || 'development' === 'development' ? 'http://localhost:5000/' : 'https://recepty.ozzyczech.cz/');
+const domain = new URL(process.env.NODE_ENV || 'production' === 'development' ? 'http://localhost:5000/' : 'https://recepty.ozzyczech.cz/');
 
 renderer(
 	{
