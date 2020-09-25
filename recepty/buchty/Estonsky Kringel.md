@@ -5,7 +5,7 @@ tags: [Recepty, Pečení]
 
 # Estonský kringel
 
-Recept na těsto
+#### Recept na těsto
 
 * 300g hladké mouky
 * špetka soli

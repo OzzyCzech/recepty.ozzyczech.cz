@@ -30,11 +30,11 @@ document.onreadystatechange = function () {
 				if (q.value.length === 0 || results.length === 0) {
 					main.innerHTML = '';
 				} else {
-					main.innerHTML = '<h1 class="h3">Search results:</h1>';
+					main.innerHTML = '';
 				}
 
 				main.insertAdjacentHTML("beforeend", `<article class="list-group">` +
-					results.map((page) => `<a class="list-group-item list-group-item-action bg-dark border-secondary text-white display-6" href="${page.link}">${page.title}</a>`).join('')
+					results.map((page) => `<a class="list-group-item list-group-item-action border text-dark rounded-sm mb-2" href="${page.link}">${page.title}</a>`).join('')
 					+ `</article>`);
 
 				event.preventDefault();
