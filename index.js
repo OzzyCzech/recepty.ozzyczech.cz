@@ -67,7 +67,7 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 	}
 	</style>	
 </head>
-<body>
+<body class="bg-dark ">
 	<div class="container-fluid col-lg-4 offset-lg-4">
 		<header class="my-3 d-print-none">
 			<input type="search" class="form-control" id="q" placeholder="Vyhledej recept">
