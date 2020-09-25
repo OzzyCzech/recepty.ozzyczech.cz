@@ -1,5 +1,5 @@
 ---
-title: Okurky od Dr. Bubenče
+title: 🥒 Okurky od Dr. Bubenče
 tags: [Recepty, Zavařování]
 ---
 
