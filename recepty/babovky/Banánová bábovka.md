@@ -1,6 +1,6 @@
 ---
 title: 🍌 Banánová bábovka
-tags: [Recepty, Pečení]
+tags: [Recepty, Pečení, Bábovka]
 ---
 
 # Banánová bábovka

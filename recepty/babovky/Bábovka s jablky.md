@@ -1,6 +1,6 @@
 ---
 title: Bábovka s jablky
-tags: [Recepty, Pečení]
+tags: [Recepty, Pečení, Bábovka]
 ---
 
 # Bábovka s jablky
