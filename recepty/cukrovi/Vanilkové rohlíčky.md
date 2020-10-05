@@ -1,6 +1,6 @@
 ---
 title: Vanilkové rohlíčky
-tags: [Recepty, Cukroví]
+tags: [Cukroví]
 ---
 
 # Vanilkové rohlíčky

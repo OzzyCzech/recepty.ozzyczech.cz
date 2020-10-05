@@ -1,6 +1,6 @@
 ---
 title: Kari
-tags: [Recepty, Vaření]
+tags: [Vaření]
 ---
 
 # Kari

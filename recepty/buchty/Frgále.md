@@ -1,6 +1,6 @@
 ---
 title: Valašské Frgále
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Valašské Frgále

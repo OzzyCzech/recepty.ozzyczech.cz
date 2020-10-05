@@ -1,6 +1,6 @@
 ---
 title: Nakládaný hermelín
-tags: [Recepty, Hermelín]
+tags: [Hermelín]
 ---
 
 # Nakládaný hermelín

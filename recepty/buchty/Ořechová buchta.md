@@ -1,6 +1,6 @@
 ---
 title: Ořechová buchta
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Ořechová buchta

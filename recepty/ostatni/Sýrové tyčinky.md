@@ -1,6 +1,6 @@
 ---
 title: Sýrové tyčinky
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Sýrové tyčinky

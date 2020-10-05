@@ -1,6 +1,6 @@
 ---
 title: Bramborová buchta
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Bramborová buchta

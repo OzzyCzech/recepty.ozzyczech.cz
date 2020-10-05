@@ -1,6 +1,6 @@
 ---
 title: Bramborové knedlíky
-tags: [Recepty, Vaření]
+tags: [Vaření]
 ---
 
 # Bramborové knedlíky

@@ -1,6 +1,6 @@
 ---
 title: Hrníčkový perník
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Hrníčkový perník

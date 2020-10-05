@@ -1,6 +1,6 @@
 ---
 title: Perníčky
-tags: [Recepty, Cukroví]
+tags: [Cukroví]
 ---
 
 # Perníčky

@@ -1,6 +1,6 @@
 ---
 title: 🍎 Jablkové muffiny
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Jablkové muffiny

@@ -1,6 +1,6 @@
 ---
 title: Švestková kynutá buchta
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Švestková kynutá buchta (na dva plechy)

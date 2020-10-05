@@ -1,6 +1,6 @@
 ---
 title: Boršč
-tags: [Recepty, Polévky]
+tags: [Polévky]
 ---
 
 # Boršč

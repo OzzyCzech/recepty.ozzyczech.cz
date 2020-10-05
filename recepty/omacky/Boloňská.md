@@ -1,6 +1,6 @@
 ---
 title: 🍝 Boloňská omáčka
-tags: [Recepty, Omáčky]
+tags: [Omáčky]
 ---
 
 # Boloňská omáčka

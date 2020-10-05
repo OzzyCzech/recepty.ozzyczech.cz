@@ -1,6 +1,6 @@
 ---
 title: Kynuté knedlíky
-tags: [Recepty, Vaření]
+tags: [Vaření]
 ---
 
 # Kynuté knedlíky

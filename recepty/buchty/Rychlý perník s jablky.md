@@ -1,6 +1,6 @@
 ---
 title: Rychlý perník s jablky
-tags: [Recepty, Pečení]
+tags: [Pečení, Buchty]
 ---
 
 # Rychlý perník s jablky

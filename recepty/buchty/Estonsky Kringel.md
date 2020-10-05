@@ -1,6 +1,6 @@
 ---
 title: Estonský kringel
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Estonský kringel

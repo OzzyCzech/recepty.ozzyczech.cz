@@ -1,6 +1,6 @@
 ---
 title: Jahodová hrníčková bublanina
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Jahodová hrníčková bublanina

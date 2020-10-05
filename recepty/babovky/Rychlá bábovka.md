@@ -1,6 +1,6 @@
 ---
 title: Rychlá Bábovka
-tags: [Recepty, Pečení, Bábovka]
+tags: [Pečení, Bábovka]
 ---
 
 # Rychlá Bábovka

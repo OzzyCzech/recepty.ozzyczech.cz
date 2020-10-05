@@ -1,6 +1,6 @@
 ---
 title: Citronová buchta
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Citronová buchta

@@ -1,6 +1,6 @@
 ---
 title: Bublanina
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Hrníčková bublanina

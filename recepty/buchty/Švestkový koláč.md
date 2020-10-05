@@ -1,6 +1,6 @@
 ---
 title: Švestkový koláč
-tags: [Recepty, Pečení]
+tags: [Pečení]
 ---
 
 # Švestkový koláč

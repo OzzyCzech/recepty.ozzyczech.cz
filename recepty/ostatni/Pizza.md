@@ -1,6 +1,6 @@
 ---
 title: Pizza
-tags: [Recepty, Pečení, Pizza]
+tags: [Pečení, Pizza]
 ---
 
 # Pizza 🍕

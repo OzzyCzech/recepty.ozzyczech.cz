@@ -1,6 +1,6 @@
 ---
 title: 🥒 Okurky od Dr. Bubenče
-tags: [Recepty, Zavařování]
+tags: [Zavařování]
 ---
 
 # 🥒 Okurky od Dr. Bubenče

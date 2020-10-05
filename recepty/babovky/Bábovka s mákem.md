@@ -1,6 +1,6 @@
 ---
 title: Bábovka s mákem
-tags: [Recepty, Pečení, Bábovka]
+tags: [Pečení, Bábovka]
 ---
 
 # Bábovka s mákem

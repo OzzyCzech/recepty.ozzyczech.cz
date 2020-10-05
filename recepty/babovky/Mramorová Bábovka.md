@@ -1,6 +1,6 @@
 ---
 title: Mramorová Bábovka
-tags: [Recepty, Pečení, Bábovka]
+tags: [Pečení, Bábovka]
 ---
 
 # Mramorová Bábovka
