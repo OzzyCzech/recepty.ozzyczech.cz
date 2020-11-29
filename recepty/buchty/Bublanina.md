@@ -8,19 +8,21 @@ tags: [Pečení]
 Promícháme nejprve sypkou část:
 
 * 2 hrnečky polohrubé mouka
-
 * 1 balíček prášek do pečiva
 * 3/4 hrnečku cukr moučka
+* vanilkový cukr
+* citronová kůra
 
 Poté samostatně promícháme tekutou část:
 
 * hrnek mléka
 * 1/2 hrnku oleje nebo rozpuštěného másla
 * 2 ks vejce
+* špetka soli
 
 Následně vše smícháme dohromady a vylejeme na vymazaný plech. Pokladame ovoce a posypeme posypkou z másla, hrubé mouky, cukru.
 
-Peřeme cca 20 - 30 minut na 180 °C
+Pečeme cca 20 - 30 minut na 180 °C
 
 
 <!-- div class="text-center">
