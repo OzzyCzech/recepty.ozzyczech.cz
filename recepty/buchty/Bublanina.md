@@ -7,7 +7,8 @@ tags: [Pečení]
 
 Promícháme nejprve sypkou část:
 
-* 2 hrnečky polohrubé mouka
+* 1 hrnek polohrubé mouka
+* 1 hrnek hladké mouky
 * 1 balíček prášek do pečiva
 * 3/4 hrnečku cukr moučka
 * vanilkový cukr
