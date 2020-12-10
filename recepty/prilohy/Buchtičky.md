@@ -1,6 +1,6 @@
 ---
 title: Buchtičky s krémem
-tags: [Recepty]
+tags: [Buchtičky]
 ---
 
 # Buchtičky s krémem
