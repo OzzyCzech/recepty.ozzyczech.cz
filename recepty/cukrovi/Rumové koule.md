@@ -1,6 +1,6 @@
 ---
 title: Rumové koule
-tags: [Pečení, Cukroví]
+tags: [Pečení, Cukroví, Vánoce]
 ---
 
 # Rumové koule

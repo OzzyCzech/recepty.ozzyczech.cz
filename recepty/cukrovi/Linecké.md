@@ -1,6 +1,6 @@
 ---
 title: Linecké těsto
-tags: [Pečení, Cukroví, Recepty]
+tags: [Pečení, Cukroví]
 ---
 
 # Linecké těsto
@@ -13,4 +13,4 @@ tags: [Pečení, Cukroví, Recepty]
 * Vanilkový cukr
 * sůl (větší špetka)
 
-Vyvylujeme na 7 mm tlusté těsto. Pečeme cca 10-12 minut na 170 - 175 °C
+Vyvylujeme na 7 mm spíš tlustší těsto. Pečeme cca 10-12 minut na 170 - 175 °C
