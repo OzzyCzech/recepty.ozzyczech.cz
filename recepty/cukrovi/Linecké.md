@@ -3,11 +3,14 @@ title: Linecké těsto
 tags: [Pečení, Cukroví, Recepty]
 ---
 
-# Linecké
+# Linecké těsto
 
-* 500 g hladké mouky
-* 250 g másla
+* 300 g hladké mo   uky
+* 200 g studeného másla
 * 100 g cukru moučka
-* Vanilkový cukr / Vanilkový extrakt nebo Vanilka
-* 1 vejce (žloutek)
+* 2 žloutky
 * Citronová kůra 1 citrónu
+* Vanilkový cukr
+* sůl (větší špetka)
+
+Vyvylujeme na 7 mm tlusté těsto. Pečeme cca 10-12 minut na 170 - 175 °C
