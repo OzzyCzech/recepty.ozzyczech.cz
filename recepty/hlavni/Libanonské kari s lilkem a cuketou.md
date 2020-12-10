@@ -1,6 +1,6 @@
 ---
 title: Libanonské kari s lilkem a cuketou
-tags: [Hlavní, Kari]
+tags: [Kari]
 ---
 
 # Libanonské kari s lilkem a cuketou
