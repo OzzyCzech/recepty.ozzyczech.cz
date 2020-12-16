@@ -8,7 +8,7 @@ tags: [Pečení, Cukroví, Vánoce]
 * 250 g másla
 * 350 g hladké mouky
 * 110 g moučkového cukru
-* 120 g nastrouhaných vlašských ořechů
+* 120-150 g nastrouhaných vlašských ořechů
 * vanilkový lusk
 * dva žloutky
 * sůl (dvě špetky)
