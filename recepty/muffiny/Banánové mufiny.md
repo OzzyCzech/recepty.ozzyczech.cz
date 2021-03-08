@@ -5,20 +5,18 @@ tags: [Pečení]
 
 # Banánové mufiny
 
-Na 12 kusů muffinů:
- 
-* 125 g máslo
-* 100 g třtinového cukr krupice (+lžíce medu)
-* 250 g hladká mouka 
-* 1x prášek do pečiva
-* 40 ml mléka
-* 2 ks vejce
+Těsto na 12 kusů muffinů:
+
+* 250 g hladké mouky (na ovocné muffiny dejte 200 g hladké a 50 g polohrubé) popř. špaldové
+* 100 g cukru (s čokoládou uberte, s kyselým ovocem naopak přidejte)
+* špetka soli
+* vanilkový cukr
+* 1x přášek na pečení
+
+* 2 středně velká vejce
+* 200 ml mléka (nebo 200 g jogurtu a trochu mléka)
+* 85 g másla (rozpuštěného a zchladlého)
 * Jeden banán (rozsekaný vidličkou)
 * čokoláda nasekaná
 
-Vylepšení:
-
-* mouka může být 125 g špaldové
-* 125 g pšeničné
-
-Pečeme: 180 stupňů 25 minut v předehřaté troubě.
+Peču při 180°C cca 20-25 minut.
