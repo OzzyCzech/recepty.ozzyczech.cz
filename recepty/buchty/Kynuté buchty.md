@@ -17,7 +17,7 @@ tags: [Pečení]
 
 * 50-75 g rozpuštěného másla na pomazání buchet a pekáče
 
-## Tvarohová náplň
+### Tvarohová náplň
 
 * 500 g tvrhého tvarohu + klasický tvaroh (ne z vaničky)
 * hrst opraných rozinek, mohou být namočené v Rumu
@@ -25,7 +25,7 @@ tags: [Pečení]
 * 3 lžíce cukru
 * 1 vanilkový cukr
 
-## Postup
+### Postup
 
 1. Ohřejte mléko, aby bylo vlažné - přidejte droždí a cukr, nechejte vzejít (10 - 15 min).
 2. Promíchejte prosetou mouku, vanilkový cukr, sůl a citronovou kůru.
