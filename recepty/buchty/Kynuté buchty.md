@@ -14,7 +14,6 @@ tags: [Pečení]
 * 30 g čerstvého droždí
 * 250 ml vlažného mléka
 * 90 g krupicového cukru
-
 * 50-75 g rozpuštěného másla na pomazání buchet a pekáče
 
 ### Tvarohová náplň
