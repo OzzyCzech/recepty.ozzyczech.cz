@@ -38,4 +38,4 @@ tags: [Pečení]
 9. Zapneme troubu a necháme předehřát na 180 °C peřeme prudce 10 minut, porté snížíme teplotu na 150-160 °C a pozvólna dopékáme 40-50 minut
 
 
-![](/buchty/kynute-buchty.jpg#w-50_p-3)
+![](/buchty/kynute-buchty.jpg)
