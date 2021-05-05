@@ -26,10 +26,6 @@ Následně vše smícháme dohromady a vylejeme na vymazaný plech. Pokladame ov
 Pečeme cca 20 - 30 minut na 180 °C
 
 
-<!-- div class="text-center">
-
-<a href="/buchty/bublanina-one.jpg"><img src="/buchty/bublanina-one.jpg" class="img-thumbnail m-1" width="200"></a>
-<a href="/buchty/bublanina-two.jpg"><img src="/buchty/bublanina-two.jpg" class="img-thumbnail m-1" width="200"></a>
-<a href="/buchty/bublanina-three.jpg"><img src="/buchty/bublanina-three.jpg" class="img-thumbnail m-1" width="200"></a>
-
-</div -->
+![Bublanina](/buchty/bublanina-one.jpg)
+![Bublanina](/buchty/bublanina-two.jpg)
+![Bublanina](/buchty/bublanina-three.jpg)

@@ -2,10 +2,10 @@
 
 import {join} from 'path';
 import {getPages} from '@sphido/core';
-import frontmatter from '@sphido/frontmatter';
-import twemoji from '@sphido/twemoji';
+import {frontmatter} from '@sphido/frontmatter';
+import {emoji} from '@sphido/emoji';
 import {markdown, renderer} from '@sphido/markdown';
-import meta from '@sphido/meta';
+import {meta} from '@sphido/meta';
 import {copy, outputFile} from 'fs-extra';
 import globby from 'globby';
 import {link} from '@sphido/link';
@@ -98,7 +98,7 @@ const getPageHtml = (page) => `<!DOCTYPE html>
 			await globby(['recepty/**/*.{md,html}']),
 			...[
 				frontmatter,
-				twemoji,
+				emoji,
 				markdown,
 				meta,
 				{link}
