@@ -12,7 +12,7 @@
 		"dev": "watch './index.js' ./content | serve public"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.13.8",
+		"@babel/core": "^7.14.3",
 		"serve": "^11.3.2",
 		"watch": "^1.0.2"
 	},
