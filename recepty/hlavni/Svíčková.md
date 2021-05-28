@@ -17,4 +17,4 @@ tags: [Hovězí, Omáčky]
 Uvařenou zeleninu propasírujeme a promixujeme. Popřípadě zahustíme moukou z vodou.
 Dle chuti cukr, sůl, citronová šťáva.
 
-https://www.youtube.com/watch?v=3fSJsTOQsjs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fSJsTOQsjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
