@@ -1,5 +1,5 @@
 ---
-title: Svíčková
+title: Svíčková na smetaně
 tags: [Hovězí, Omáčky]
 ---
 
