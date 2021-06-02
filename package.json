@@ -17,12 +17,12 @@
 		"watch": "^1.0.2"
 	},
 	"dependencies": {
-		"@sphido/core": "^1.0.5",
-		"@sphido/emoji": "^1.0.8",
-		"@sphido/frontmatter": "^1.0.4",
-		"@sphido/link": "^1.0.4",
-		"@sphido/markdown": "^1.0.4",
-		"@sphido/meta": "^1.0.4",
+		"@sphido/core": "^1.0.6",
+		"@sphido/emoji": "^1.0.9",
+		"@sphido/frontmatter": "^1.0.5",
+		"@sphido/link": "^1.0.5",
+		"@sphido/markdown": "^1.0.5",
+		"@sphido/meta": "^1.0.5",
 		"fs-extra": "^10.0.0",
 		"globby": "^11.0.3"
 	}

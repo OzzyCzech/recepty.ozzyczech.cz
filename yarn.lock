@@ -259,61 +259,61 @@
     "@nodelib/fs.scandir" "2.1.3"
     fastq "^1.6.0"
 
-"@sindresorhus/slugify@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/slugify/-/slugify-1.0.0.tgz#db6a4df1935cf6c331303ce82021df361ff52348"
-  integrity sha512-g3L0EoNpi2rT/uiOO6BUqbqXZ9mPR+LCl6yZsTDd8K/PeX+Bui5npU+mY0sME+Mc96bW/32kfDhmccPLMK/7pQ==
+"@sindresorhus/slugify@^2.1.0":
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/slugify/-/slugify-2.1.0.tgz#1e252117008cd1121e4cdea9fc67767dd1653d25"
+  integrity sha512-gU3Gdm/V167BmUwIn8APHZ3SeeRVRUSOdXxnt7Q/JkUHLXaaTA/prYmoRumwsSitJZWUDYMzDWdWgrOdvE8IRQ==
   dependencies:
-    "@sindresorhus/transliterate" "^0.1.0"
-    escape-string-regexp "^4.0.0"
+    "@sindresorhus/transliterate" "^1.0.0"
+    escape-string-regexp "^5.0.0"
 
-"@sindresorhus/transliterate@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@sindresorhus/transliterate/-/transliterate-0.1.0.tgz#c063bfc4102783fb19c91c2f8c1efb3adfb754be"
-  integrity sha512-bO6v0M0EuJPjm5Ntfow4nk+r3EZQ41n0ahvAmh766FzPqlm6V/2uDc01vZI3gLeI/1lgV2BTMb6QvxOk9z73ng==
+"@sindresorhus/transliterate@^1.0.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@sindresorhus/transliterate/-/transliterate-1.2.0.tgz#6ac0975dbd2afb8117450f68e1a5a3a7469927a5"
+  integrity sha512-HNiwJoCIYsz7pg17Vzo7Pn+UeKhVsCAzv+zJ9iHz5UV4lsa8b/q6UFFMeI+WShWhlvSYZabZidUO0B+eRKxyTQ==
   dependencies:
-    escape-string-regexp "^2.0.0"
+    escape-string-regexp "^5.0.0"
     lodash.deburr "^4.1.0"
 
-"@sphido/core@^1.0.5":
+"@sphido/core@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@sphido/core/-/core-1.0.6.tgz#a953671de1393633e3f178e3683a803a53bbc112"
+  integrity sha512-yFd679SwfvdIPe+6jmkZKWas7VbAHKLG/t8kMexFq6coLWQeFq+VPXef8NLEnSWwm0aBvt/47Ebj7LWHQvZCKQ==
+
+"@sphido/emoji@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@sphido/emoji/-/emoji-1.0.9.tgz#98ff91780db5d67ad111853d40fc57baf73d763d"
+  integrity sha512-c/LsI+U1S7MpIzBqlyZFtHU0yJ3A4LARGNdvZnV96xjaXVdztZy4t+/v+j9eoSdhyvbxDpG5Snkk/P098W9oAw==
+  dependencies:
+    twemoji "^13.1.0"
+
+"@sphido/frontmatter@^1.0.5":
   version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@sphido/core/-/core-1.0.5.tgz#416a2eedacffe016fd202c03e38f870196178bfc"
-  integrity sha512-Z/edZ4TezpAxulsf2Gtg9N6fZ4yap6CMUqXJtqw6SqjAVnm+MXBQu/yZdN54llTCsSX74+Js0I+ZruWshBaM3Q==
-
-"@sphido/emoji@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@sphido/emoji/-/emoji-1.0.8.tgz#4829e2e37cccd0716acfd1d79972c256e146f295"
-  integrity sha512-9Zb41Ik2ou4iTeOH52hR5pKNQwlqcfhvEGIVXzavlKu79qF/cxT7YKHrq9Ofx+r7Bxhze/1CUbmqEbEf0xP/8w==
+  resolved "https://registry.yarnpkg.com/@sphido/frontmatter/-/frontmatter-1.0.5.tgz#7f7e8b552d4eb28d137aa1a2752a95e23f811bc2"
+  integrity sha512-9S86YvIuA9D3isWnydSp0JOIBGK7sN38TZ7F58mlT9qzZ2K7MAocVgNSzUB/HTKF0km5ynMzSYsJMA55IMWJjA==
   dependencies:
-    twemoji "^13.0.2"
+    js-yaml "^4.1.0"
 
-"@sphido/frontmatter@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@sphido/frontmatter/-/frontmatter-1.0.4.tgz#67c91c7d222f7c6a4c8debc12cf0cc3ad3eb5173"
-  integrity sha512-I2CaLc6SYVnn3dSUZIK2O43lAKtMNEf4lI0s6Tx3K0ZFd4nFo9pfcxfTJjGKVdnfZr7fpujaB+f9tmoxWYtJZQ==
+"@sphido/link@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@sphido/link/-/link-1.0.5.tgz#949e21e5df077fc4fec9eb0575574c3c9b04ed90"
+  integrity sha512-W81R3PqGx8rre1Egq+G7hANZfjxjsbzFgoDO1gUvyIfwoTEsOE3BC0puS+g5HKZU/Px96XLlROxAa79S8Ou2jQ==
   dependencies:
-    js-yaml "^4.0.0"
+    marked "^2.0.7"
 
-"@sphido/link@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@sphido/link/-/link-1.0.4.tgz#624ccdba2c71d92934a8cd5c006eb1d8f2b7ea11"
-  integrity sha512-PD6g1zGDPpXFDvrbevO0aVJlXgPVcz2DNzjHhiVKIQDFEfdRtgoBAkY/+gmegECw/R5HsxOZxCqY6VJfPlrQGQ==
+"@sphido/markdown@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@sphido/markdown/-/markdown-1.0.5.tgz#41c1023f9528fdd923c7a17f2bb5df5340d3df82"
+  integrity sha512-99sXR276IBA8n5jmX98NCzSmUIAm6plK0QrNultFo0ESIZS67WabN9Ha/c/8dwhkKrtV4KVnK05b3EvN4ZHxGg==
   dependencies:
-    marked "^2.0.3"
+    marked "^2.0.7"
 
-"@sphido/markdown@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@sphido/markdown/-/markdown-1.0.4.tgz#5312f482632e7b2f76a57311f118301d86506708"
-  integrity sha512-E7jPxUWAxMDe6xMeof/NUhNRGbrRXTHxNgUeOwsAHeZ1IzcA4olrbeqDOyUw4y8QNfcMCk3jxk62PIFMw1HwDg==
+"@sphido/meta@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@sphido/meta/-/meta-1.0.5.tgz#caae39515fa68a300346b1b16b55559c87736c22"
+  integrity sha512-kxbDNqEFNXBo5oNlGA9NnkMBq+/Ak0m6R2gKvAF0Rt9FbYYh84u1xhdUuRk8cvxS4vs1/rEZsv20S3m3voUK5A==
   dependencies:
-    marked "^2.0.3"
-
-"@sphido/meta@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@sphido/meta/-/meta-1.0.4.tgz#5f5cb8a83f95b5461e2f8015c6ecdb04a1ab0116"
-  integrity sha512-/AjwWzfyQsEoP5sdFmoAKB192+3qgqVUNbH3qbm1iyqNFtF1AXx3zVN58uiDwacN0mZCvM8XflZe+03x2W2sWg==
-  dependencies:
-    "@sindresorhus/slugify" "^1.0.0"
+    "@sindresorhus/slugify" "^2.1.0"
 
 "@zeit/schemas@2.6.0":
   version "2.6.0"
@@ -571,15 +571,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-escape-string-regexp@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
-  integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
-
-escape-string-regexp@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
-  integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
+escape-string-regexp@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-5.0.0.tgz#4683126b500b61762f2dbebace1806e8be31b1c8"
+  integrity sha512-/veY75JbMK4j1yjvuUxuVsiS/hr/4iHs9FTT6cgTexxdE0Ly/glccBAkloH/DofkjRbZU3bnoj38mOmhkZ0lHw==
 
 exec-sh@^0.2.0:
   version "0.2.2"
@@ -766,7 +761,7 @@ js-tokens@^4.0.0:
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
-js-yaml@^4.0.0:
+js-yaml@^4.1.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
@@ -828,10 +823,10 @@ lru-cache@^4.0.1:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
 
-marked@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.3.tgz#3551c4958c4da36897bda2a16812ef1399c8d6b0"
-  integrity sha512-5otztIIcJfPc2qGTN8cVtOJEjNJZ0jwa46INMagrYfk0EvqtRuEHLsEe0LrFS0/q+ZRKT0+kXK7P2T1AN5lWRA==
+marked@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-2.0.7.tgz#bc5b857a09071b48ce82a1f7304913a993d4b7d1"
+  integrity sha512-BJXxkuIfJchcXOJWTT2DOL+yFWifFv2yGYOUzvXg8Qz610QKw+sHCvTMYwA+qWGhlA2uivBezChZ/pBy1tWdkQ==
 
 merge2@^1.3.0:
   version "1.3.0"
@@ -1126,19 +1121,19 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-twemoji-parser@13.0.0:
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/twemoji-parser/-/twemoji-parser-13.0.0.tgz#bd9d1b98474f1651dc174696b45cabefdfa405af"
-  integrity sha512-zMaGdskpH8yKjT2RSE/HwE340R4Fm+fbie4AaqjDa4H/l07YUmAvxkSfNl6awVWNRRQ0zdzLQ8SAJZuY5MgstQ==
+twemoji-parser@13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/twemoji-parser/-/twemoji-parser-13.1.0.tgz#65e7e449c59258791b22ac0b37077349127e3ea4"
+  integrity sha512-AQOzLJpYlpWMy8n+0ATyKKZzWlZBJN+G0C+5lhX7Ftc2PeEVdUU/7ns2Pn2vVje26AIZ/OHwFoUbdv6YYD/wGg==
 
-twemoji@^13.0.2:
-  version "13.0.2"
-  resolved "https://registry.yarnpkg.com/twemoji/-/twemoji-13.0.2.tgz#e7ee8d26fd0ccc23a0afe68c7b7e61bd8d14ad24"
-  integrity sha512-R9tDS4pEVczjVYM5SvoAJ0AcZ4EgG1h3yw1oi1m/yrXOH17OOjaaRxZU4r5TIHEy3xYbuZQLB/tJZyC6rpQVmA==
+twemoji@^13.1.0:
+  version "13.1.0"
+  resolved "https://registry.yarnpkg.com/twemoji/-/twemoji-13.1.0.tgz#65bb71e966dae56f0d42c30176f04cbdae109913"
+  integrity sha512-e3fZRl2S9UQQdBFLYXtTBT6o4vidJMnpWUAhJA+yLGR+kaUTZAt3PixC0cGvvxWSuq2MSz/o0rJraOXrWw/4Ew==
   dependencies:
     fs-extra "^8.0.1"
     jsonfile "^5.0.0"
-    twemoji-parser "13.0.0"
+    twemoji-parser "13.1.0"
     universalify "^0.1.2"
 
 universalify@^0.1.0, universalify@^0.1.2:
