@@ -12,18 +12,18 @@
 		"dev": "watch './index.js' ./content | serve public"
 	},
 	"devDependencies": {
-		"@babel/core": "^7.14.3",
-		"serve": "^11.3.2",
+		"@babel/core": "^7.16.0",
+		"serve": "^13.0.2",
 		"watch": "^1.0.2"
 	},
 	"dependencies": {
-		"@sphido/core": "^1.0.6",
-		"@sphido/emoji": "^1.0.9",
-		"@sphido/frontmatter": "^1.0.5",
-		"@sphido/link": "^1.0.5",
-		"@sphido/markdown": "^1.0.5",
-		"@sphido/meta": "^1.0.5",
+		"@sphido/core": "^1.0.8",
+		"@sphido/emoji": "^1.0.10",
+		"@sphido/frontmatter": "^1.0.7",
+		"@sphido/link": "^1.0.11",
+		"@sphido/markdown": "^1.0.11",
+		"@sphido/meta": "^1.0.7",
 		"fs-extra": "^10.0.0",
-		"globby": "^11.0.3"
+		"globby": "^12.0.2"
 	}
 }
