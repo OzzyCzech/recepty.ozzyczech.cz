@@ -16,4 +16,6 @@ tags: [Vánoce]
 Postup: Do větší porcelánové misky dejte žloutky s moučkovým cukrem a vyškrabanými 
 semínky z vanilkového lusku. Vyšlehejte do pěny, potom přilijte smetanu a 
 důkladně promíchejte – ale už nešlehejte. Na závěr přilijte všechny 
-tři druhy alkoholu. Opatrně promíchejte a přelijte do připravené čisté lahve. Pevně uzavřete a uložte do chladničky. Nechte odpočinout zhruba tři týdny. Před podáváním nechte zahřát při pokojové teplotě, nepije se chlazený.
+tři druhy alkoholu. Opatrně promíchejte a přelijte do připravené čisté lahve.
+Pevně uzavřete a uložte do chladničky. Nechte odpočinout zhruba tři týdny.
+Před podáváním nechte zahřát při pokojové teplotě, nepije se chlazený.
