@@ -7,7 +7,7 @@ import {emoji} from '@sphido/emoji';
 import {markdown, renderer} from '@sphido/markdown';
 import {meta} from '@sphido/meta';
 import {copy, outputFile} from 'fs-extra';
-import globby from 'globby';
+import {globby} from 'globby';
 import {link} from '@sphido/link';
 
 const domain = new URL(process.env.NODE_ENV || 'production' === 'development' ? 'http://localhost:5000/' : 'https://recepty.ozzyczech.cz/');
