@@ -3,7 +3,7 @@ title: Švestkový koláč
 tags: [Pečení]
 ---
 
-# Švestkový koláč
+# Švestkový koláč (nezkoušeno)
 
 * 450 g švestek
 * 170-180 g mouky

@@ -32,3 +32,6 @@ Vymazaný plech vymažeme máslem a vysypeme hladkou moukou. Roztáhneme těsto 
 - poklademe švestkami, posypeme drobenkou a necháme ještě 20 minut odpočinout.
 
 Pečeme na 180°C cca 35-40 minut
+
+
+Zdroj: https://www.kucharkaprodceru.cz/svestkovy-kolac/
