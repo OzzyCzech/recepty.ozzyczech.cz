@@ -1,29 +1,34 @@
 ---
-title: Švestková kynutá buchta
+title: Kynutý švestkový koláč s drobenkou
 tags: [Pečení]
 ---
 
-# Švestková kynutá buchta (na dva plechy)
+# Kynutý švestkový koláč s drobenkou
 
-* 100 g másla
-* 2 lžíce oleje
-* 2 lžíce sádla
-* 250 ml mléka
-* 2 vejce
-* 4 lžíce rumu
-* 400 g hladké mouky
-* 200 g polohrubé mouky
-* 2 vrchovaté lžíce moučkového cukru
-* 0,5 lžičky soli
-* 30 g čerstvého droždí
+* 500 g hladké mouky (nebo směs 300 g hladké 200 g polohrubé)
+* 200 ml mléka
+* 200 g jemného pískového cukru
+* 2 vajíčka
+* 30 g droždí (nevažte, odhadem odkrojte tři čtvrtiny ze dvaačtyřicetigramové kostky)
+* 100 g rozpuštěného másla
+* špetka soli
+* 45 švestek (1,5 kg)
 
-Droždí smícháme s mlékem (ohrátým na cca 40 stupňů) a lžičkou cukru a necháme vzejít kvásek. Smícháme mouku, 
-rozpuštěné máslo a sádlo s olejem, vajíčky atd. závěrem přidáme kvasek. Hotové těsto necháme hodinu kynout 
+Droždí smícháme s mlékem (ohrátým na cca 30 stupňů) a lžičkou cukru. Necháme vzejít kvásek. Smícháme mouku, 
+rozpuštěné máslo a sádlo s olejem, vajíčky atd. závěrem přidáme kvasek. Hotové těsto necháme cca hodinu kynout 
 (zakryté ideálně potravinovou fólii s dostatkem vzduchu).
 
-Očistíme s napůlíme švestky (cca 1 kg).
+### Drobenka
+
+* 50 g másla
+* 30 g moučkového
+* 20 g hnědého cukr krystalu
+* 1/2 lžičky mleté skořice
+* hrubá mouka
+
+Očistíme s napůlíme švestky (cca 1 kg) a hustě poklademe celý povrch koláče. Zasypeme drobenkou
 
 Vymazaný plech vymažeme máslem a vysypeme hladkou moukou. Roztáhneme těsto po celém plechu 
 - poklademe švestkami, posypeme drobenkou a necháme ještě 20 minut odpočinout.
 
-Pečeme na 180 cca 20 minut
+Pečeme na 180°C cca 35-40 minut

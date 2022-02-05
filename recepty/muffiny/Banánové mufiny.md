@@ -1,6 +1,6 @@
 ---
 title: 🍌 Banánové mufiny
-tags: [Pečení]
+tags: [Pečení, Muffiny]
 ---
 
 # Banánové mufiny
