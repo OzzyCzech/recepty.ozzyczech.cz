@@ -1,9 +1,9 @@
 ---
-title: Kynuté buchty
+title: Kynuté Honzovi buchty
 tags: [Pečení]
 ---
 
-# Kynuté buchty
+# Kynuté Honzovi buchty
 
 * 400 g hladké mouky + 100 g špaldové mouky
 * 1/2 lžičky (opravdu velká špetka) soli
