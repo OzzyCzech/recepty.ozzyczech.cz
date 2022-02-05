@@ -12,6 +12,8 @@ tags: [Pečení]
 * 30 g droždí (nevažte, odhadem odkrojte tři čtvrtiny ze dvaačtyřicetigramové kostky)
 * 100 g rozpuštěného másla
 * špetka soli
+* vanilkový cukr
+* citronová kůra
 * 45 švestek (1,5 kg)
 
 Droždí smícháme s mlékem (ohrátým na cca 30 stupňů) a lžičkou cukru. Necháme vzejít kvásek. Smícháme mouku, 
