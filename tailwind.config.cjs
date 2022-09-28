@@ -6,6 +6,11 @@ module.exports = {
 	darkMode: 'class', // or 'media' or 'class'
 	theme: {
 		container: {center: true, padding: '1rem'},
+		extend: {
+			screens: {
+				'print': {'raw': 'print'},
+			},
+		},
 	},
 	plugins: [
 		require('@tailwindcss/typography'),
