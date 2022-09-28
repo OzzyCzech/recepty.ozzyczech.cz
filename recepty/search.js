@@ -1,53 +1,25 @@
-// https://fusejs.io/ search
+import {NinjaKeys} from 'https://esm.run/ninja-keys';
+import pages from './pages.json' assert {type: 'json'};
 
-document.onreadystatechange = function () {
-	if (document.readyState == 'complete') {
+const ninja = document.querySelector('ninja-keys');
 
-		(async () => {
-			const response = await fetch('/index.json');
-			const index = await response.json();
+const data = [];
 
-			const fuse = new Fuse(index, {
-				shouldSort: true,
-				findAllMatches: true,
-				threshold: 0.5,
-				location: 0,
-				distance: 100,
-				maxPatternLength: 32,
-				minMatchCharLength: 1,
-				keys: [
-					{name: "title", weight: 0.8},
-					{name: "tags", weight: 0.6},
-					{name: "content", weight: 0.3}
-				]
-			});
+ninja.data = pages.map(
+	(page) => {
+		return {
+			id: page.id,
+			title: (page.title || page.id),
+			url: page.url,
 
-			const q = document.getElementById('q');
-			const main = document.getElementsByTagName("main")[0];
+			handler: (page) => {
+				window.location.href = page.url
+			},
+		}
+	},
+);
 
-			const search = (event) => {
-				let results = fuse.search(q.value);
-				if (q.value.length === 0 || results.length === 0) {
-					main.innerHTML = '';
-				} else {
-					main.innerHTML = '';
-				}
-
-				main.insertAdjacentHTML("beforeend", `<article class="list-group">` +
-					results.map((page) => `<a class="list-group-item list-group-item-action border text-dark rounded-sm mb-2" href="${page.link}">${page.title}</a>`).join('')
-					+ `</article>`);
-
-				event.preventDefault();
-			};
-
-
-			['keyup', 'change'].forEach((e) => {
-				q.addEventListener(e, (event) => {
-					search(event)
-				}, false)
-			});
-
-		})();
-
-	}
-};
+const button = document.querySelector('button');
+button.addEventListener('click', () => {
+	ninja.open();
+});

@@ -1,8 +1,3 @@
----
-title: Tuňáková pomazánka
-tags: [Pomazánky]
----
-
 ## Tuňáková pomazánka
 
 * 1x konzerva tuňák ve vlastní štávě

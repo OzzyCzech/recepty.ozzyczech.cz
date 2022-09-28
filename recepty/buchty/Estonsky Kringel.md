@@ -1,8 +1,3 @@
----
-title: Estonský kringel
-tags: [Pečení]
----
-
 # Estonský kringel
 
 #### Recept na těsto

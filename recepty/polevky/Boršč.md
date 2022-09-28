@@ -1,8 +1,3 @@
----
-title: Boršč
-tags: [Polévky]
----
-
 # Boršč
 
 * 600 g vepřového masa

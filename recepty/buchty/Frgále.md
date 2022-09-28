@@ -1,8 +1,3 @@
----
-title: Valašské Frgále
-tags: [Pečení]
----
-
 # Valašské Frgále
 
 Těsto na čtyři koláče:

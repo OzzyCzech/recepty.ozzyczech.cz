@@ -1,8 +1,3 @@
----
-title: Nakládaný hermelín
-tags: [Hermelín]
----
-
 # Nakládaný hermelín
 
 ## Co budete potřebovat?

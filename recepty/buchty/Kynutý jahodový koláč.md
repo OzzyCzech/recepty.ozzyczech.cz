@@ -1,8 +1,3 @@
----
-title: Kynutý jahodový koláč
-tags: [Pečení]
----
-
 # Kynutý jahodový koláč
 
 * 70 g cukr moučka

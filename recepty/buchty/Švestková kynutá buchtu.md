@@ -1,8 +1,3 @@
----
-title: Kynutý švestkový koláč s drobenkou
-tags: [Pečení]
----
-
 # Kynutý švestkový koláč s drobenkou
 
 * 500 g hladké mouky (nebo směs 300 g hladké 200 g polohrubé)

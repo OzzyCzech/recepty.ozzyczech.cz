@@ -1,7 +1,3 @@
----
-title: Sypaná hrnková buchta s jablky
-tags: [Pečení, Buchty]
----
 # Sypaná hrnková buchta s jablky
 
 Budeme potřebovat:

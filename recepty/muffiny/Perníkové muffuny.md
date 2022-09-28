@@ -1,8 +1,3 @@
----
-title: Perníkové muffuny
-tags: [Pečení, Muffiny]
----
-
 # Perníkové muffiny
 
 * 2 hrnky hladké mouky (nebo směs)

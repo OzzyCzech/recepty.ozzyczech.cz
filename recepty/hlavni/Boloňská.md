@@ -1,8 +1,3 @@
----
-title: 🍝 Boloňská omáčka
-tags: [Omáčky]
----
-
 # Boloňská omáčka
 
 * olivový olej

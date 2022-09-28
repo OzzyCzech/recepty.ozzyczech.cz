@@ -1,8 +1,3 @@
----
-title: Citronová buchta
-tags: [Pečení]
----
-
 # Citronová buchta
 
 * 250 g měkký tvaroh 

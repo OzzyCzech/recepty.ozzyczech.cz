@@ -1,8 +1,3 @@
----
-title: Papriková pomazánka
-tags: [Pomazánky]
----
-
 ## Papriková pomazánka
 
 * červená paprika (ne kapie)

@@ -1,8 +1,3 @@
----
-title: Rychlá Bábovka
-tags: [Pečení, Bábovka]
----
-
 # Rychlá Bábovka
 
 * 2 hrnek polohrubá mouka

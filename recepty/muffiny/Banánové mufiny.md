@@ -1,8 +1,3 @@
----
-title: 🍌 Banánové mufiny
-tags: [Pečení, Muffiny]
----
-
 # Banánové mufiny
 
 Těsto na 12 kusů muffinů:

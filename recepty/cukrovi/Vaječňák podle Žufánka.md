@@ -1,8 +1,3 @@
----
-title: Vaječný koňak
-tags: [Vánoce]
----
-
 # Vaječný koňak
 
 * 4 žloutky (nebo pasterované žloutky)

@@ -1,7 +1,4 @@
----
-title: Bulky na burgery
-tags: [Hamburgery, Pečení]
----
+# Bulky na burgery
 
 Recept na cca 12 větších bulek, 20 minut příprava + 60 minut kynutí těsta + 15 minut pečení
 

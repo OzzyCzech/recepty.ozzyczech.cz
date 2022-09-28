@@ -1,8 +1,3 @@
----
-title: Krůtí Kari
-tags: [Kuře, Kari]
----
-
 # Kari
 
 * 400g krůtí prso 

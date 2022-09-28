@@ -1,8 +1,3 @@
----
-title: 🍌 Banánová bábovka
-tags: [Pečení, Bábovka]
----
-
 # Banánová bábovka
 
 - 200 g špaldové mouky

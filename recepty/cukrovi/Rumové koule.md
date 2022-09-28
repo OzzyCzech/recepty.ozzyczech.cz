@@ -1,8 +1,3 @@
----
-title: Rumové koule
-tags: [Pečení, Cukroví, Vánoce]
----
-
 # Rumové koule
 
 * 250 g másla

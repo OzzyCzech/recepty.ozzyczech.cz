@@ -1,8 +1,3 @@
----
-title: Tvarohové řezy
-tags: [Pečení]
----
-
 # Tvarohové řezy
 
 Na první těsto:

@@ -1,8 +1,3 @@
----
-title: Vanilkové rohlíčky - mandlové
-tags: [Pečení, Cukroví, Vánoce]
----
-
 # Vanilkové rohlíčky - mandlové
 
 * 90 g cukru moučka

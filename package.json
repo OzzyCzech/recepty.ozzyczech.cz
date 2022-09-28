@@ -8,22 +8,27 @@
 	"type": "module",
 	"license": "MIT",
 	"scripts": {
-		"build": "node --experimental-modules index.js",
-		"dev": "watch './index.js' ./content | serve public"
-	},
-	"devDependencies": {
-		"@babel/core": "^7.16.7",
-		"serve": "^13.0.2",
-		"watch": "^1.0.2"
+		"build": "yarn build.content && yarn build.css",
+		"build.content": "node --experimental-modules index.js",
+		"build.css": "tailwindcss -i ./recepty/style.css -o ./public/style.css",
+		"start": "serve public | onchange index.js './recepty/**/*.*' -- yarn build"
 	},
 	"dependencies": {
-		"@sphido/core": "^1.0.10",
-		"@sphido/emoji": "^1.0.11",
-		"@sphido/frontmatter": "^1.0.8",
-		"@sphido/link": "^1.0.12",
-		"@sphido/markdown": "^1.0.13",
-		"@sphido/meta": "^1.0.8",
-		"fs-extra": "^10.0.0",
-		"globby": "^12.1.0"
+		"@babel/core": "^7.19.3",
+		"@sindresorhus/slugify": "^2.1.0",
+		"@sphido/core": "^2.0.12",
+		"@sphido/emoji": "^1.1.0",
+		"@sphido/frontmatter": "^2.0.2",
+		"@sphido/hashtags": "^2.0.12",
+		"@tailwindcss/typography": "^0.5.7",
+		"fs-extra": "^10.1.0",
+		"globby": "^13.1.2",
+		"marked": "^4.1.0",
+		"ninja-keys": "^1.2.2",
+		"onchange": "^7.1.0",
+		"serve": "^14.0.1",
+		"slugify": "^1.6.5",
+		"tailwind": "^4.0.0",
+		"tailwindcss": "^3.1.8"
 	}
 }

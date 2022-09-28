@@ -1,9 +1,4 @@
----
-title: 🥒 Okurky od Dr. Bubenče
-tags: [Zavařování]
----
-
-# 🥒 Okurky od Dr. Bubenče
+# Okurky od Dr. Bubenče
 
 Vhodné pro 0.7l sklenice - bez vaření nálevu:
 
@@ -20,4 +15,3 @@ Vhodné pro 0.7l sklenice - bez vaření nálevu:
 
 Víčka odmastit a spařit 100 °C vodou 5 - 10 minut.
 20 minut vařit na 80-85 °C
-

@@ -1,8 +1,3 @@
----
-title: Pizza
-tags: [Pečení, Pizza]
----
-
 # Pizza 🍕
 
 - 500 g hladká mouka *nebo směs různých druhů*

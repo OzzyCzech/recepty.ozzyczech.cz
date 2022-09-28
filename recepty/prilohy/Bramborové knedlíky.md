@@ -1,8 +1,3 @@
----
-title: Bramborové knedlíky
-tags: [Vaření]
----
-
 # Bramborové knedlíky
 
 * 800 g brambor vařených, strouhaných na jemno

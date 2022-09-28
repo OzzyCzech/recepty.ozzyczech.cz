@@ -1,8 +1,3 @@
----
-title: Bábovka s jablky
-tags: [Pečení, Bábovka]
----
-
 # Bábovka s jablky
 
 * 330 g hladké mouky

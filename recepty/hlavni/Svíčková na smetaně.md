@@ -1,8 +1,3 @@
----
-title: Svíčková na smetaně
-tags: [Hovězí, Omáčky]
----
-
 # Svíčková
 
 * opečeme hovězí na oleji ze všech stran

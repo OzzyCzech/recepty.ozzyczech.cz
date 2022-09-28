@@ -1,8 +1,3 @@
----
-title: Jablkový koláč
-tags: [Pečení]
----
-
 # Jablkový koláč
 
 ### Těsto

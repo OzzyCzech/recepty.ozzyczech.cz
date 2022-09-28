@@ -1,8 +1,3 @@
----
-title: Libanonské kari s lilkem a cuketou
-tags: [Kari]
----
-
 # Libanonské kari s lilkem a cuketou
 
 * 1 lilek (velký)

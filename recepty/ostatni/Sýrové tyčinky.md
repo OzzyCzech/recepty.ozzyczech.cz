@@ -1,8 +1,3 @@
----
-title: Sýrové tyčinky
-tags: [Pečení]
----
-
 # Sýrové tyčinky
 
 ## Co budete potřebovat?

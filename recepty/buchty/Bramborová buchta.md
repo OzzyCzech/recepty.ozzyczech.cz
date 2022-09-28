@@ -1,8 +1,3 @@
----
-title: Bramborová buchta
-tags: [Pečení]
----
-
 # Bramborová buchta
 
 * 400 g hrubé mouky

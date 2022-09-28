@@ -1,8 +1,3 @@
----
-title: Špaldové perníčky
-tags: [Pečení, Cukroví]
----
-
 # Špaldové perníčky
 
 Ingredience

@@ -1,8 +1,3 @@
----
-title: Kynuté knedlíky
-tags: [Vaření]
----
-
 # Kynuté knedlíky
 
 * 600 g hrubé mouky

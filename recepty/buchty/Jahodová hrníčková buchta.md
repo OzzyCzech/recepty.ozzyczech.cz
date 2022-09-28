@@ -1,8 +1,3 @@
----
-title: Jahodová hrníčková bublanina
-tags: [Pečení]
----
-
 # Jahodová hrníčková bublanina
 
 * 2 hrstě čerstvé jahody

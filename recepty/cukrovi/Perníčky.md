@@ -1,8 +1,3 @@
----
-title: Perníčky
-tags: [Pečení, Cukroví, Vánoce]
----
-
 # Perníčky
 
 #### Perníkové těsto

@@ -1,8 +1,3 @@
----
-title: Ořechová buchta
-tags: [Pečení]
----
-
 # Ořechová buchta
 
 * 1/2 hrnku olej

@@ -1,8 +1,3 @@
----
-title: Vanilkové rohlíčky
-tags: [Pečení, Cukroví, Vánoce]
----
-
 # Vanilkové rohlíčky
 
 * 250 g másla

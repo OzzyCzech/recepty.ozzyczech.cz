@@ -1,8 +1,3 @@
----
-title: Bublanina
-tags: [Pečení]
----
-
 # Hrníčková bublanina
 
 Promícháme nejprve sypkou část:

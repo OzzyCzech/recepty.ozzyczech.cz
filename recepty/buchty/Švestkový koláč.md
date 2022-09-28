@@ -1,8 +1,3 @@
----
-title: Švestkový koláč
-tags: [Pečení]
----
-
 # Švestkový koláč (nezkoušeno)
 
 * 450 g švestek

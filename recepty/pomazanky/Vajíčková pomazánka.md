@@ -1,8 +1,3 @@
----
-title: Vajíčková pomazánka
-tags: [Pomazánky]
----
-
 ## Vajíčková pomazánka
 
 * 5 ks vajíček

@@ -1,8 +1,3 @@
----
-title: Hrníčkový perník
-tags: [Pečení]
----
-
 # Hrníčkový perník
 
 ![](/buchty/hrnickovy-pernik.jpg#float-right_w-50_pl-3)

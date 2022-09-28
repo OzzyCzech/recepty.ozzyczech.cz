@@ -1,8 +1,3 @@
----
-title: Salámová pomazánka
-tags: [Pomazánky]
----
-
 ## Salámová pomazánka
 
 * 15 dkg Herkulesu nebo jiný suchý salám

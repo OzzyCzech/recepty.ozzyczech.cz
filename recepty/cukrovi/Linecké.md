@@ -1,8 +1,3 @@
----
-title: Linecké těsto
-tags: [Pečení, Cukroví]
----
-
 # Linecké těsto
 
 * 300 g hladké mo   uky

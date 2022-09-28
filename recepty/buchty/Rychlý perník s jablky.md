@@ -1,8 +1,3 @@
----
-title: Rychlý perník s jablky
-tags: [Pečení, Buchty]
----
-
 # Rychlý perník s jablky
 
 * kypřící prášek do perníku

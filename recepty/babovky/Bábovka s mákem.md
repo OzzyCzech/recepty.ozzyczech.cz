@@ -1,8 +1,3 @@
----
-title: Bábovka s mákem
-tags: [Pečení, Bábovka]
----
-
 # Bábovka s mákem
 
 * 300 gramů hladké mouky

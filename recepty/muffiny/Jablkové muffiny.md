@@ -1,8 +1,3 @@
----
-title: 🍎 Jablkové muffiny
-tags: [Pečení, Muffiny]
----
-
 # Jablkové muffiny
 
 * 100 ml mléka

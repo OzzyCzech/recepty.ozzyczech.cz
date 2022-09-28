@@ -1,8 +1,3 @@
----
-title: Mramorová Bábovka
-tags: [Pečení, Bábovka]
----
-
 # Mramorová Bábovka
 
 * Cukr 1 hrnek
