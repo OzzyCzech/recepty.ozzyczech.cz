@@ -2,7 +2,6 @@
 
 import {dirname, relative, join} from 'node:path';
 import {allPages, copyFile, getPages, readFile, writeFile} from '@sphido/core';
-import {getHashtags, hashtags} from '@sphido/hashtags';
 import slugify from '@sindresorhus/slugify';
 import {marked} from 'marked';
 import {globby} from 'globby';
