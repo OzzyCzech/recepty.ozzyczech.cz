@@ -1,7 +1,7 @@
 # Pizza 🍕
 
 - 500 g hladká mouka *nebo směs různých druhů*
-- 2 lžíce olivového oleje
+- 3 lžíce olivového oleje
 - větší hrst soli (7 gramů)
 - 250 ml vlažná voda
 - 20 g balení droždí (balíček sušeného nebo kostka)

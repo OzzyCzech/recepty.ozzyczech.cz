@@ -63,7 +63,7 @@ for (const page of allPages(pages)) {
 	page.content = await readFile(page.path);
 	//page.tags = getHashtags(page.content);
 	page.content = marked(page.content);
-	page.title = page.content.match(/(?<=<h[12][^>]*?>)([^<>]+?)(?=<\/h[12]>)/i)?.pop();
+	page.title = page.content.match(/(?<=<h[12][^>]*?>)([^<>]+?)(?=<\/h[12]>)/i)?.pop() || 'Recepty';
 
 	page.output = join('public', relative('recepty', page.dir), page.slug);
 	await writeFile(page.output, html(page))
@@ -78,4 +78,4 @@ const files = await globby(['recepty/**/*.*', '!**/*.{md,html}', 'recepty/404.ht
 
 for await (const file of files) {
 	await copyFile(file, file.replace(/^\w+/, 'public'));
-}
+}w
