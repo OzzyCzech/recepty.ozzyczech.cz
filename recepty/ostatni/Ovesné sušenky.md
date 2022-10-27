@@ -10,6 +10,7 @@
 * 2 lžíce vody
 * lžička a půl jedlé sody
 * lžička vanilkové esence
+* vanilkový cukr 
 * lžíce kakaového prášku
 * citronová kůra
 * sůl
@@ -17,7 +18,8 @@
 Postup:
 
 * Smíchejte vločky, mouku, cukr, skořici, vanilku a ořechy
-* Přidejte rozpuštěné máslo s medem (sirupem) vodou a 
+* Přidejte rozpuštěné máslo s medem (sirupem) vodou a vše promíchejte.
+* Vytvarujte malé kuličky (2-3 cm), položte na plech s pečícím papírem
 * Pečeme 150°C cca 15-25 minut
 * Nechte vychladnou na mřížce
-* Skladujte v těsnící dóze 
+* Skladujeme v dóze, bez přístupu vlhkosti
