@@ -78,4 +78,4 @@ const files = await globby(['recepty/**/*.*', '!**/*.{md,html}', 'recepty/404.ht
 
 for await (const file of files) {
 	await copyFile(file, file.replace(/^\w+/, 'public'));
-}w
+}
