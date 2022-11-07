@@ -7,6 +7,7 @@
 * 2 ks vejc
 * 1 balení vanilkový cukr
 * 1 balení prášek do pečiva
+* kůra z citronu
 * kakao
 
 Všechny ingradience kromě kakaa odměříme, dáme do mísy a řádně promícháme metlou.
