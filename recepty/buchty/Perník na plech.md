@@ -3,7 +3,7 @@
 Promíchejte si nejprve sypké suroviny:
 
 - 1 hrnek hladké mouky
-- 1 hrnek žitné mouky (nebo hladké pokud nemáte)
+- 1 hrnek polohrubé mouky
 - 3/4 hrnku cukru
 - 1 lžička jedlá soda
 - 1 balíček prášku do pečiva
@@ -12,7 +12,10 @@ Promíchejte si nejprve sypké suroviny:
 - 2 lžíce kakaového prášku
 - špatka soli
 
-a pak přidejte 
+Mouku můžeme nakombinovat s žitnou moukou, ale to už je na vás.
+Doporučuji použíz maximálně 1/2 hrnku žitné mouky - jinak je těsto příliš husté.
+
+a pak přidejte tekuté suroviny
 
 - 1/2 hrnku rostlinného oleje nebo rozpuštěného másla
 - 1 hrnek mléka
