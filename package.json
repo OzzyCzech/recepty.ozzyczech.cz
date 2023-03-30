@@ -11,7 +11,7 @@
 		"build": "yarn build.content && yarn build.css",
 		"build.content": "node --experimental-modules index.js",
 		"build.css": "tailwindcss -i ./recepty/style.css -o ./public/style.css",
-		"start": "serve public | onchange index.js './recepty/**/*.*' -- yarn build"
+		"start": "serve -l 5000 public | onchange index.js './recepty/**/*.*' -- yarn build"
 	},
 	"dependencies": {
 		"@babel/core": "^7.20.2",

@@ -1,25 +1,10 @@
-import {NinjaKeys} from 'https://esm.run/ninja-keys';
 import pages from './pages.json' assert {type: 'json'};
+import 'https://esm.sh/cmd-dialog'; // https://esm.run/cmd-dialog
 
-const ninja = document.querySelector('ninja-keys');
-
-const data = [];
-
-ninja.data = pages.map(
-	(page) => {
-		return {
-			id: page.id,
-			title: (page.title || page.id),
-			url: page.url,
-
-			handler: (page) => {
-				window.location.href = page.url
-			},
-		}
-	},
-);
+const dialog = document.querySelector('cmd-dialog');
+dialog.actions = pages;
 
 const button = document.querySelector('button');
 button.addEventListener('click', () => {
-	ninja.open();
+	dialog.open();
 });
