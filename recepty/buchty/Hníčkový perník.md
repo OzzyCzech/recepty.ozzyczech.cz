@@ -1,39 +1,37 @@
-# Hrníčkový perník
+# Perník na plech
 
-![](/buchty/hrnickovy-pernik.jpg#float-right_w-50_pl-3)
+Promíchejte si nejprve sypké suroviny:
 
-Promíchejte
-
-* 1 hrnek hladké mouky
-* 1 hrnek žitné mouky (nebo hladké pokud nemáte)
-* 1 necelý hrnek cukru
-* 1 lžička jedlá soda
-* 1 balíček prášek do perníku
-* 1 vanilkový cukr nebo extrakt
-* 2 lžíce kakaa
-* špatka soli
+- 1 hrnek hladké mouky
+- 1 hrnek žitné mouky (nebo hladké pokud nemáte)
+- 3/4 hrnku cukru
+- 1 lžička jedlá soda
+- 1 balíček prášku do pečiva
+- 2 lžičky [perníkového koření](https://www.sonnentor.com/cs-cz/eshop/koreni/korenici-smesi/pernikove-koreni-mlete-bio-krabicka-100-g.html)
+- 1 vanilkový cukr (nebo 1/2 lžičky vanilkového extraktu)
+- 2 lžíce kakaového prášku
+- špatka soli
 
 a pak přidejte 
 
-* 1/2 hrnku oleje nebo rozpuštěného másla
-* 1 hrnek mléka
-* 2 lžíce med
-* 1-2 ks vejce
+- 1/2 hrnku rostlinného oleje nebo rozpuštěného másla
+- 1 hrnek mléka
+- 3-4 lžíce povidel
+- 2 lžíce med (volitelně)
+- 1 ks vejce
 
-### Nepovinné vylepšováky do těsta
+Těsto můžete ještě vylepšit ořechy, rumem nebo strouhanými jablky.
 
-* citrónová kůra
-* čokoládové kousky
-* 3 lžíce povidel nebo marmelády
-* dvě strouhané jablka
-* panáka rumu
-* sekané ořechy
-* lžička skořice
+### Poleva na perník
+ 
+- 140 g cukru krupice
+- 100 ml vody 
+- 100 g čokolády s obsahem kakaa 60-70 %
+
+Vodu s cuktem vaříme 5 minut. Poté necháme vychladnout cca 10 minut (směs je velmi horká).
+Do tohoto sladkého sirupu přidáme nalámanou čokoládu a promícháme. 
+Upečenou buchtu potřeme marmeládou a naneseme čokoládu.
 
 ### Vylepšováky po dopečení
-
-* čokoládová nebo citrónová polevu
-* podélně rozpůlit namazat marmeládou a znovu slepit
-* kafíčko
 
 Pečeme na 170° asi 20 - 35 minut ve vymazaném a vysypaném plechu.

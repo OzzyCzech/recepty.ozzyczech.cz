@@ -28,7 +28,6 @@ for (const page of allPages(pages)) {
 
 // search data
 await writeFile('public/pages.json', JSON.stringify(search, null, 2));
-
 const files = await globby(['recepty/**/*.*', '!**/*.{md,html}', 'recepty/404.html']);
 
 for await (const file of files) {
