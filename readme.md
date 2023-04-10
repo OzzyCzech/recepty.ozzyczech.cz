@@ -1,4 +1,4 @@
-# [recepty.ozzyczech.cz](https://sphido.org)
+# [recepty.ozzyczech.cz](https://recepty.ozzyczech.cz)
 
 Source codes of website [recepty.ozzyczech.cz](https://recepty.ozzyczech.cz)
 
