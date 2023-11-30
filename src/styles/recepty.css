@@ -1,0 +1,77 @@
+@page {
+    margin: 1cm;
+}
+
+/* Dark mode colors. */
+:root {
+    --sl-color-accent-low: #072739;
+    --sl-color-accent: #0072a3;
+    --sl-color-accent-high: #abcee5;
+    --sl-color-white: #ffffff;
+    --sl-color-gray-1: #ecedf3;
+    --sl-color-gray-2: #c0c2c9;
+    --sl-color-gray-3: #888b98;
+    --sl-color-gray-4: #555763;
+    --sl-color-gray-5: #353743;
+    --sl-color-gray-6: #242631;
+    --sl-color-black: #17181d;
+}
+/* Light mode colors. */
+:root[data-theme='light'] {
+    --sl-color-accent-low: #c1dbed;
+    --sl-color-accent: #0074a6;
+    --sl-color-accent-high: #003751;
+    --sl-color-white: #17181d;
+    --sl-color-gray-1: #242631;
+    --sl-color-gray-2: #353743;
+    --sl-color-gray-3: #555763;
+    --sl-color-gray-4: #888b98;
+    --sl-color-gray-5: #c0c2c9;
+    --sl-color-gray-6: #ecedf3;
+    --sl-color-gray-7: #f5f6f9;
+    --sl-color-black: #ffffff;
+}
+
+@media print {
+
+    * {
+        font: 1em/1.5em -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+        max-width: 100% !important;
+        color: black !important;
+        border: 0 !important;
+        background: none !important;
+    }
+
+
+    header, footer, nav, aside {
+        display: none !important;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    a[href^="#"]:after,
+    a[href^="javascript"]:after {
+        content: "";
+    }
+
+    h1 {
+        padding: 0;
+    }
+
+    div.main-frame {
+        margin: 0;
+        padding: 0;
+    }
+
+    div.main-pane {
+        margin: 0 auto;
+    }
+
+    div.content-panel {
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+}

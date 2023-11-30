@@ -1,34 +1,19 @@
 {
-	"name": "recepty.ozzyczech.cz",
-	"author": {
-		"name": "Roman Ožana",
-		"email": "roman@ozana.cz",
-		"url": "https://ozana.cz/"
-	},
-	"type": "module",
-	"license": "MIT",
-	"scripts": {
-		"build": "yarn build.content && yarn build.css",
-		"build.content": "node --experimental-modules index.js",
-		"build.css": "tailwindcss -i ./recepty/style.css -o ./public/style.css",
-		"start": "serve -l 5000 public | onchange index.js './recepty/**/*.*' -- yarn build"
-	},
-	"dependencies": {
-		"@babel/core": "^7.20.2",
-		"@sindresorhus/slugify": "^2.1.1",
-		"@sphido/core": "^2.0.15",
-		"@sphido/emoji": "^1.1.0",
-		"@sphido/frontmatter": "^2.0.4",
-		"@sphido/hashtags": "^2.0.15",
-		"@tailwindcss/typography": "^0.5.8",
-		"fs-extra": "^10.1.0",
-		"globby": "^13.1.2",
-		"marked": "^4.2.3",
-		"ninja-keys": "^1.2.2",
-		"onchange": "^7.1.0",
-		"serve": "^14.1.2",
-		"slugify": "^1.6.5",
-		"tailwind": "^4.0.0",
-		"tailwindcss": "^3.2.4"
-	}
+  "name": "omg",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.3.1",
+    "@astrojs/starlight": "^0.14.0",
+    "astro": "^3.2.3",
+    "sharp": "^0.32.5",
+    "typescript": "^5.3.2"
+  }
 }
