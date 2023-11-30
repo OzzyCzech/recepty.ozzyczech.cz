@@ -6,6 +6,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Moje recepty',
+
       customCss: [
         './src/styles/recepty.css',
       ],
