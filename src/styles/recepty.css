@@ -1,13 +1,3 @@
-@page {
-    margin: 1cm;
-}
-
-iframe {
-    border: 0;
-    width: 100%;
-    min-height: 480px;
-}
-
 /* Dark mode colors. */
 :root {
     --sl-color-accent-low: #072739;
@@ -22,6 +12,7 @@ iframe {
     --sl-color-gray-6: #242631;
     --sl-color-black: #17181d;
 }
+
 /* Light mode colors. */
 :root[data-theme='light'] {
     --sl-color-accent-low: #c1dbed;
@@ -36,6 +27,20 @@ iframe {
     --sl-color-gray-6: #ecedf3;
     --sl-color-gray-7: #f5f6f9;
     --sl-color-black: #ffffff;
+}
+
+@page {
+    margin: 1cm;
+}
+
+iframe {
+    border: 0;
+    width: 100%;
+    min-height: 480px;
+}
+
+.content-panel img {
+    border-radius: 1em;
 }
 
 @media print {
