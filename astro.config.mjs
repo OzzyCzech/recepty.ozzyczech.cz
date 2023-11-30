@@ -7,6 +7,7 @@ export default defineConfig({
     starlight({
       title: 'Moje recepty',
       tableOfContents: false,
+      pagination: false,
       customCss: [
         './src/styles.css',
       ],

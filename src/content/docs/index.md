@@ -1,6 +1,5 @@
 ---
 title: Oblíbené recepty
-next: false
 ---
 
 ## Pečení
