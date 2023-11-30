@@ -6,10 +6,13 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Moje recepty',
-
+      tableOfContents: false,
       customCss: [
         './src/styles/recepty.css',
       ],
+      editLink: {
+        baseUrl: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz/edit/master/',
+      },
       social: {
         github: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz',
       },
