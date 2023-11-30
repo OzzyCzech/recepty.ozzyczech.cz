@@ -34,5 +34,4 @@ Dále budete potřebovat:
 Z karamelového kondenzovaného slazeného mléka a změklého másla utřeme hladký krém a přidáme drobečky.
 Vyvalujeme kuličky, které následně obalujeme v zbytku drobečků. Hotové kuličky v chaldu vydrží cca 14 dní.
 
-
-https://www.youtube.com/embed/103Ad4oTRCs
+<iframe src="https://www.youtube.com/embed/103Ad4oTRCs"></iframe>
