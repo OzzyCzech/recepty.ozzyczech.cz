@@ -374,13 +374,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Buchtičky.md": {
-	id: "peceni/ostatni/Buchtičky.md";
-  slug: "peceni/ostatni/buchtičky";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "peceni/ostatni/Buchtičky.md": {
 	id: "peceni/ostatni/Buchtičky.md";
   slug: "peceni/ostatni/buchtičky";
@@ -395,23 +388,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Květáková buchta.md": {
-	id: "peceni/ostatni/Květáková buchta.md";
-  slug: "peceni/ostatni/květáková-buchta";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "peceni/ostatni/Květáková buchta.md": {
 	id: "peceni/ostatni/Květáková buchta.md";
   slug: "peceni/ostatni/květáková-buchta";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"peceni/ostatni/Ovesné sušenky.md": {
-	id: "peceni/ostatni/Ovesné sušenky.md";
-  slug: "peceni/ostatni/ovesné-sušenky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -430,13 +409,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Sýrové tyčinky.md": {
-	id: "peceni/ostatni/Sýrové tyčinky.md";
-  slug: "peceni/ostatni/sýrové-tyčinky";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "peceni/ostatni/Sýrové tyčinky.md": {
 	id: "peceni/ostatni/Sýrové tyčinky.md";
   slug: "peceni/ostatni/sýrové-tyčinky";
@@ -447,13 +419,6 @@ declare module 'astro:content' {
 "polevky/Boršč.md": {
 	id: "polevky/Boršč.md";
   slug: "polevky/boršč";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"polevky/Broučkovka.md": {
-	id: "polevky/Broučkovka.md";
-  slug: "polevky/broučkovka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -500,13 +465,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"prilohy/Kynuté knedlíky.md": {
-	id: "prilohy/Kynuté knedlíky.md";
-  slug: "prilohy/kynuté-knedlíky";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "prilohy/Kynuté knedlíky.md": {
 	id: "prilohy/Kynuté knedlíky.md";
   slug: "prilohy/kynuté-knedlíky";
@@ -524,6 +482,13 @@ declare module 'astro:content' {
 "vanoce/Linecké.md": {
 	id: "vanoce/Linecké.md";
   slug: "vanoce/linecké";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"vanoce/Mandlové rohlíčky.md": {
+	id: "vanoce/Mandlové rohlíčky.md";
+  slug: "vanoce/mandlové-rohlíčky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -556,13 +521,6 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Vanilkové rohlíčky - mandlové.md": {
-	id: "vanoce/Vanilkové rohlíčky - mandlové.md";
-  slug: "vanoce/vanilkové-rohlíčky---mandlové";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
 "vanoce/Vanilkové rohlíčky.md": {
 	id: "vanoce/Vanilkové rohlíčky.md";
   slug: "vanoce/vanilkové-rohlíčky";
@@ -580,13 +538,6 @@ declare module 'astro:content' {
 "zavarovani/Nakládaný hermelín.md": {
 	id: "zavarovani/Nakládaný hermelín.md";
   slug: "zavarovani/nakládaný-hermelín";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"zavarovani/Okurky od Dr. Bubenče.md": {
-	id: "zavarovani/Okurky od Dr. Bubenče.md";
-  slug: "zavarovani/okurky-od-dr-bubenče";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
