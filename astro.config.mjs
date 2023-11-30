@@ -8,7 +8,7 @@ export default defineConfig({
       title: 'Moje recepty',
       tableOfContents: false,
       customCss: [
-        './src/styles/recepty.css',
+        './src/styles.css',
       ],
       editLink: {
         baseUrl: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz/edit/master/',

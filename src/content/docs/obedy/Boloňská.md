@@ -15,7 +15,7 @@ title: Boloňská omáčka
 * mrkev
 * cibule
 
-Postup:
+### Postup
 
 * Mrkev a řapíkatý celer oloupeme a pokrájíme je na drobné kousky. Cibuli taktéž oloupeme a nakrájíme na kostičky, česnek nakrájíme na plátky.
 * Všechnu zeleninu osmahneme na olivovém oleji. Až cibule zesklovatí, přidáme mleté maso a orestujeme ho.
@@ -25,5 +25,4 @@ Postup:
 * Počkáme, až se i víno vyvaří a přidáme rajčatovou konzervu. Řádně promícháme, ochutíme všemi bylinkami a osolíme.
 * Vaříme ještě alespoň půl hodiny, v případě potřeby přilijeme vodu. Před vypnutím ohřevu boloňskou omáčku dochutíme.
 
-Pravou boloňskou omáčku podáváme s jakýmkoliv druhem těstovin a můžeme ji
-doplnit také sýrem, nejlépe parmazánem.
+Pravou boloňskou omáčku podáváme s jakýmkoliv druhem těstovin a můžeme ji doplnit také sýrem, nejlépe parmazánem.
