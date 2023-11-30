@@ -22,4 +22,4 @@ Těsto se nenechává kynout! Rovnou se vyvaluje na cca 3 mm a krájí na tyčin
 Než tyčinky šoupnete do trouby tak je pořádně osolte hrubou solí.
 Pečeme na 120 cca 12 minut do růžova.
 
-![](/ostatni/syrove-tycinky.jpgg)
+![](./syrove-tycinky.jpgg)

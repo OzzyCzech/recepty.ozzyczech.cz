@@ -37,4 +37,4 @@ Ohřejeme mléko, přidáme lžičku cukru a kostrku droždí - necháme vzejít
 
 Pečeme na 170-180°C asi 20 - 35 minut - před pečením necháme chvilku nakynout (10 minut).
 
-![](/buchty/frgal.jpeg)
+![](./frgale.jpeg)

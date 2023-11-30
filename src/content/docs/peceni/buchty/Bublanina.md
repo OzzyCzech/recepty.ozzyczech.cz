@@ -23,6 +23,6 @@ Pokladame ovoce a posypeme posypkou z másla, hrubé mouky, hnědého cukru.
 
 Pečeme cca 20 - 30 minut na 180 °C
 
-![Bublanina](/buchty/bublanina-one.jpg)
-![Bublanina](/buchty/bublanina-two.jpg)
-![Bublanina](/buchty/bublanina-three.jpg)
+![Bublanina](./bublanina-one.jpg)
+![Bublanina](./bublanina-two.jpg)
+![Bublanina](./bublanina-three.jpg)

@@ -46,6 +46,6 @@ Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme n�
 
 Pečeme na 180°C asi 20-30 minut do zlatova.
 
-![Estonský Kringel - před upečením](/buchty/estonsky-kringel-neupeceny.jpg)
+![Estonský Kringel - před upečením](./estonsky-kringel-neupeceny.jpg)
 
-![Estonský Kringel - upečený](/buchty/estonsky-kringel-upeceny.jpg)
+![Estonský Kringel - upečený](./estonsky-kringel-upeceny.jpg)

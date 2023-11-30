@@ -14,6 +14,5 @@ Vhodné pro 0.7l sklenice - bez vaření nálevu:
 * křen
 * 1 mírně navršená čajová lžička soli nahoru
 
-
 Víčka odmastit a spařit 100 °C vodou 5 - 10 minut.
-20 minut vařit na 80-85 °C
+20 minut vařit na **80-85 °C**
