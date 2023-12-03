@@ -19,4 +19,4 @@ necháme odležet (do druhého dne) v ledničce zabalené v potravinové folii.
 Pečeme v mírně vyhřáté troubě na 150°C do růžova 10 až 15 minut.
 Ještě teplé rohlíčky obalíme v moučkovém cukru. Rozležení alespoň 14 dní.
 
-![](/cukrovi/vanilkove-rohlicky.jpg)
+![](./vanilkove-rohlicky.jpg)
