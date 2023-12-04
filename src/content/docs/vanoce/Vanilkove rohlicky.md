@@ -26,4 +26,4 @@ Pečeme v mírně **vyhřáté troubě na 150°C** do růžova **10 až 15 minut
 Ihned po upečení jsou rohlíčky velmi křehké a musí se nechat chvíli vychladnout.
 Poté se ještě teplé rohlíčky obalují v moučkovém cukru. Rozležení alespoň 14 dní.
 
-![](/cukrovi/vanilkove-rohlicky.jpg)
+![](./vanilkove-rohlicky.jpg)
