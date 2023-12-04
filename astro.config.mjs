@@ -19,6 +19,8 @@ export default defineConfig({
       },
       sidebar: [
         {label: 'Domů', link: '/'},
+        {label: 'Obědy', autogenerate: {directory: 'obedy'}, collapsed: true},
+        {label: 'Přílohy', autogenerate: {directory: 'prilohy'}, collapsed: true},
         {
           label: 'Pečení',
           items: [
@@ -28,8 +30,6 @@ export default defineConfig({
             {label: 'Ostatní', autogenerate: {directory: 'peceni/ostatni'}, collapsed: true},
           ]
         },
-        {label: 'Obědy', autogenerate: {directory: 'obedy'}, collapsed: true},
-        {label: 'Přílohy', autogenerate: {directory: 'prilohy'}, collapsed: true},
         {label: 'Pomazánky', autogenerate: {directory: 'pomazanky'}, collapsed: true},
         {label: 'Vánoce', autogenerate: {directory: 'vanoce'}, collapsed: true},
         {label: 'Zavařování', autogenerate: {directory: 'zavarovani'}, collapsed: true},
