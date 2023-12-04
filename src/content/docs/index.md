@@ -8,5 +8,5 @@ Nejčastěji pečeme 🍕 [Pizzu](/peceni/ostatni/pizza/) a 🧁 [Jablečné muf
 
 ## Vánoční recepty
 
-Na Vánoce děláme [Perníčky](/vanoce/perníčky/) a [Vanilkové rohlíčky](/vanoce/vanilkové-rohlíčky/).
+Na Vánoce děláme [Perníčky](/vanoce/perníčky/) a [Vanilkové rohlíčky](/vanoce/vanilkové-rohlíčky/).
 
