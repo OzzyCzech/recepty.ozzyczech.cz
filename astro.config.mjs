@@ -30,7 +30,7 @@ export default defineConfig({
             {label: 'Ostatní', autogenerate: {directory: 'peceni/ostatni'}, collapsed: true},
           ]
         },
-        {label: 'Pomazánky', autogenerate: {directory: 'pomazanky'}, //collapsed: true},
+        {label: 'Pomazánky', autogenerate: {directory: 'pomazanky'}, collapsed: true},
         {label: 'Vánoce', autogenerate: {directory: 'vanoce'}, collapsed: true},
         {label: 'Zavařování', autogenerate: {directory: 'zavarovani'}, collapsed: true},
       ],
