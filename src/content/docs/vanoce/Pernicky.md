@@ -49,4 +49,4 @@ sáčku s plastovou trubičkou.
 Lze obarvit potravinářským barvivem, můžeme zdobit i barevnými motivy.
 
 
-![](./pernicky.jpeg)
+![](./pernicky.jpg)

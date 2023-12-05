@@ -29,6 +29,6 @@ Naplníme formičky na muffiny a pečeme.
 
 ![Jablkové Muffiny v troubě](./jablkove-muffiny-peceni.jpeg "Title")
 
-![Těsto na Jablkové muffiny](./jablkove-muffiny-testo.jpeg)
+![Těsto na Jablkové muffiny](./jablkove-muffiny-testo.jpg)
 
-![Hotové Jablkové muffiny](./jablkove-muffiny-hotove.jpeg)
+![Hotové Jablkové muffiny](./jablkove-muffiny-hotove.jpg)

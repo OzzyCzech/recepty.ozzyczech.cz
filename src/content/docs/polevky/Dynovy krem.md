@@ -27,6 +27,6 @@ Vše rozmixujeme a přidáme smetanu, kmín, sůl a pepř dle chuti a ještě kr
 Případně můžeme ještě znovu promixovat, aby byla polévka opravdu krémová.
 Pro zjemnění chuti můžeme přidat ještě trochu másla a smetanu.
 
-![](./dynovy-krem-priprava.jpeg)
+![](./dynovy-krem-priprava.jpg)
 
-![](./dynovy-krem.jpeg)
+![](./dynovy-krem.jpg)

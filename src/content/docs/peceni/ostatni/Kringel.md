@@ -47,7 +47,7 @@ Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme n�
 Pečeme na 180°C asi 20-30 minut do zlatova.
 
 
-![](./kringel-testo.jpeg)
-![](./kringel-rozvaleny.jpeg)
-![](./kringel-neupeceny.jpeg)
-![](./kringel-hotovy.jpeg)
+![](./kringel-testo.jpg)
+![](./kringel-rozvaleny.jpg)
+![](./kringel-neupeceny.jpg)
+![](./kringel-hotovy.jpg)

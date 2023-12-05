@@ -42,4 +42,4 @@ Pečeme na 170° asi 20 - 35 minut ve vymazaném a vysypaném plechu.
 :::
 
 
-![](./pernik-na-plech.jpeg)
+![](./pernik-na-plech.jpg)
