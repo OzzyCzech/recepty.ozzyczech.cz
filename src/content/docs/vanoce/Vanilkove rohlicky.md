@@ -18,12 +18,14 @@ hotové těsto zabalíme do potravinové folie a
 necháme v lednici odležet do ruhého dne.
 
 Hotové těsto musí být po celou dobu studené, vždy odkrojte kousek, se kterým budete pracovat.
-Vytvarujte cca 1 cm širokého hada a rozkrájejte jej na 5cm dlouhé kousky.
+Vytvarujte cca 1 cm širokého hada a rozkrájejte jej na 5 cm dlouhé kousky.
 Vytvarujte malé rohlíčky, ty pokládajte na pečící papír nebo přímo na plech vedle sebe.
 
 ![](./rohlicky-plech.jpeg)
 
+:::tip[Pečení]
 Pečeme v mírně **vyhřáté troubě na 150°C** do růžova **10 až 15 minut**.
+:::
 
 ![](./rohlicky.jpeg)
 
