@@ -18,10 +18,10 @@ Poté zvlášť smícháme sypké ingredience:
 
 Oloupeme si dvě větší jablka a nakrájíme je na kostičky (1x1 cm).
 
-Smícháme nejprve tekuté a sypké ingredience. Podle potřeby přidáme buď mouku nebo mléko.
-Těsto by nemělo být příliš řídké. Nakonec přidáme jablka.
+Promícháme tekuté a sypké ingredience. Podle potřeby přidáme buď mouku nebo mléko.
+Nakonec přidáme jablka. Vzniklé těsto by němelo být příliš řídké. 
 
-Těsto nalijeme do formiček a pečeme.
+Naplníme formičky na muffiny a pečeme.
 
 :::tip[Pečení]
 180°C, cca 25 minut
