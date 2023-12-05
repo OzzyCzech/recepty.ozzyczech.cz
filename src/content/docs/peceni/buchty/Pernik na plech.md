@@ -37,6 +37,9 @@ Vodu s cuktem vaříme 5 minut. Poté necháme vychladnout cca 10 minut (směs j
 Do tohoto sladkého sirupu přidáme nalámanou čokoládu a promícháme. 
 Upečenou buchtu potřeme marmeládou a naneseme čokoládu.
 
-### Vylepšováky po dopečení
-
+:::tip[Pečení]
 Pečeme na 170° asi 20 - 35 minut ve vymazaném a vysypaném plechu.
+:::
+
+
+![](./pernik-na-plech.jpeg)
