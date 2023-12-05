@@ -11,7 +11,7 @@ title: Vanilkové rohlíčky
 * sůl (cca 1g)
 * trocha citrónové kůry
 
-Smícháme hladkou kouku a curk a vše 2x přesejeme přes cedník.
+Smícháme hladkou mouku a curk a vše 2x přesejeme přes cedník.
 Přidáme změklé máslo, dva žloutky, vanilku a jemně nastrouhané ořechy.
 Osolíme a přidáme trochu citrónové kůry. Zpracujeme vláční těsto,
 hotové těsto zabalíme do potravinové folie a
