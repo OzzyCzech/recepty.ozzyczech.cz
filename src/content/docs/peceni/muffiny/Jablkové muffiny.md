@@ -2,6 +2,8 @@
 title: Jablkové muffiny
 ---
 
+Nejprve smícháme tekuté ingredience:
+
 * 100 ml mléka
 * 100 ml oleje
 * půl hrnku cukru
@@ -9,15 +11,20 @@ title: Jablkové muffiny
 * lžička mleté skořice
 * vajíčko
 
-Promíchat a přidat mouk. Podle potřeby - hustoty těsta, dolít mléko.
+Poté zvlášť smícháme sypké ingredience:
 
 * 1,5 hrnku hladké mouky
 * prášek do pečiva
 
-Dvě velká oloupaná jablka makrájíme na kostky, přimíchat k těstu,
-naplníme do košíčků. Před pečením posypat směsí lžíce 
-cukru krystal + lžičky skořice.
+Oloupeme si dvě větší jablka a nakrájíme je na kostičky (1x1 cm).
 
+Smícháme nejprve tekuté a sypké ingredience. Podle potřeby přidáme buď mouku nebo mléko.
+Těsto by nemělo být příliš řídké. Nakonec přidáme jablka.
+
+Těsto nalijeme do formiček a pečeme.
+
+:::tip[Pečení]
 180°C, cca 25 minut
+:::
 
 ![](./jablkove-muffiny.jpg)
