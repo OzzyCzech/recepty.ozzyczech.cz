@@ -32,6 +32,7 @@ lžičkou vody - pro lesk. Nechat zaschnout. Uložit do papírové bedny.
 Takže by se měly vyrábět cca 2-3 týdny před Vánoci.
 
 #### Poleva
+
 * 180 g moučkového cukru (dvakrát prosít)
 * 1 bílek
 * pár kapek vody
@@ -46,3 +47,6 @@ sáčku s plastovou trubičkou.
 
 *Doporučení*: Do polevy můžeme přidat pár kapek citrónu, bude příjemně nakyslá.
 Lze obarvit potravinářským barvivem, můžeme zdobit i barevnými motivy.
+
+
+![](./pernicky.jpeg)

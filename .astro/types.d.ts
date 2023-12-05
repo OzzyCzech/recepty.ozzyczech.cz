@@ -185,16 +185,16 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"docs": {
-"index.mdx": {
-	id: "index.mdx";
+"index.md": {
+	id: "index.md";
   slug: "index";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
-} & { render(): Render[".mdx"] };
-"obedy/Boloňská.md": {
-	id: "obedy/Boloňská.md";
-  slug: "obedy/boloňská";
+} & { render(): Render[".md"] };
+"obedy/Bolonska.md": {
+	id: "obedy/Bolonska.md";
+  slug: "obedy/bolonska";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -213,44 +213,44 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"obedy/Svíčková na smetaně.md": {
-	id: "obedy/Svíčková na smetaně.md";
-  slug: "obedy/svíčková-na-smetaně";
+"obedy/Svickova na smetane.md": {
+	id: "obedy/Svickova na smetane.md";
+  slug: "obedy/svickova-na-smetane";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/babovky/Banánová bábovka.md": {
-	id: "peceni/babovky/Banánová bábovka.md";
-  slug: "peceni/babovky/banánová-bábovka";
+"peceni/babovky/Babovka s jablky.md": {
+	id: "peceni/babovky/Babovka s jablky.md";
+  slug: "peceni/babovky/babovka-s-jablky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/babovky/Bábovka s jablky.md": {
-	id: "peceni/babovky/Bábovka s jablky.md";
-  slug: "peceni/babovky/bábovka-s-jablky";
+"peceni/babovky/Bananova babovka.md": {
+	id: "peceni/babovky/Bananova babovka.md";
+  slug: "peceni/babovky/bananova-babovka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/babovky/Rychlá bábovka.md": {
-	id: "peceni/babovky/Rychlá bábovka.md";
-  slug: "peceni/babovky/rychlá-bábovka";
+"peceni/babovky/Rychla babovka.md": {
+	id: "peceni/babovky/Rychla babovka.md";
+  slug: "peceni/babovky/rychla-babovka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Banánový chleba.md": {
-	id: "peceni/buchty/Banánový chleba.md";
-  slug: "peceni/buchty/banánový-chleba";
+"peceni/buchty/Bananovy chleba.md": {
+	id: "peceni/buchty/Bananovy chleba.md";
+  slug: "peceni/buchty/bananovy-chleba";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Bramborová buchta.md": {
-	id: "peceni/buchty/Bramborová buchta.md";
-  slug: "peceni/buchty/bramborová-buchta";
+"peceni/buchty/Bramborova buchta.md": {
+	id: "peceni/buchty/Bramborova buchta.md";
+  slug: "peceni/buchty/bramborova-buchta";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -269,93 +269,79 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Estonsky Kringel.md": {
-	id: "peceni/buchty/Estonsky Kringel.md";
-  slug: "peceni/buchty/estonsky-kringel";
+"peceni/buchty/Frgale.md": {
+	id: "peceni/buchty/Frgale.md";
+  slug: "peceni/buchty/frgale";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Frgále.md": {
-	id: "peceni/buchty/Frgále.md";
-  slug: "peceni/buchty/frgále";
+"peceni/buchty/Honzovy buchty.md": {
+	id: "peceni/buchty/Honzovy buchty.md";
+  slug: "peceni/buchty/honzovy-buchty";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Jablkový koláč.md": {
-	id: "peceni/buchty/Jablkový koláč.md";
-  slug: "peceni/buchty/jablkový-koláč";
+"peceni/buchty/Jablkovy kolac.md": {
+	id: "peceni/buchty/Jablkovy kolac.md";
+  slug: "peceni/buchty/jablkovy-kolac";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Kynuté Honzovi buchty.md": {
-	id: "peceni/buchty/Kynuté Honzovi buchty.md";
-  slug: "peceni/buchty/kynuté-honzovi-buchty";
+"peceni/buchty/Kynuty jahodovy kolac.md": {
+	id: "peceni/buchty/Kynuty jahodovy kolac.md";
+  slug: "peceni/buchty/kynuty-jahodovy-kolac";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Kynutý jahodový koláč.md": {
-	id: "peceni/buchty/Kynutý jahodový koláč.md";
-  slug: "peceni/buchty/kynutý-jahodový-koláč";
+"peceni/buchty/Ořechova buchta.md": {
+	id: "peceni/buchty/Ořechova buchta.md";
+  slug: "peceni/buchty/ořechova-buchta";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Ořechová buchta.md": {
-	id: "peceni/buchty/Ořechová buchta.md";
-  slug: "peceni/buchty/ořechová-buchta";
+"peceni/buchty/Pernik na plech.md": {
+	id: "peceni/buchty/Pernik na plech.md";
+  slug: "peceni/buchty/pernik-na-plech";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Perník na plech.md": {
-	id: "peceni/buchty/Perník na plech.md";
-  slug: "peceni/buchty/perník-na-plech";
+"peceni/buchty/Rychly pernik s jablky.md": {
+	id: "peceni/buchty/Rychly pernik s jablky.md";
+  slug: "peceni/buchty/rychly-pernik-s-jablky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Rychlý perník s jablky.md": {
-	id: "peceni/buchty/Rychlý perník s jablky.md";
-  slug: "peceni/buchty/rychlý-perník-s-jablky";
+"peceni/buchty/Svestkova kynuta buchtu.md": {
+	id: "peceni/buchty/Svestkova kynuta buchtu.md";
+  slug: "peceni/buchty/svestkova-kynuta-buchtu";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Sypaná hrnková buchta.md": {
-	id: "peceni/buchty/Sypaná hrnková buchta.md";
-  slug: "peceni/buchty/sypaná-hrnková-buchta";
+"peceni/buchty/Sypana hrnkova buchta.md": {
+	id: "peceni/buchty/Sypana hrnkova buchta.md";
+  slug: "peceni/buchty/sypana-hrnkova-buchta";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Tvarohové řezy.md": {
-	id: "peceni/buchty/Tvarohové řezy.md";
-  slug: "peceni/buchty/tvarohové-řezy";
+"peceni/buchty/Tvarohove rezy.md": {
+	id: "peceni/buchty/Tvarohove rezy.md";
+  slug: "peceni/buchty/tvarohove-rezy";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/buchty/Švestková kynutá buchtu.md": {
-	id: "peceni/buchty/Švestková kynutá buchtu.md";
-  slug: "peceni/buchty/švestková-kynutá-buchtu";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"peceni/buchty/Švestkový koláč.md": {
-	id: "peceni/buchty/Švestkový koláč.md";
-  slug: "peceni/buchty/švestkový-koláč";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"peceni/muffiny/Banánové mufiny.md": {
-	id: "peceni/muffiny/Banánové mufiny.md";
-  slug: "peceni/muffiny/banánové-mufiny";
+"peceni/muffiny/Bananove mufiny.md": {
+	id: "peceni/muffiny/Bananove mufiny.md";
+  slug: "peceni/muffiny/bananove-mufiny";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -367,16 +353,23 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/muffiny/Perníkové muffuny.md": {
-	id: "peceni/muffiny/Perníkové muffuny.md";
-  slug: "peceni/muffiny/perníkové-muffuny";
+"peceni/muffiny/Pernikové muffuny.md": {
+	id: "peceni/muffiny/Pernikové muffuny.md";
+  slug: "peceni/muffiny/pernikové-muffuny";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Buchtičky.md": {
-	id: "peceni/ostatni/Buchtičky.md";
-  slug: "peceni/ostatni/buchtičky";
+"peceni/ostatni/Buchticky.md": {
+	id: "peceni/ostatni/Buchticky.md";
+  slug: "peceni/ostatni/buchticky";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"peceni/ostatni/Estonsky Kringel.md": {
+	id: "peceni/ostatni/Estonsky Kringel.md";
+  slug: "peceni/ostatni/estonsky-kringel";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -388,16 +381,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Květáková buchta.md": {
-	id: "peceni/ostatni/Květáková buchta.md";
-  slug: "peceni/ostatni/květáková-buchta";
+"peceni/ostatni/Kvetakova buchta.md": {
+	id: "peceni/ostatni/Kvetakova buchta.md";
+  slug: "peceni/ostatni/kvetakova-buchta";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Ovesné sušenky.md": {
-	id: "peceni/ostatni/Ovesné sušenky.md";
-  slug: "peceni/ostatni/ovesné-sušenky";
+"peceni/ostatni/Ovesné susenky.md": {
+	id: "peceni/ostatni/Ovesné susenky.md";
+  slug: "peceni/ostatni/ovesné-susenky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -409,65 +402,72 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Sýrové tyčinky.md": {
-	id: "peceni/ostatni/Sýrové tyčinky.md";
-  slug: "peceni/ostatni/sýrové-tyčinky";
+"peceni/ostatni/Syrové tycinky.md": {
+	id: "peceni/ostatni/Syrové tycinky.md";
+  slug: "peceni/ostatni/syrové-tycinky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"polevky/Boršč.md": {
-	id: "polevky/Boršč.md";
-  slug: "polevky/boršč";
+"polevky/Borsc.md": {
+	id: "polevky/Borsc.md";
+  slug: "polevky/borsc";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"polevky/Broučkovka.md": {
-	id: "polevky/Broučkovka.md";
-  slug: "polevky/broučkovka";
+"polevky/Brouckovka.md": {
+	id: "polevky/Brouckovka.md";
+  slug: "polevky/brouckovka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"pomazanky/Papriková pomazánka.md": {
-	id: "pomazanky/Papriková pomazánka.md";
-  slug: "pomazanky/papriková-pomazánka";
+"polevky/Dynovy krem.md": {
+	id: "polevky/Dynovy krem.md";
+  slug: "polevky/dynovy-krem";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"pomazanky/Salámová pomazánka.md": {
-	id: "pomazanky/Salámová pomazánka.md";
-  slug: "pomazanky/salámová-pomazánka";
+"pomazanky/Paprikova pomazanka.md": {
+	id: "pomazanky/Paprikova pomazanka.md";
+  slug: "pomazanky/paprikova-pomazanka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"pomazanky/Tuňáková pomazánka.md": {
-	id: "pomazanky/Tuňáková pomazánka.md";
-  slug: "pomazanky/tuňáková-pomazánka";
+"pomazanky/Salamova pomazanka.md": {
+	id: "pomazanky/Salamova pomazanka.md";
+  slug: "pomazanky/salamova-pomazanka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"pomazanky/Vajíčková pomazánka.md": {
-	id: "pomazanky/Vajíčková pomazánka.md";
-  slug: "pomazanky/vajíčková-pomazánka";
+"pomazanky/Tunakova pomazanka.md": {
+	id: "pomazanky/Tunakova pomazanka.md";
+  slug: "pomazanky/tunakova-pomazanka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"prilohy/Bramborové knedlíky.md": {
-	id: "prilohy/Bramborové knedlíky.md";
-  slug: "prilohy/bramborové-knedlíky";
+"pomazanky/Vajickova pomazanka.md": {
+	id: "pomazanky/Vajickova pomazanka.md";
+  slug: "pomazanky/vajickova-pomazanka";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"prilohy/Kynuté knedlíky.md": {
-	id: "prilohy/Kynuté knedlíky.md";
-  slug: "prilohy/kynuté-knedlíky";
+"prilohy/Bramborové knedliky.md": {
+	id: "prilohy/Bramborové knedliky.md";
+  slug: "prilohy/bramborové-knedliky";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"prilohy/Kynute knedliky.md": {
+	id: "prilohy/Kynute knedliky.md";
+  slug: "prilohy/kynute-knedliky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -479,72 +479,65 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Linecké.md": {
-	id: "vanoce/Linecké.md";
-  slug: "vanoce/linecké";
+"vanoce/Linecke.md": {
+	id: "vanoce/Linecke.md";
+  slug: "vanoce/linecke";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Mandlové rohlíčky.md": {
-	id: "vanoce/Mandlové rohlíčky.md";
-  slug: "vanoce/mandlové-rohlíčky";
+"vanoce/Medovnikové koule.md": {
+	id: "vanoce/Medovnikové koule.md";
+  slug: "vanoce/medovnikové-koule";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Medovníkové koule.md": {
-	id: "vanoce/Medovníkové koule.md";
-  slug: "vanoce/medovníkové-koule";
+"vanoce/Pernicky.md": {
+	id: "vanoce/Pernicky.md";
+  slug: "vanoce/pernicky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Perníčky.md": {
-	id: "vanoce/Perníčky.md";
-  slug: "vanoce/perníčky";
+"vanoce/Rumove koule.md": {
+	id: "vanoce/Rumove koule.md";
+  slug: "vanoce/rumove-koule";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Rumové koule.md": {
-	id: "vanoce/Rumové koule.md";
-  slug: "vanoce/rumové-koule";
+"vanoce/Spadlové pernicky.md": {
+	id: "vanoce/Spadlové pernicky.md";
+  slug: "vanoce/spadlové-pernicky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Vaječňák podle Žufánka.md": {
-	id: "vanoce/Vaječňák podle Žufánka.md";
-  slug: "vanoce/vaječňák-podle-žufánka";
+"vanoce/Vajecnak.md": {
+	id: "vanoce/Vajecnak.md";
+  slug: "vanoce/vajecnak";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Vanilkové rohlíčky.md": {
-	id: "vanoce/Vanilkové rohlíčky.md";
-  slug: "vanoce/vanilkové-rohlíčky";
+"vanoce/Vanilkove rohlicky.md": {
+	id: "vanoce/Vanilkove rohlicky.md";
+  slug: "vanoce/vanilkove-rohlicky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"vanoce/Špaldové pečníčky.md": {
-	id: "vanoce/Špaldové pečníčky.md";
-  slug: "vanoce/špaldové-pečníčky";
+"zavarovani/Nakladany hermelin.md": {
+	id: "zavarovani/Nakladany hermelin.md";
+  slug: "zavarovani/nakladany-hermelin";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"zavarovani/Nakládaný hermelín.md": {
-	id: "zavarovani/Nakládaný hermelín.md";
-  slug: "zavarovani/nakládaný-hermelín";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"zavarovani/Okurky od Dr. Bubenče.md": {
-	id: "zavarovani/Okurky od Dr. Bubenče.md";
-  slug: "zavarovani/okurky-od-dr-bubenče";
+"zavarovani/Okurky.md": {
+	id: "zavarovani/Okurky.md";
+  slug: "zavarovani/okurky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

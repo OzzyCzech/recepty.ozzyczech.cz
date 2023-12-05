@@ -7,7 +7,7 @@ title: Banánový chleba
 * kypřicí prášek 1/2 sáčku
 * 1 lžička jedlé sody
 * 1/4 lžičky soli
-* 1/2 lžičky mleté ​​skořice
+* 1/2 lžičky mleté skořice
 * 1/2 šálku změklého másla (+ na vymazání formy)
 * 3/4 šálku (150 g) cukru (nejlépe třtinový)
 * 1/3 šálku (80 g) bílého jogurtu nebo zakysané smetany, pokojové teploty
@@ -17,4 +17,6 @@ title: Banánový chleba
 * volitelné: 3/4 šálku (100 g) nasekaných pekanových nebo vlašských ořechů
 
 
+:::tip[Pečení]
 Pečeme v předehřáté troubě na 170 °C cca 50–60 minut.
+:::

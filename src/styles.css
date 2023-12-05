@@ -54,7 +54,7 @@ iframe {
 	}
 
 
-	header, footer, nav, aside, iframe, img {
+	header, footer, nav, iframe, img {
 		display: none !important;
 	}
 

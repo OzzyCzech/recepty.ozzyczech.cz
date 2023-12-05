@@ -17,6 +17,8 @@ Osolíme a přidáme trochu citrónové kůry. Zpracujeme vláční těsto,
 hotové těsto zabalíme do potravinové folie a
 necháme v lednici odležet do ruhého dne.
 
+![](./rohlicky-testo.jpeg)
+
 Hotové těsto musí být po celou dobu studené, vždy odkrojte kousek, se kterým budete pracovat.
 Vytvarujte cca 1 cm širokého hada a rozkrájejte jej na 5 cm dlouhé kousky.
 Vytvarujte malé rohlíčky, ty pokládajte na pečící papír nebo přímo na plech vedle sebe.

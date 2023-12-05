@@ -27,7 +27,7 @@ Naplníme formičky na muffiny a pečeme.
 180°C, cca 25 minut
 :::
 
-![Jablkové Muffiny v troubě](./jablkove-muffiny-peceni.jpeg)
+![Jablkové Muffiny v troubě](./jablkove-muffiny-peceni.jpeg "Title")
 
 ![Těsto na Jablkové muffiny](./jablkove-muffiny-testo.jpeg)
 
