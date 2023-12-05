@@ -19,12 +19,17 @@ Poté zvlášť smícháme sypké ingredience:
 Oloupeme si dvě větší jablka a nakrájíme je na kostičky (1x1 cm).
 
 Promícháme tekuté a sypké ingredience. Podle potřeby přidáme buď mouku nebo mléko.
-Nakonec přidáme jablka. Vzniklé těsto by němelo být příliš řídké. 
+Nakonec přidáme jablka. Vzniklé těsto by němelo být příliš řídké.
+
+![](jablkove-muffiny-testo.jpeg)
 
 Naplníme formičky na muffiny a pečeme.
+
+![](jablkove-muffiny-peceni.jpeg)
 
 :::tip[Pečení]
 180°C, cca 25 minut
 :::
 
-![](./jablkove-muffiny.jpg)
+![](jablkove-muffiny-hotove.jpeg)
+
