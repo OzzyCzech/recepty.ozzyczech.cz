@@ -1,5 +1,5 @@
 ---
-title: Broučkovka - Valašská Kyselica
+title: Broučková polévka 
 ---
 
 * 4-5 středních brambor
