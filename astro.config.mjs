@@ -20,6 +20,7 @@ export default defineConfig({
       sidebar: [
         {label: 'Domů', link: '/'},
         {label: 'Obědy', autogenerate: {directory: 'obedy'}, collapsed: true},
+        {label: 'Polévky', autogenerate: {directory: 'polevky'}, collapsed: true},
         {label: 'Přílohy', autogenerate: {directory: 'prilohy'}, collapsed: true},
         {
           label: 'Pečení',
