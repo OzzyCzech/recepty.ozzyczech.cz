@@ -213,6 +213,13 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
+"obedy/Quesadillas.md": {
+	id: "obedy/Quesadillas.md";
+  slug: "obedy/quesadillas";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
 "obedy/Svickova na smetane.md": {
 	id: "obedy/Svickova na smetane.md";
   slug: "obedy/svickova-na-smetane";
@@ -367,16 +374,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Estonsky Kringel.md": {
-	id: "peceni/ostatni/Estonsky Kringel.md";
-  slug: "peceni/ostatni/estonsky-kringel";
+"peceni/ostatni/Hamburgrové bulky.md": {
+	id: "peceni/ostatni/Hamburgrové bulky.md";
+  slug: "peceni/ostatni/hamburgrové-bulky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"peceni/ostatni/Hamburgrové bulky.md": {
-	id: "peceni/ostatni/Hamburgrové bulky.md";
-  slug: "peceni/ostatni/hamburgrové-bulky";
+"peceni/ostatni/Kringel.md": {
+	id: "peceni/ostatni/Kringel.md";
+  slug: "peceni/ostatni/kringel";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
