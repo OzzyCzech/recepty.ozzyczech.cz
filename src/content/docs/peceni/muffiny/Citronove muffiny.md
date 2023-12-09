@@ -1,5 +1,5 @@
 ---
-title: Citronové muffiny
+title: Citrónové muffiny
 ---
 
 Těsto na 12 kusů muffinů:
