@@ -18,4 +18,6 @@ Dále přidáme:
 * Jeden banán (rozsekaný vidličkou)
 * čokoláda nasekaná
 
-Peču při 180°C cca 20-25 minut.
+:::tip[Pečení]
+Pečeme na 180°C cca 20-25 minut.
+:::
