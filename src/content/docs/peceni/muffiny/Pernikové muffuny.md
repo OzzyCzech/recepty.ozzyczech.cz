@@ -16,4 +16,7 @@ Dále promícháme
 * dvě vrchovaté lžíce povidel
 * špetka soli
 
+
+:::tip[Pečení]
 Pečeme na 180°C, cca 25 minut
+:::
