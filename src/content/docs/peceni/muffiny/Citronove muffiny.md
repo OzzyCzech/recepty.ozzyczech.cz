@@ -14,7 +14,6 @@ Dále přidáme:
 
 * 1 vejce
 * hrnek kefíru
-* 1/2 hrnku cukru
 * 1/2 hrnku oleje
 * 1/4 lžičky soli
 * štávu z 1/2 citronu
