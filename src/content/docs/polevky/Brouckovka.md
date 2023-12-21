@@ -14,7 +14,7 @@ title: Broučková polévka
 Postup:
 
 * Dáme vařit nakrájené brambory v lehce osolené vodě
-* Přidíme kořením (kmín, pepř celý, nové koření, bobkový list, gulášovou papriku)
+* Přidáme kořením (kmín, pepř celý, nové koření, bobkový list, gulášovou papriku)
 * V dalším kastrolu uvaříme očištěné houby (pokud máme)
 * Slijeme vodu z kysaného zelí do hrnečku - pro případné dochucení
 * Zelí propláchneme a pokrájíme
