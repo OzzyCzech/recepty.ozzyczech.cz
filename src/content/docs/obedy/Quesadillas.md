@@ -2,6 +2,4 @@
 title: Quesadillas
 ---
 
-
-
 ![](./quesadillas.jpg)

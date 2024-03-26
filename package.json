@@ -1,7 +1,6 @@
 {
-  "name": "omg",
+  "private": true,
   "type": "module",
-  "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -10,10 +9,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.9",
-    "@astrojs/starlight": "0.21.1",
-    "astro": "4.5.3",
-    "sharp": "^0.33.2",
-    "typescript": "^5.4.2"
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/starlight": "0.21.2",
+    "astro": "4.5.9",
+    "sharp": "^0.33.3",
+    "typescript": "^5.4.3"
   }
 }
