@@ -11,10 +11,21 @@ title: Pizza 🍕
 - 20 g balení droždí (balíček sušeného nebo kostka)
 - hrst cukr
 
+:::tip[Hydratace těsta]
+Zvýšením množství vody dochází k rychlejšímu kynutí těsta.
+Více hydratované těsto je lepivější. Při pečení tvoří větší bubliny.
+Po dopečení je těsto vláčnější. Naopak méně hydratované těsto křupavější.
+
+- 50% hydratace: 500 g mouky / 250 ml vody
+- 60% hydratace: 500 g mouky / 300 ml vody
+- 70% hydratace: 500 g mouky / 350 ml vody
+- 80% hydratace: 500 g mouky / 400 ml vody
+:::
+
 Do vody postupně přidáme cukr trochu 1/3 mouky a droždí.
-Necháme vzejít kvásek. Nakonec přidáme zbytek mouky, olej a sůl. Promícháme a vyklopíme
-na vál a zpracujeme těsto. Těsto má být vláčné a téměř nelepí.
-Těsto je na 4 střední pizzy.
+Necháme vzejít kvásek. Nakonec přidáme zbytek mouky, olej a sůl.
+Promícháme a vyklopíme na vál a zpracujeme těsto.
+Množství těsta výjde na čtyři střední pizzy.
 
 Těsto necháme odležet přes noc v lednici do druhého dne kynout.
 
