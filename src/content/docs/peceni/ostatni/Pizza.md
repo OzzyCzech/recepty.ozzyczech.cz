@@ -11,6 +11,8 @@ title: Pizza 🍕
 - 20 g balení droždí (balíček sušeného nebo kostka)
 - hrst cukr
 
+Jedna Pizza odpovida cca 125 g mouky. 
+
 :::tip[Hydratace těsta]
 Zvýšením množství vody dochází k rychlejšímu kynutí těsta.
 Více hydratované těsto je lepivější. Při pečení tvoří větší bubliny.
