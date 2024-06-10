@@ -1,5 +1,5 @@
 ---
-title: Perníčky
+title: Medové Perníčky
 ---
 
 #### Perníkové těsto

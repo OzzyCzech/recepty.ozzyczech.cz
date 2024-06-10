@@ -14,4 +14,4 @@ Nejčastěji vaříme [Libanonské kari](/obědy/exotika/libanonské-kari/) a [S
 
 ## Vánoční recepty
 
-Na Vánoce děláme [Perníčky](/vanoce/pernicky/) a [Vanilkové rohlíčky](/vanoce/vanilkove-rohlicky/).
+Na Vánoce děláme [Medové Perníčky](/vánoce/medové-perníčky/) a [Vanilkové rohlíčky](/vánoce/vanilkové-rohlíčky/).
