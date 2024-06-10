@@ -13,6 +13,9 @@ title: Rychlý perník s jablky
 - lžíce povidel
 - 350 g jablek (oloupané na kostičky 1x1 cm)
 
+
+:::tip[Pečení]
 Perník pečeme asi 30 minut na 180°C ve vymazaném plechu.
+:::
 
 Poleva: [hořká čokoláda, 100 g - dmBio](https://www.dm.cz/dmbio-horka-cokolada-p4010355305145.html)

@@ -1,12 +1,12 @@
 ---
-title: Citrónové muffiny
+title: 🍋 Citrónové muffiny
 ---
 
 Těsto na 12 kusů muffinů:
 
 - 1,5 hrnku hladké mouky
 - 1/2 hrnku moučkového cukru
-- 1/2 lžičky jedlé sody
+- **1/2 lžičky jedlé sody**
 - lžička prášku do pečiva
 - vanilkový cukr nebo vanilkový extrakt
 

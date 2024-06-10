@@ -1,5 +1,5 @@
 ---
-title: Kari
+title: Žluté kari
 ---
 
 - 400g krůtí prso

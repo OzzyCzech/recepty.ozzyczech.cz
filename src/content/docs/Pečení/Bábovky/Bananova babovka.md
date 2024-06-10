@@ -1,5 +1,5 @@
 ---
-title: Banánová bábovka
+title: 🍌 Banánová bábovka
 ---
 
 - 200 g špaldové mouky
@@ -19,4 +19,6 @@ Nejprve promícháme vše sypké a přídáme
 
 Na závěr přidáme kousky hořké čokolády (cca 40 g nasekat na větší kousky).
 
+:::tip[Pečení]
 Pečeme na 180°C asi 35-40 minut ve vymazané formě - nesmí lepit na špejli.
+:::

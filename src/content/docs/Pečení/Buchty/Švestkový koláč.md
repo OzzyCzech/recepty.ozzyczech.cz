@@ -1,5 +1,7 @@
 ---
 title: Kynutý švestkový koláč s drobenkou
+sidebar:
+  label: Švestkový koláč
 ---
 
 - 500 g hladké mouky (nebo směs 300 g hladké 200 g polohrubé)
@@ -31,6 +33,8 @@ Vymazaný plech vymažeme máslem a vysypeme hladkou moukou. Roztáhneme těsto 
 
 - poklademe švestkami, posypeme drobenkou a necháme ještě 20 minut odpočinout.
 
+:::tip[Pečení]
 Pečeme na 180°C cca 35-40 minut
+:::
 
 Zdroj: https://www.kucharkaprodceru.cz/svestkovy-kolac/

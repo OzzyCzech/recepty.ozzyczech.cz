@@ -1,5 +1,5 @@
 ---
-title: Citronová buchta
+title: 🍋 Citronová buchta
 ---
 
 - 250 g měkký tvaroh

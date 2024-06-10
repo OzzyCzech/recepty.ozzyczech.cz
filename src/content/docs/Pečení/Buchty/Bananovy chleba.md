@@ -1,5 +1,5 @@
 ---
-title: Banánový chleba
+title: 🍌 Banánový chleba
 ---
 
 - 2 hrnky (250 g) polohrubé nebo hladké mouky

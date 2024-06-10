@@ -1,5 +1,5 @@
 ---
-title: Honzovy buchty
+title: 👑 Honzovy buchty
 ---
 
 - 400 g hladké mouky + 100 g špaldové mouky
