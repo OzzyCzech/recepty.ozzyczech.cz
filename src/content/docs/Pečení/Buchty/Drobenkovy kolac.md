@@ -4,19 +4,19 @@ title: Drobenkový koláč
 
 Těsto:
 
-* 400 g polohrubé mouky
-* 3/4 balíčku prášku do pečiva
-* 150 g cukr krupice
-* 1 vanilkový cukr
-* 1 vejce
-* 200 g másla
+- 400 g polohrubé mouky
+- 3/4 balíčku prášku do pečiva
+- 150 g cukr krupice
+- 1 vanilkový cukr
+- 1 vejce
+- 200 g másla
 
 Jablečná náplň:
 
-* cca 1 kg jablek
-* 1 pudinkový prášek vanilkový
-* 1/2 lžíce skořice
-* 120 g cukr krupice (dle chuti a sladkosti jablek)
+- cca 1 kg jablek
+- 1 pudinkový prášek vanilkový
+- 1/2 lžíce skořice
+- 120 g cukr krupice (dle chuti a sladkosti jablek)
 
 Postup:
 

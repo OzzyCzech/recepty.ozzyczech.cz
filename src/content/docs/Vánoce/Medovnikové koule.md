@@ -2,14 +2,14 @@
 title: Medovníkové koule
 ---
 
-* 500 g hladké mouky
-* 2 vejce
-* 2 lžičky jedlé sody
-* 60 g rozpuštěného másla
-* 4 lžíce medu
-* 150 g cukru moučka
-* 1/2 lžičky perníkového koření
-* špetka soli
+- 500 g hladké mouky
+- 2 vejce
+- 2 lžičky jedlé sody
+- 60 g rozpuštěného másla
+- 4 lžíce medu
+- 150 g cukru moučka
+- 1/2 lžičky perníkového koření
+- špetka soli
 
 Smícháme mouku, cukr, sůl a jednou sodu. Rozpustíme máslo společně s medem - nesmí být moc teplé.
 Přidáme vejce a vypracujeme těsto.
@@ -28,8 +28,8 @@ Volitělně můžeme přidat strouhané mandle nebo ořechy.
 
 Dále budete potřebovat:
 
-* 1 slazené karamelové Salko
-* 250 g změklého másla
+- 1 slazené karamelové Salko
+- 250 g změklého másla
 
 Z karamelového kondenzovaného slazeného mléka a změklého másla utřeme hladký krém a přidáme drobečky.
 Vyvalujeme kuličky, které následně obalujeme v zbytku drobečků. Hotové kuličky v chaldu vydrží cca 14 dní.

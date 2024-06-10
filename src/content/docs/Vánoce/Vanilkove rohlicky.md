@@ -2,14 +2,14 @@
 title: Vanilkové rohlíčky
 ---
 
-* 250 g másla
-* 350 g hladké mouky
-* 110 g moučkového cukru
-* 120-150 g nastrouhaných vlašských ořechů
-* vanilkový lusk
-* dva žloutky
-* sůl (cca 1g)
-* trocha citrónové kůry
+- 250 g másla
+- 350 g hladké mouky
+- 110 g moučkového cukru
+- 120-150 g nastrouhaných vlašských ořechů
+- vanilkový lusk
+- dva žloutky
+- sůl (cca 1g)
+- trocha citrónové kůry
 
 Smícháme hladkou mouku a curk a vše 2x přesejeme přes cedník.
 Přidáme změklé máslo, dva žloutky, vanilku a jemně nastrouhané ořechy.

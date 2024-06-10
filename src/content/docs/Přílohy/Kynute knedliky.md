@@ -2,12 +2,12 @@
 title: Kynuté knedlíky
 ---
 
-* 600 g hrubé mouky
-* 200 g polohrubé mouky
-* 350 ml mléka
-* více než 1/2 kostky droždí
-* dvě vejce
-* hrst soli
+- 600 g hrubé mouky
+- 200 g polohrubé mouky
+- 350 ml mléka
+- více než 1/2 kostky droždí
+- dvě vejce
+- hrst soli
 
 Připravíme kvásek ve vlažném mléku. Důkladně promícháme kvásek s moukou a vajíčky.
 Necháme v teple minimálně hodinu kynout! Poté těsto osolíme prohněteme

@@ -2,16 +2,16 @@
 title: Bábovka s jablky
 ---
 
-* 330 g hladké mouky
-* 1 lžíce mleté skořice
-* špetka soli
-* 2 čajové lžičky prášku do pečiva
-* půl čajové lžičky jedlé sody
-* 220 g rozpuštěného a vychladlého másla nebo oleje
-* 330 g hnědého přírodního cukru nebo cukru krupice
-* 4 vejce
-* 4 až 6 jablek
-* 1 hrnek mléka
+- 330 g hladké mouky
+- 1 lžíce mleté skořice
+- špetka soli
+- 2 čajové lžičky prášku do pečiva
+- půl čajové lžičky jedlé sody
+- 220 g rozpuštěného a vychladlého másla nebo oleje
+- 330 g hnědého přírodního cukru nebo cukru krupice
+- 4 vejce
+- 4 až 6 jablek
+- 1 hrnek mléka
 
 Jablka oloupejte a nakrájejte na kousky. V míse smíchejte všechny suché
 ingredience kromě cukru: mouku, skořici, sůl, jedlou sodu a prášek do pečiva.

@@ -4,13 +4,13 @@ title: Estonský kringel
 
 #### Recept na těsto
 
-* 300g hladké mouky
-* špetka soli
-* 150ml mléka
-* 15g droždí
-* 30g másla
-* 1 žloutek
-* 1 polévková lžíce cukru
+- 300g hladké mouky
+- špetka soli
+- 150ml mléka
+- 15g droždí
+- 30g másla
+- 1 žloutek
+- 1 polévková lžíce cukru
 
 #### Postup
 
@@ -23,29 +23,28 @@ title: Estonský kringel
 
 #### Skořicová náplň
 
-* 60g másla
-* 5 lžic krupicového cukru
-* 3 rovné lžičky skořice
+- 60g másla
+- 5 lžic krupicového cukru
+- 3 rovné lžičky skořice
 
 #### Ořechová náplň
 
-* 60g másla
-* 5 lžic krupicového cukru
-* 3 rovné lžičky skořice
-* 80 g mletých vlašských ořechů
+- 60g másla
+- 5 lžic krupicového cukru
+- 3 rovné lžičky skořice
+- 80 g mletých vlašských ořechů
 
 #### Maková náplň
 
-* 60 g másla
-* 120 g mletého máku
-* 4 lžíce třtinového cukru
-* 6 lžic mléka
-* lžička citronové šťávy.
+- 60 g másla
+- 120 g mletého máku
+- 4 lžíce třtinového cukru
+- 6 lžic mléka
+- lžička citronové šťávy.
 
 Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme náplní po celé ploše a zarolujeme do těsného hada. Ostrým nožem rozřízněte podélně napůl a zapleteme do kruhu. Necháme na plechu ještě trochu nakynout.
 
 Pečeme na 180°C asi 20-30 minut do zlatova.
-
 
 ![](./kringel-testo.jpg)
 ![](./kringel-rozvaleny.jpg)

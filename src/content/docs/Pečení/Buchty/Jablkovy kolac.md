@@ -4,21 +4,20 @@ title: Jablkový koláč
 
 ### Těsto
 
-* 100 g mouka pšeničná hladká 
-* 100 g mouka pšeničná polohrubá
-* 1 špetka soli
-* 100 g másla - pokojové teploty, nakrájené na kousky
-* žloutek 1 ks
-* 2 až tři lžíce studené vody
+- 100 g mouka pšeničná hladká
+- 100 g mouka pšeničná polohrubá
+- 1 špetka soli
+- 100 g másla - pokojové teploty, nakrájené na kousky
+- žloutek 1 ks
+- 2 až tři lžíce studené vody
 
 ### Náplň koláče
 
-* 4 jablka např. Golden Delicious, až 5 (podle velikosti), oloupaná a bez jádřince
-* 3 lžíce krupicový cukr nejlépe přírodní
-* 50 g másla
-* 5 lžicek meruňkové zavařeniny
-* 2 lžíce třešňovice nebo jiný aromatický alkohol
-
+- 4 jablka např. Golden Delicious, až 5 (podle velikosti), oloupaná a bez jádřince
+- 3 lžíce krupicový cukr nejlépe přírodní
+- 50 g másla
+- 5 lžicek meruňkové zavařeniny
+- 2 lžíce třešňovice nebo jiný aromatický alkohol
 
 1. Mouku prosijte na vál a utvořte v ní důlek. Do něj vložte kousky másla se žloutkem a prsty je rozmělněte; směs by měla vzhledem připomínat míchaná vejce.
 2. Vařečkou směs důkladně spojte, přilijte studenou vodu, znovu zpracujte a vytvořte vláčnou kouli. Zabalte ji do fólie a dejte na půl hodiny do ledničky (těsto se pak nebude lepit). Před další úpravou ho nechte zvláčnět při pokojové teplotě.

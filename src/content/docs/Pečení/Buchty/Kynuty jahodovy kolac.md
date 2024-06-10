@@ -2,16 +2,16 @@
 title: Kynutý jahodový koláč
 ---
 
-* 70 g cukr moučka
-* 1 špetka sůl
-* 150 ml mléko
-* 250 g tvaroh
-* 300 g polohrubá mouka
-* 1 k svejce
-* 1 balíček vanilkový cukr
-* 30 g droždí
-* 50 g cukr
-* 50 g máslo
+- 70 g cukr moučka
+- 1 špetka sůl
+- 150 ml mléko
+- 250 g tvaroh
+- 300 g polohrubá mouka
+- 1 k svejce
+- 1 balíček vanilkový cukr
+- 30 g droždí
+- 50 g cukr
+- 50 g máslo
 
 Mléko ohřejeme, aby bylo teplé. Přidáme do něj trochu cukru a droždí. Necháme
 vzejít kvásek. Mouku smícháme s cukrem, přidáme špetku soli, vejce, vykynutý

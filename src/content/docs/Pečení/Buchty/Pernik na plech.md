@@ -28,18 +28,17 @@ a pak přidejte tekuté suroviny
 Těsto můžete ještě vylepšit ořechy, rumem nebo strouhanými jablky.
 
 ### Poleva na perník
- 
+
 - 140 g cukru krupice
-- 100 ml vody 
+- 100 ml vody
 - 100 g čokolády s obsahem kakaa 60-70 %
 
 Vodu s cuktem vaříme 5 minut. Poté necháme vychladnout cca 10 minut (směs je velmi horká).
-Do tohoto sladkého sirupu přidáme nalámanou čokoládu a promícháme. 
+Do tohoto sladkého sirupu přidáme nalámanou čokoládu a promícháme.
 Upečenou buchtu potřeme marmeládou a naneseme čokoládu.
 
 :::tip[Pečení]
 Pečeme na 170° asi 20 - 35 minut ve vymazaném a vysypaném plechu.
 :::
-
 
 ![](./pernik-na-plech.jpg)

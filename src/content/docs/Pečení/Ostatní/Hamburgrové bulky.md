@@ -6,17 +6,17 @@ Recept na cca 12 větších bulek, 20 minut příprava + 60 minut kynutí těsta
 
 Na těsto:
 
-* 500 g hladké mouky
-* 2 žloutky
-* 1 vejce
-* 160 ml slunečnicového oleje
-* špetka soli
+- 500 g hladké mouky
+- 2 žloutky
+- 1 vejce
+- 160 ml slunečnicového oleje
+- špetka soli
 
 Na kvásek:
 
-* 250 ml vlažného mléka
-* 40 g cukru moučka
-* 42 g čerstvého droždí
+- 250 ml vlažného mléka
+- 40 g cukru moučka
+- 42 g čerstvého droždí
 
 mák, sezam nebo kmín na posypání bulky
 pečící papír

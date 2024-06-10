@@ -11,7 +11,7 @@ title: Nakládaný hermelín
 - Nakládané feferonky (nebo chilli papričky)
 - Koření: sladkou červenou papriku, bobkový list, kuličky nové koření, pepř kuličkový
 
-## Jak na věc? 
+## Jak na věc?
 
 - Oloupejte a na proužky nakrájejte **cibuli**.
 - Oloupejte si česnek a připravte feferony.

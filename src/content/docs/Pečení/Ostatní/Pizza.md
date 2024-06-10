@@ -4,14 +4,14 @@ title: Pizza 🍕
 
 ## Těsto na pizzu
 
-- 500 g hladká mouka *nebo směs různých druhů*
+- 500 g hladká mouka _nebo směs různých druhů_
 - 3 lžíce olivového oleje
 - větší hrst soli (7 gramů)
 - 250 ml vlažná voda
 - 20 g balení droždí (balíček sušeného nebo kostka)
 - hrst cukr
 
-Jedna Pizza odpovida cca 125 g mouky. 
+Jedna Pizza odpovida cca 125 g mouky.
 
 :::tip[Hydratace těsta]
 Zvýšením množství vody dochází k rychlejšímu kynutí těsta.
@@ -22,7 +22,7 @@ Po dopečení je těsto vláčnější. Naopak méně hydratované těsto křupa
 - 60% hydratace: 500 g mouky / 300 ml vody
 - 70% hydratace: 500 g mouky / 350 ml vody
 - 80% hydratace: 500 g mouky / 400 ml vody
-:::
+  :::
 
 Do vody postupně přidáme cukr trochu 1/3 mouky a droždí.
 Necháme vzejít kvásek. Nakonec přidáme zbytek mouky, olej a sůl.

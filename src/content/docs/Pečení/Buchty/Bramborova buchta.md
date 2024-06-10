@@ -2,12 +2,12 @@
 title: Bramborová buchta
 ---
 
-* 400 g hrubé mouky
-* 400 ml mléka
-* 1 vajíčko
-* 1 středně velká brambora
-* sůl, česnek, majoránka
-* polovina droždí
+- 400 g hrubé mouky
+- 400 ml mléka
+- 1 vajíčko
+- 1 středně velká brambora
+- sůl, česnek, majoránka
+- polovina droždí
 
 Nastrouháme na jemno bramboru - propláchneme teplou vodou a středně promačkáme.
 Vše promícháme. Přidáme majoránku, česnek a sůl. Vypracujeme těsto.
