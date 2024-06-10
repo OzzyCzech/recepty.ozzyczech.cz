@@ -10,7 +10,7 @@ Nejčastěji pečeme 🍕 [Pizzu](/peceni/ostatni/pizza/) a 🧁 [Jablkové muff
 
 ## Oběd
 
-Nejčastěji vaříme [Libanonské kari](/obedy/libanonské-kari/) a [Svíčkovou na smetaně](/obedy/svickova-na-smetane/).
+Nejčastěji vaříme [Libanonské kari](/obědy/exotika/libanonské-kari/) a [Svíčkovou na smetaně](/obedy/svickova-na-smetane/).
 
 ## Vánoční recepty
 

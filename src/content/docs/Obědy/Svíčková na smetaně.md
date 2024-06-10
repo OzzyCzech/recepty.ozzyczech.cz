@@ -16,6 +16,4 @@ title: Svíčková na smetaně
 Uvařenou zeleninu propasírujeme a promixujeme. Popřípadě zahustíme moukou z vodou.
 Dle chuti cukr, sůl, citronová šťáva.
 
-## Video
-
-<iframe src="https://www.youtube.com/embed/3fSJsTOQsjs"></iframe>
+https://www.youtube.com/watch?v=3fSJsTOQsjs
