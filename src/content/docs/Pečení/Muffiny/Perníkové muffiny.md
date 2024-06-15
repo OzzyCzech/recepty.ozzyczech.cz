@@ -1,5 +1,5 @@
 ---
-title: Perníkové muffiny
+title: 🐝 Perníkové muffiny
 ---
 
 - 2 hrnky hladké mouky (nebo směs)

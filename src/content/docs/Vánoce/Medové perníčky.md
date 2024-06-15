@@ -24,12 +24,12 @@ Konzistence těsta se odvíjí od použitého medu - pokud je těsto moc suché 
 možné přidat lžičku vody nebo trochu medu.
 
 V lednici zabalené ve folii **nechat den odpočinout**. Vyvalujeme cca na 3 mm
-(tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky).
-Pečeme ve vyhřáté troubě na **180 °C asi 8 minut**.
+(tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky). Pečeme
+ve vyhřáté troubě na **180 °C asi 8 minut**.
 
-Po upečení ještě horké perníčky **potřít vajíčkem** rozšlehaným s jednou
-lžičkou vody - pro lesk. Nechat zaschnout. Uložit do papírové bedny.
-Takže by se měly vyrábět cca 2-3 týdny před Vánoci.
+Po upečení ještě horké perníčky **potřít vajíčkem** rozšlehaným s jednou lžičkou
+vody - pro lesk. Nechat zaschnout. Uložit do papírové bedny. Takže by se měly
+vyrábět cca 2-3 týdny před Vánoci.
 
 #### Poleva
 
@@ -40,10 +40,10 @@ Takže by se měly vyrábět cca 2-3 týdny před Vánoci.
 
 Moučkový cukr **dvakrát přesejeme** přes jemné sítko (pokud důkladně cukr
 neprosejete, bude se vám ucpávat zdobící trubička) Přidáme bílek a mícháme tak
-dlouho, až se cukr rozpustí a vznikne jemná bílá poleva Pokud je poleva moc tuhá,
-přidáme pár kapek vody a naopak pokud je moc řídká, přidáme cukr. Polevu plníme
-do papírového kornoutu z pergamenového papíru nebo do speciálního zdobícího
-sáčku s plastovou trubičkou.
+dlouho, až se cukr rozpustí a vznikne jemná bílá poleva Pokud je poleva moc
+tuhá, přidáme pár kapek vody a naopak pokud je moc řídká, přidáme cukr. Polevu
+plníme do papírového kornoutu z pergamenového papíru nebo do speciálního
+zdobícího sáčku s plastovou trubičkou.
 
 _Doporučení_: Do polevy můžeme přidat pár kapek citrónu, bude příjemně nakyslá.
 Lze obarvit potravinářským barvivem, můžeme zdobit i barevnými motivy.

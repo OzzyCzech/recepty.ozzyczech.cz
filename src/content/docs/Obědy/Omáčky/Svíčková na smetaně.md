@@ -1,5 +1,5 @@
 ---
-title: Svíčková na smetaně
+title: 🕯️ Svíčková na smetaně
 ---
 
 ## Postup
@@ -11,9 +11,10 @@ title: Svíčková na smetaně
 - přidáme vinný ocet a necháme odpařit
 - přidáme citrónovou kůru a horčici
 - koření: bobkový list, nové koření, pepř celý, tymián
-- voda + maso a vaříme v tlakáči cca 45 min (popř. pečeme v troubě na 160°C dvě hodiny)
+- voda + maso a vaříme v tlakáči cca 45 min (popř. pečeme v troubě na 160°C dvě
+  hodiny)
 
-Uvařenou zeleninu propasírujeme a promixujeme. Popřípadě zahustíme moukou z vodou.
-Dle chuti cukr, sůl, citronová šťáva.
+Uvařenou zeleninu propasírujeme a promixujeme. Popřípadě zahustíme moukou z
+vodou. Dle chuti cukr, sůl, citronová šťáva.
 
 https://www.youtube.com/watch?v=3fSJsTOQsjs

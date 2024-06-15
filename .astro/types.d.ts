@@ -136,23 +136,51 @@ declare module 'astro:content' {
 
 	type ContentEntryMap = {
 		"docs": {
-"Obědy/Boloňská omáčka.md": {
-	id: "Obědy/Boloňská omáčka.md";
-  slug: "obědy/boloňská-omáčka";
+"Obědy/Kari/Libanonské kari.md": {
+	id: "Obědy/Kari/Libanonské kari.md";
+  slug: "obědy/kari/libanonské-kari";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Obědy/Kari.md": {
-	id: "Obědy/Kari.md";
-  slug: "obědy/kari";
+"Obědy/Kari/Žluté kari.md": {
+	id: "Obědy/Kari/Žluté kari.md";
+  slug: "obědy/kari/žluté-kari";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Obědy/Libanonské kari.md": {
-	id: "Obědy/Libanonské kari.md";
-  slug: "obědy/libanonské-kari";
+"Obědy/Omáčky/ Napolitána.md": {
+	id: "Obědy/Omáčky/ Napolitána.md";
+  slug: "obědy/omáčky/-napolitána";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"Obědy/Omáčky/Boloňská omáčka.md": {
+	id: "Obědy/Omáčky/Boloňská omáčka.md";
+  slug: "obědy/omáčky/boloňská-omáčka";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"Obědy/Omáčky/Svíčková na smetaně.md": {
+	id: "Obědy/Omáčky/Svíčková na smetaně.md";
+  slug: "obědy/omáčky/svíčková-na-smetaně";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"Obědy/Pečení/Krůtí Špízy.md": {
+	id: "Obědy/Pečení/Krůtí Špízy.md";
+  slug: "obědy/pečení/krůtí-špízy";
+  body: string;
+  collection: "docs";
+  data: InferEntrySchema<"docs">
+} & { render(): Render[".md"] };
+"Obědy/Pečení/Výpečky se zelím.md": {
+	id: "Obědy/Pečení/Výpečky se zelím.md";
+  slug: "obědy/pečení/výpečky-se-zelím";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -160,13 +188,6 @@ declare module 'astro:content' {
 "Obědy/Quesadillas.md": {
 	id: "Obědy/Quesadillas.md";
   slug: "obědy/quesadillas";
-  body: string;
-  collection: "docs";
-  data: InferEntrySchema<"docs">
-} & { render(): Render[".md"] };
-"Obědy/Svíčková na smetaně.md": {
-	id: "Obědy/Svíčková na smetaně.md";
-  slug: "obědy/svíčková-na-smetaně";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -255,16 +276,16 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Pečení/Buchty/Svestkova kynuta buchtu.md": {
-	id: "Pečení/Buchty/Svestkova kynuta buchtu.md";
-  slug: "pečení/buchty/svestkova-kynuta-buchtu";
+"Pečení/Buchty/Tvarohove rezy.md": {
+	id: "Pečení/Buchty/Tvarohove rezy.md";
+  slug: "pečení/buchty/tvarohove-rezy";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Pečení/Buchty/Tvarohove rezy.md": {
-	id: "Pečení/Buchty/Tvarohove rezy.md";
-  slug: "pečení/buchty/tvarohove-rezy";
+"Pečení/Buchty/Švestkový koláč.md": {
+	id: "Pečení/Buchty/Švestkový koláč.md";
+  slug: "pečení/buchty/švestkový-koláč";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -458,9 +479,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Vánoce/Pernicky.md": {
-	id: "Vánoce/Pernicky.md";
-  slug: "vánoce/pernicky";
+"Vánoce/Medové perníčky.md": {
+	id: "Vánoce/Medové perníčky.md";
+  slug: "vánoce/medové-perníčky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">
@@ -486,9 +507,9 @@ declare module 'astro:content' {
   collection: "docs";
   data: InferEntrySchema<"docs">
 } & { render(): Render[".md"] };
-"Vánoce/Vanilkove rohlicky.md": {
-	id: "Vánoce/Vanilkove rohlicky.md";
-  slug: "vánoce/vanilkove-rohlicky";
+"Vánoce/Vanilkové rohlíčky.md": {
+	id: "Vánoce/Vanilkové rohlíčky.md";
+  slug: "vánoce/vanilkové-rohlíčky";
   body: string;
   collection: "docs";
   data: InferEntrySchema<"docs">

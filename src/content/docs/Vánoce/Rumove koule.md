@@ -9,6 +9,6 @@ title: Rumové koule
 - moučkový cukr dle chuti
 
 Změklé máslo nakrájíme na kousky a dáme do misky nebo na vál. Přisypeme cukr,
-kakao a rozdrcené piškoty. Do důlku vlijeme rum s rozinkama. Rukama zpracujeme
-v těsto, které dáme do lednice odpočinout. Z mírně ztuhlé hmoty tvarujeme menší
+kakao a rozdrcené piškoty. Do důlku vlijeme rum s rozinkama. Rukama zpracujeme v
+těsto, které dáme do lednice odpočinout. Z mírně ztuhlé hmoty tvarujeme menší
 kuličky. Rumové kuličky obalíme v kokosu a sežereme ještě před štědrým dnem :-)

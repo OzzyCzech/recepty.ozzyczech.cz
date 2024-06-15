@@ -20,7 +20,8 @@ Dále přidáme:
 - citronovou kůru
 
 Do vzniklého těsta můžeme přidat nasekanou čokoládu, rozinky, ořechy, atd.
-Plníme do košíčků na muffiny - neplňit přiliš k okraji, těsto má tendenci utíkat.
+Plníme do košíčků na muffiny - neplňit přiliš k okraji, těsto má tendenci
+utíkat.
 
 :::tip[Pečení]
 Pečeme na 180°C cca 20-25 minut.

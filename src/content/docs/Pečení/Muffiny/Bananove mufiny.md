@@ -4,7 +4,8 @@ title: 🍌 Banánové mufiny
 
 Těsto na 12 kusů muffinů:
 
-- 250 g hladké mouky (na ovocné muffiny dejte 200 g hladké a 50 g polohrubé) popř. špaldové
+- 250 g hladké mouky (na ovocné muffiny dejte 200 g hladké a 50 g polohrubé)
+  popř. špaldové
 - 100 g cukru (s čokoládou uberte, s kyselým ovocem naopak přidejte)
 - vanilkový cukr
 - 1x přášek na pečení

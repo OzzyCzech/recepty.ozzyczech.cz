@@ -11,3 +11,8 @@ yarn install & yarn dev
 - [Vercel](https://vercel.com/) for hosting
 - [Astro](https://astro.build/) for site generation
 - [Starlight](https://starlight.astro.build/) for docs theme
+
+
+## Inspirace
+
+https://dadala.hyperlinx.cz/

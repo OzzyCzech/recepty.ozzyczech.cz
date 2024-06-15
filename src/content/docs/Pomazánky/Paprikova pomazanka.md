@@ -6,4 +6,6 @@ title: Papriková pomazánka
 - polotučný tvaroh - ne vaničkový, je příliš řídky
 - sůl, pepř
 
-Papriku očistíme, nakrájíme na jemno. Přidáme tvaroh a postupně mixujeme, až dosáhneme požadované konzustence - paprika má tendenci mokvat, dejte pozor, aby pomazánka nebyla příliš řídká,
+Papriku očistíme, nakrájíme na jemno. Přidáme tvaroh a postupně mixujeme, až
+dosáhneme požadované konzustence - paprika má tendenci mokvat, dejte pozor, aby
+pomazánka nebyla příliš řídká,

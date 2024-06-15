@@ -1,5 +1,5 @@
 ---
-title: Žluté kari
+title: 🟡 Žluté kari
 ---
 
 - 400g krůtí prso
@@ -13,4 +13,5 @@ title: Žluté kari
 - 200 ml kokosového mléka
 
 Wok na kterém opečeme maso na nudličky (můžeme přidat gram masalu nebo kurkumu).
-Všechny ingredience na omáčku rozmixujeme bokem - přidáme k masu a provaříme. Podáváme s rýží.
+Všechny ingredience na omáčku rozmixujeme bokem - přidáme k masu a provaříme.
+Podáváme s rýží.

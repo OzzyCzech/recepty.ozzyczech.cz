@@ -9,7 +9,7 @@ title: Kynuté knedlíky
 - dvě vejce
 - hrst soli
 
-Připravíme kvásek ve vlažném mléku. Důkladně promícháme kvásek s moukou a vajíčky.
-Necháme v teple minimálně hodinu kynout! Poté těsto osolíme prohněteme
-a tvoříme úhledné šišky, které ve vroucí vodě vaříme 22 minut.
-Po vložení nezapomeneme odlepit šišky od dna. Co 5 minut během vaření otáčíme.
+Připravíme kvásek ve vlažném mléku. Důkladně promícháme kvásek s moukou a
+vajíčky. Necháme v teple minimálně hodinu kynout! Poté těsto osolíme prohněteme
+a tvoříme úhledné šišky, které ve vroucí vodě vaříme 22 minut. Po vložení
+nezapomeneme odlepit šišky od dna. Co 5 minut během vaření otáčíme.

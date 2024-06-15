@@ -15,7 +15,7 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
-			title: 'Moje recepty',
+			title: 'Naše recepty',
 			tableOfContents: false,
 			pagination: false,
 			customCss: ['./src/styles.css'],
@@ -27,8 +27,8 @@ export default defineConfig({
 			},
 			sidebar: [
 				{label: 'Obědy', collapsed: false, autogenerate: {directory: 'Obědy', collapsed: true}},
-				{label: 'Polévky', collapsed: false, autogenerate: {directory: 'Polévky'}},
-				{label: 'Přílohy', collapsed: false, autogenerate: {directory: 'Příloh'}},
+				{label: 'Polévky', collapsed: true, autogenerate: {directory: 'Polévky'}},
+				{label: 'Přílohy', collapsed: true, autogenerate: {directory: 'Přílohy'}},
 				{label: 'Pečení', collapsed: false, autogenerate: {directory: 'Pečení', collapsed: true}},
 				{label: 'Pomazánky', collapsed: true, autogenerate: {directory: 'Pomazánky'}},
 				{label: 'Vánoce', collapsed: true, autogenerate: {directory: 'Vánoce'}},

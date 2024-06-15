@@ -2,7 +2,8 @@
 title: Bulky na burgery
 ---
 
-Recept na cca 12 větších bulek, 20 minut příprava + 60 minut kynutí těsta + 15 minut pečení
+Recept na cca 12 větších bulek, 20 minut příprava + 60 minut kynutí těsta + 15
+minut pečení
 
 Na těsto:
 
@@ -18,8 +19,7 @@ Na kvásek:
 - 40 g cukru moučka
 - 42 g čerstvého droždí
 
-mák, sezam nebo kmín na posypání bulky
-pečící papír
-hladká mouka na pomoučení pracovní plochy
+mák, sezam nebo kmín na posypání bulky pečící papír hladká mouka na pomoučení
+pracovní plochy
 
 zdroj: https://www.mycookingdiary.cz/recept/domaci-bulky-na-burgery/
