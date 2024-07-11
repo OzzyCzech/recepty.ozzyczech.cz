@@ -19,3 +19,5 @@ Víčka je dobré odmastit - spařit 100 °C vodou a nechat 5 - 10 minut odstát
 :::tip[Zavařování]
 20 minut vařit na **80-85°C**
 :::
+
+Na 10Kg okurek je potřeba cca 30 sklenic.
