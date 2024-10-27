@@ -13,14 +13,16 @@ title: Pizza 🍕
 
 Jedna Pizza odpovida cca 125 g mouky.
 
-:::tip[Hydratace těsta] Zvýšením množství vody dochází k rychlejšímu kynutí těsta.
+:::tip[Hydratace těsta]
+Zvýšením množství vody dochází k rychlejšímu kynutí těsta.
 Více hydratované těsto je lepivější. Při pečení tvoří větší bubliny. Po dopečení
 je těsto vláčnější. Naopak méně hydratované těsto křupavější.
 
 - 50% hydratace: 500 g mouky / 250 ml vody
 - 60% hydratace: 500 g mouky / 300 ml vody
 - 70% hydratace: 500 g mouky / 350 ml vody
-- 80% hydratace: 500 g mouky / 400 ml vody :::
+- 80% hydratace: 500 g mouky / 400 ml vody
+:::
 
 Do vody postupně přidáme cukr trochu 1/3 mouky a droždí. Necháme vzejít kvásek.
 Nakonec přidáme zbytek mouky, olej a sůl. Promícháme a vyklopíme na vál a
