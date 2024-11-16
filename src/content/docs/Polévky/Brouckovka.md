@@ -1,5 +1,7 @@
 ---
 title: Broučková polévka
+sidebar:
+  label: 🐞 Broučkovka
 ---
 
 - 4-5 středních brambor

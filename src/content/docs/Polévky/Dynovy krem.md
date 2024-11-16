@@ -1,5 +1,7 @@
 ---
 title: Dýňový krém
+sidebar:
+  label: 🎃 Dýňová
 ---
 
 #### Ingredience

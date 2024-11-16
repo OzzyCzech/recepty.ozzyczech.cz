@@ -1,5 +1,7 @@
 ---
 title: Čočková polévka
+sidebar:
+  label: Čočková
 ---
 
 ## Ingredience
