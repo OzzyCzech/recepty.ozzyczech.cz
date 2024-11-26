@@ -25,5 +25,5 @@ posypeme posypkou z másla, hrubé mouky, hnědého cukru.
 Pečeme cca 20 - 30 minut na 180 °C
 :::
 
-![Bublanina](./bublanina-one.jpg) ![Bublanina](./bublanina-two.jpg)
-![Bublanina](./bublanina-three.jpg)
+![Bublanina](./hrnickova-bublanina-one.jpg)
+![Bublanina](./hrnickova-bublanina-two.jpg)

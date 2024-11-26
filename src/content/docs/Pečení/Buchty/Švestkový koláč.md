@@ -37,6 +37,8 @@ celém plechu
 
 - poklademe švestkami, posypeme drobenkou a necháme ještě 20 minut odpočinout.
 
-:::tip[Pečení] Pečeme na 180°C cca 35-40 minut :::
+:::tip[Pečení]
+Pečeme na 180°C cca 35-40 minut
+:::
 
 Zdroj: https://www.kucharkaprodceru.cz/svestkovy-kolac/

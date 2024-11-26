@@ -1,5 +1,5 @@
 ---
-title: Bramborová buchta
+title: 🥔 Bramborová buchta
 ---
 
 - 400 g hrubé mouky
