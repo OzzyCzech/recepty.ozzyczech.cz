@@ -25,7 +25,7 @@ dále budeme potřebovat:
 
 * 1 hrnek nahrubo nastrouhané mrkve (tři větší mrkve)
 * 1/2 hrnku nahrubo nastrouhaného jablka se slupkou (jedno velké jablko)
-* 1 hrnek nasekaných ořechů (vlašské)
+* 1 hrnek (100g) nasekaných vlašských ořechů
 
 #### Postup
 
