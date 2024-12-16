@@ -1,5 +1,6 @@
 ---
 title: Buchtičky s krémem
+slug: buchticky
 ---
 
 - 25 g čerstvého droždí
@@ -12,10 +13,9 @@ title: Buchtičky s krémem
 - 100 ml oleje
 - rozpuštěné máslo na vymazání plechu a potření buchtiček
 
-Připravíme kvásek a následně těsto. Těsto necháme 45 minut kynout. Vyválíme cca
-4 válečky. Krájíme a pokládáme těsně vedle sebe na máslem vymazaný pekáč. Každou
-buchtičku důkladně potřete rozpuštěným máslem. Pečema na 180 °C cca 20-30 minut
-dozlatova.
+Připravíme kvásek a následně těsto. Těsto necháme 45 minut kynout. Vyválíme cca 4 válečky. Krájíme a pokládáme těsně
+vedle sebe na máslem vymazaný pekáč. Každou buchtičku důkladně potřete rozpuštěným máslem. Pečema na 180 °C cca 20-30
+minut dozlatova.
 
 #### Na žloutkový krém:
 
@@ -26,5 +26,5 @@ dozlatova.
 - 1–2 lžíce <abbr title="Kukuřičný škrob">maizeny</abbr>
 - 6 žloutků
 
-Svařte mléko, polovinu cukru, maizenu a vanilková zrnka. Směs nechtě 15 minut
-odpočívat. Následně ve vodní do horkého mléka zašleháme žloutky.
+Svařte mléko, polovinu cukru, maizenu a vanilková zrnka. Směs nechtě 15 minut odpočívat. Následně ve vodní do horkého
+mléka zašleháme žloutky.

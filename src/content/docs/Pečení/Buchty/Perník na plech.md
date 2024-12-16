@@ -1,5 +1,6 @@
 ---
 title: Perník na plech
+slug: pernik-na-plech
 ---
 
 Promíchejte si nejprve sypké suroviny:
@@ -15,8 +16,8 @@ Promíchejte si nejprve sypké suroviny:
 - 2 lžíce kakaového prášku
 - špatka soli
 
-Mouku můžeme nakombinovat s žitnou moukou, ale to už je na vás. Doporučuji
-použíz maximálně 1/2 hrnku žitné mouky - jinak je těsto příliš husté.
+Mouku můžeme nakombinovat s žitnou moukou, ale to už je na vás. Doporučuji použíz maximálně 1/2 hrnku žitné mouky -
+jinak je těsto příliš husté.
 
 a pak přidejte tekuté suroviny
 
@@ -34,9 +35,8 @@ Těsto můžete ještě vylepšit ořechy, rumem nebo strouhanými jablky.
 - 100 ml vody
 - 100 g čokolády s obsahem kakaa 60-70 %
 
-Vodu s cuktem vaříme 5 minut. Poté necháme vychladnout cca 10 minut (směs je
-velmi horká). Do tohoto sladkého sirupu přidáme nalámanou čokoládu a promícháme.
-Upečenou buchtu potřeme marmeládou a naneseme čokoládu.
+Vodu s cuktem vaříme 5 minut. Poté necháme vychladnout cca 10 minut (směs je velmi horká). Do tohoto sladkého sirupu
+přidáme nalámanou čokoládu a promícháme. Upečenou buchtu potřeme marmeládou a naneseme čokoládu.
 
 :::tip[Pečení]
 Pečeme na 170° asi 20 - 35 minut ve vymazaném a vysypaném plechu.

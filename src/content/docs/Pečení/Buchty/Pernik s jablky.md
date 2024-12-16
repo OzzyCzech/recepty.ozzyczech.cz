@@ -1,5 +1,6 @@
 ---
-title: Rychlý perník s jablky
+title: Perník s jablky
+slug: pernik-s-jablky
 ---
 
 - kypřící prášek do perníku

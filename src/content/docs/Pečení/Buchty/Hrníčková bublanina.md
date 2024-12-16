@@ -1,5 +1,6 @@
 ---
 title: Hrníčková bublanina
+slug: hrnickova-bublanina
 ---
 
 Promícháme nejprve sypkou část:
@@ -18,8 +19,8 @@ Poté samostatně promícháme tekutou část:
 - 1 ks vejce
 - špetka soli
 
-Následně vše smícháme dohromady a vylejeme na vymazaný plech. Pokladame ovoce a
-posypeme posypkou z másla, hrubé mouky, hnědého cukru.
+Následně vše smícháme dohromady a vylejeme na vymazaný plech. Pokladame ovoce a posypeme posypkou z másla, hrubé mouky,
+hnědého cukru.
 
 :::tip[Pečení]
 Pečeme cca 20 - 30 minut na 180 °C

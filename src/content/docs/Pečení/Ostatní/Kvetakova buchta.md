@@ -1,5 +1,6 @@
 ---
 title: Květáková buchta
+slug: kvetakova-buchta
 ---
 
 Zelenina:
@@ -19,7 +20,5 @@ Těsto:
 - 3 vajíčka
 - 2 lžičky prášku do pečiva
 
-Květák nasekáme na malé kousky. Osmažíme cibulku na másle do zlatova,
-nastrouháme mrkev a vše smícháme. Promícháme s těstem a Vlijeme do vymazané a
-vysypané koláčové formy nahoru dáme sýr a pečeme na 190°C přibližně 30 - 35
-minut.
+Květák nasekáme na malé kousky. Osmažíme cibulku na másle do zlatova, nastrouháme mrkev a vše smícháme. Promícháme s
+těstem a Vlijeme do vymazané a vysypané koláčové formy nahoru dáme sýr a pečeme na 190°C přibližně 30 - 35 minut.

@@ -1,7 +1,6 @@
 ---
 title: Dýňový krém
-sidebar:
-  label: 🎃 Dýňová
+slug: dynovy-krem
 ---
 
 #### Ingredience
@@ -19,15 +18,13 @@ sidebar:
 - mletý pepř
 - sůl
 
-Oloupeme si mrkev, celer, petržel a dýni a nakrájíme na kostičky Na rozpuštěném
-másle orestujeme oloupanou cibuli nakrájenou na kostičky. Až cibule zezlátne,
-přidáme prolisovaný česnek.
+Oloupeme si mrkev, celer, petržel a dýni a nakrájíme na kostičky Na rozpuštěném másle orestujeme oloupanou cibuli
+nakrájenou na kostičky. Až cibule zezlátne, přidáme prolisovaný česnek.
 
 Poté přidáme nakrájenou zeleninu a dýni. Zalijeme vodou a vaříme do měkka.
 
-Vše rozmixujeme a přidáme smetanu, kmín, sůl a pepř dle chuti a ještě krátce
-povaříme. Případně můžeme ještě znovu promixovat, aby byla polévka opravdu
-krémová. Pro zjemnění chuti můžeme přidat ještě trochu másla a smetanu.
+Vše rozmixujeme a přidáme smetanu, kmín, sůl a pepř dle chuti a ještě krátce povaříme. Případně můžeme ještě znovu
+promixovat, aby byla polévka opravdu krémová. Pro zjemnění chuti můžeme přidat ještě trochu másla a smetanu.
 
 ![](./dynovy-krem-priprava.jpg)
 

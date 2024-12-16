@@ -13,16 +13,12 @@ title: Kynutý jahodový koláč
 - 50 g cukr
 - 50 g máslo
 
-Mléko ohřejeme, aby bylo teplé. Přidáme do něj trochu cukru a droždí. Necháme
-vzejít kvásek. Mouku smícháme s cukrem, přidáme špetku soli, vejce, vykynutý
-kvásek a rozpuštěné máslo. Zaděláme těsto, které necháme na teplém místě necelou
-hodinu kynout. Tvaroh smícháme s cukrem, vanilkovým cukrem a vanilkovým
-pudinkem.
+Mléko ohřejeme, aby bylo teplé. Přidáme do něj trochu cukru a droždí. Necháme vzejít kvásek. Mouku smícháme s cukrem,
+přidáme špetku soli, vejce, vykynutý kvásek a rozpuštěné máslo. Zaděláme těsto, které necháme na teplém místě necelou
+hodinu kynout. Tvaroh smícháme s cukrem, vanilkovým cukrem a vanilkovým pudinkem.
 
-Vykynuté těsto rozprostřeme na vymazaný a moukou vysypaný plech. Tvaroh můžeme
-nanést na celé těsto, nebo můžeme pomocí cukrářského sáčku udělat mřížky, mezi
-které naklademe jahody.
+Vykynuté těsto rozprostřeme na vymazaný a moukou vysypaný plech. Tvaroh můžeme nanést na celé těsto, nebo můžeme pomocí
+cukrářského sáčku udělat mřížky, mezi které naklademe jahody.
 
-Z kousku másla, cukru a mouky uděláme drobenku, kterou posypeme jahody. Jahodový
-kynutý koláč s tvarohem pečeme při 180 °C asi 35 minut. Jahodový kynutý koláč s
-tvarohem necháme vychladnout a můžeme podávat.
+Z kousku másla, cukru a mouky uděláme drobenku, kterou posypeme jahody. Jahodový kynutý koláč s tvarohem pečeme při 180
+°C asi 35 minut. Jahodový kynutý koláč s tvarohem necháme vychladnout a můžeme podávat.

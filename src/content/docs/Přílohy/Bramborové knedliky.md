@@ -1,5 +1,6 @@
 ---
 title: Bramborové knedlíky
+slug: bramborove-knedliky
 ---
 
 - 800 g brambor vařených, strouhaných na jemno
@@ -9,5 +10,5 @@ title: Bramborové knedlíky
 - 2 lžíce octa
 - 1 lžičku soli
 
-Promícháme a utvoříme úhledné šišky. 15 - 20 minut vaříme ve vroucí vodě. Ihned
-odpíchneme od dna. Rozkrojený nesmí lepit.
+Promícháme a utvoříme úhledné šišky. 15 - 20 minut vaříme ve vroucí vodě. Ihned odpíchneme od dna. Rozkrojený nesmí
+lepit.

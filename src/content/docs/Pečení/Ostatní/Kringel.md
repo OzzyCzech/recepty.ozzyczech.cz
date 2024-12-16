@@ -1,5 +1,6 @@
 ---
 title: Estonský kringel
+slug: kringel
 ---
 
 #### Recept na těsto
@@ -42,9 +43,8 @@ title: Estonský kringel
 - 6 lžic mléka
 - lžička citronové šťávy.
 
-Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme náplní
-po celé ploše a zarolujeme do těsného hada. Ostrým nožem rozřízněte podélně
-napůl a zapleteme do kruhu. Necháme na plechu ještě trochu nakynout.
+Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme náplní po celé ploše a zarolujeme do těsného
+hada. Ostrým nožem rozřízněte podélně napůl a zapleteme do kruhu. Necháme na plechu ještě trochu nakynout.
 
 Pečeme na 180°C asi 20-30 minut do zlatova.
 

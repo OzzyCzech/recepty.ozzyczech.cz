@@ -1,5 +1,6 @@
 ---
 title: Linecké těsto
+slug: linecke
 ---
 
 - 300 g hladké mo uky

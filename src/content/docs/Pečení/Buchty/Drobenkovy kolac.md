@@ -1,5 +1,6 @@
 ---
 title: Drobenkový koláč
+slug: drobenkovy-kolac
 ---
 
 Těsto:
@@ -23,8 +24,7 @@ Postup:
 1. Oloupané a nastrouhané jablka smícháme s pudinkem, skořicí a cukrem.
 2. V míse smícháme mouku s práškem do pečiva, cukrem a vanilkovým cukrem.
 3. Přidáme vejce a na kostičky nakrájené máslo. Vypracujeme těsto.
-4. Těsto **rozdělíme na dvě části**. První část těsta použijeme na spodek,
-   druhou na drobenku.
+4. Těsto **rozdělíme na dvě části**. První část těsta použijeme na spodek, druhou na drobenku.
 5. Vyšší pekáček o rozměrech cca 35×30 cm vyložíme pečicím papírem.
 6. Polovinu drobenky **nasypeme do pekáčku**, uhladíme do rovnoměrné vrstvy.
 7. Na drobenku rozprostřeme jablkovou náplň.

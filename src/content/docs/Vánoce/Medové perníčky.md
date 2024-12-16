@@ -1,5 +1,6 @@
 ---
 title: Medové Perníčky
+slug: medove-pernicky
 ---
 
 #### Perníkové těsto
@@ -18,18 +19,16 @@ title: Medové Perníčky
   - badyán - cca 2-3 hvězdičky
   - citronová kůra z ½ citronu
 
-Máslo a med společně rozpustit v teplé vodní lázni za stálého míchání. Těsto se
-díky tomu pak bude lépe zpracovávat. Vše pořádně promícháme až vznikne těsto.
-Konzistence těsta se odvíjí od použitého medu - pokud je těsto moc suché je
-možné přidat lžičku vody nebo trochu medu.
+Máslo a med společně rozpustit v teplé vodní lázni za stálého míchání. Těsto se díky tomu pak bude lépe zpracovávat. Vše
+pořádně promícháme až vznikne těsto. Konzistence těsta se odvíjí od použitého medu - pokud je těsto moc suché je možné
+přidat lžičku vody nebo trochu medu.
 
 V lednici zabalené ve folii **nechat den odpočinout**. Vyvalujeme cca na 3 mm
-(tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky). Pečeme
-ve vyhřáté troubě na **180 °C asi 8 minut**.
+(tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky). Pečeme ve vyhřáté troubě na **180 °C asi 8
+minut**.
 
-Po upečení ještě horké perníčky **potřít vajíčkem** rozšlehaným s jednou lžičkou
-vody - pro lesk. Nechat zaschnout. Uložit do papírové bedny. Takže by se měly
-vyrábět cca 2-3 týdny před Vánoci.
+Po upečení ještě horké perníčky **potřít vajíčkem** rozšlehaným s jednou lžičkou vody - pro lesk. Nechat zaschnout.
+Uložit do papírové bedny. Takže by se měly vyrábět cca 2-3 týdny před Vánoci.
 
 #### Poleva
 
@@ -38,14 +37,12 @@ vyrábět cca 2-3 týdny před Vánoci.
 - pár kapek vody
 - citrón
 
-Moučkový cukr **dvakrát přesejeme** přes jemné sítko (pokud důkladně cukr
-neprosejete, bude se vám ucpávat zdobící trubička) Přidáme bílek a mícháme tak
-dlouho, až se cukr rozpustí a vznikne jemná bílá poleva Pokud je poleva moc
-tuhá, přidáme pár kapek vody a naopak pokud je moc řídká, přidáme cukr. Polevu
-plníme do papírového kornoutu z pergamenového papíru nebo do speciálního
-zdobícího sáčku s plastovou trubičkou.
+Moučkový cukr **dvakrát přesejeme** přes jemné sítko (pokud důkladně cukr neprosejete, bude se vám ucpávat zdobící
+trubička) Přidáme bílek a mícháme tak dlouho, až se cukr rozpustí a vznikne jemná bílá poleva Pokud je poleva moc tuhá,
+přidáme pár kapek vody a naopak pokud je moc řídká, přidáme cukr. Polevu plníme do papírového kornoutu z pergamenového
+papíru nebo do speciálního zdobícího sáčku s plastovou trubičkou.
 
-_Doporučení_: Do polevy můžeme přidat pár kapek citrónu, bude příjemně nakyslá.
-Lze obarvit potravinářským barvivem, můžeme zdobit i barevnými motivy.
+_Doporučení_: Do polevy můžeme přidat pár kapek citrónu, bude příjemně nakyslá. Lze obarvit potravinářským barvivem,
+můžeme zdobit i barevnými motivy.
 
 ![](./pernicky.jpg)

@@ -1,5 +1,6 @@
 ---
-title: Valašské Frgále
+title: Frgále
+slug: frgale
 ---
 
 Těsto na čtyři koláče:
@@ -13,9 +14,8 @@ Těsto na čtyři koláče:
 - citronové kůry z jednoho citrónu
 - a špetku soli
 
-Ohřejeme mléko, přidáme lžičku cukru a kostrku droždí - necháme vzejít.
-Rozpustíme máslo. Promícháme cukr a mouku. Přidáme dva žloutky, máslo a mléko s
-droždím. Zaděláme těsto, necháme 40 minut kynout pod fólii.
+Ohřejeme mléko, přidáme lžičku cukru a kostrku droždí - necháme vzejít. Rozpustíme máslo. Promícháme cukr a mouku.
+Přidáme dva žloutky, máslo a mléko s droždím. Zaděláme těsto, necháme 40 minut kynout pod fólii.
 
 #### Posypka
 
@@ -36,7 +36,6 @@ droždím. Zaděláme těsto, necháme 40 minut kynout pod fólii.
 - vanilkový cukr
 - cukr dle chutí
 - dvě lžíce vanilkového pudinku
-
 
 :::tip[Pečení]
 Pečeme na 170-180°C asi 20 - 35 minut - před pečením necháme chvilku nakynout

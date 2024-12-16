@@ -1,5 +1,6 @@
 ---
-title: Quesadillas
+title: 🌮 Quesadillas
+slug: quesadillas
 ---
 
 ![](./quesadillas.jpg)

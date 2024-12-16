@@ -1,5 +1,6 @@
 ---
-title: Ovesné sušenky
+title: 🍪 Ovesné sušenky
+slug: ovesne-susenky
 ---
 
 - 1 hrnek ovesných vloček

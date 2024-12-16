@@ -1,5 +1,6 @@
 ---
-title: 🍌 Banánový chleba
+title: 🍌 Banánový chlebíček
+slug: bananovy-chlebicek
 ---
 
 - 2 hrnky (250 g) polohrubé nebo hladké mouky

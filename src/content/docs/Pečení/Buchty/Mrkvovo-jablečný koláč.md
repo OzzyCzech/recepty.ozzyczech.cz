@@ -1,5 +1,6 @@
 ---
 title: 🥕 Mrkvovo-jablečný koláč
+slug: mrkvovo-jablecny-kolac
 ---
 
 #### Suroviny
@@ -29,9 +30,9 @@ dále budeme potřebovat:
 
 #### Postup
 
-Nejprve si nasekejte/namelte ořechy. Poté na hrubém struhadle nastrouhejte mrkev a jablko.
-Promíchejte nejprve **sypké suroviny**, poté promíchejte **tekuté suroviny** a nakonec přidejte ořechy, mrkev a jablka.
-Těsto vylejte do máslem vymazaného a moukou vysypaného plechu a pečte na 180 °C cca 35 minut.
+Nejprve si nasekejte/namelte ořechy. Poté na hrubém struhadle nastrouhejte mrkev a jablko. Promíchejte nejprve **sypké
+suroviny**, poté promíchejte **tekuté suroviny** a nakonec přidejte ořechy, mrkev a jablka. Těsto vylejte do máslem
+vymazaného a moukou vysypaného plechu a pečte na 180 °C cca 35 minut.
 
 :::tip[Pečení]
 Pečeme na cca 180 °C cca. 35 minut.

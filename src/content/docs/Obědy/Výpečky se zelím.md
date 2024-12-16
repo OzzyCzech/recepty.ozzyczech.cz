@@ -1,5 +1,6 @@
 ---
 title: 🐷 Výpečky se zelím
+slug: vypecky-se-zelim
 ---
 
 ### Vypřové výpečky
@@ -23,10 +24,8 @@ title: 🐷 Výpečky se zelím
 Pečeme na 160°C - 180°C zhruba dvě hodiny.
 :::
 
-Maso během pečení kontrolujeme, ale ne moc často. Občas promíchejte.
-Podléváme podle potřeby - ideálně vařící vodou. Nejprve pečeme maso pod 
-poklicí nebo alobalem. Poté odkryjeme a pečte další půlhodinu, 
-aby se maso opeklo dozlatova.
+Maso během pečení kontrolujeme, ale ne moc často. Občas promíchejte. Podléváme podle potřeby - ideálně vařící vodou.
+Nejprve pečeme maso pod poklicí nebo alobalem. Poté odkryjeme a pečte další půlhodinu, aby se maso opeklo dozlatova.
 
 ![](vypecky-priprava.jpg)
 ![](vypecky-hotove.jpg)
@@ -43,6 +42,5 @@ aby se maso opeklo dozlatova.
 - pepř
 - bobkový list
 
-
-Do hrnce dáme na oleji osmahnout cibuli, přidáme na nudličky nakrájené zelí. 
-Zelí je dobré předem vymačkat a nasolit. Přidáme cukr, sůl, kmín, pepř, bobkový list a ocet.
+Do hrnce dáme na oleji osmahnout cibuli, přidáme na nudličky nakrájené zelí. Zelí je dobré předem vymačkat a nasolit.
+Přidáme cukr, sůl, kmín, pepř, bobkový list a ocet.

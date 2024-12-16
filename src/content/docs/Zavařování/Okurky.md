@@ -1,5 +1,6 @@
 ---
 title: Okurky od Dr. Bubenče
+slug: okurky
 ---
 
 Postup vhodný pro 0.72l sklenice (bez vaření nálevu):
@@ -11,7 +12,7 @@ Postup vhodný pro 0.72l sklenice (bez vaření nálevu):
 - mrkev
 - cibule
 - křen (stačí jedna kostička)
-- 1 mírně navršená čajová lžička soli nahoru 
+- 1 mírně navršená čajová lžička soli nahoru
 - 0,85 ml octa (necelý decilitr), zbytek odlít vodou
 
 Víčka je dobré odmastit - spařit 100 °C vodou a nechat 5 - 10 minut odstát.

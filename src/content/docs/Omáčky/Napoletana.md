@@ -1,5 +1,6 @@
 ---
 title: Napoletana (VIP kečup)
+slug: napoletana
 sidebar:
   label: 🍅 Napoletana
 ---
@@ -27,7 +28,7 @@ Když nemáme čerstvé bylinky, můžeme použít sušené např. Koření na p
 ### Přípravy
 
 - Rajčata spaříme horkou vodou a oloupeme je, zbavíme středové části (stopky) a nakrájíme na kostičky.
-- Cibuli nakrájíme na kostičky. 
+- Cibuli nakrájíme na kostičky.
 - Cuketu omyjeme a nakrájíme na malé kostičky 1✕1 cm.
 - Česnek nakrájíme na plátky nebo prolisujeme.
 

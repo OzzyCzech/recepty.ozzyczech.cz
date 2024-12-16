@@ -1,7 +1,6 @@
 ---
-title: Broučková polévka
-sidebar:
-  label: 🐞 Broučkovka
+title: 🪲 Broučková polévka
+slug: brouckovka
 ---
 
 - 4-5 středních brambor
@@ -16,13 +15,11 @@ sidebar:
 Postup:
 
 - Dáme vařit nakrájené brambory v lehce osolené vodě
-- Přidáme kořením (kmín, pepř celý, nové koření, bobkový list, gulášovou
-  papriku)
+- Přidáme kořením (kmín, pepř celý, nové koření, bobkový list, gulášovou papriku)
 - V dalším kastrolu uvaříme očištěné houby (pokud máme)
 - Slijeme vodu z kysaného zelí do hrnečku - pro případné dochucení
 - Zelí propláchneme a pokrájíme
 - Jakmile jsou brambory měkké, přidáme zelí a vaříme cca 30 minut
 - Klobásu nakrájíme a osmažíme společně s cibulí
-- K zelí a bramborám přidáme s vodou rozmíchanou mouku, osmažené klobásy, houby
-  a česnek
+- K zelí a bramborám přidáme s vodou rozmíchanou mouku, osmažené klobásy, houby a česnek
 - Vaříme dalších 20 minut poté přidáme smetanu

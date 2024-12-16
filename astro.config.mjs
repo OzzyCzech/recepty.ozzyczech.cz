@@ -1,4 +1,4 @@
-import {defineConfig, passthroughImageService} from 'astro/config';
+import { defineConfig, passthroughImageService } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import youtube from './src/markdown/youtube.js';
 
@@ -26,12 +26,13 @@ export default defineConfig({
 				github: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz',
 			},
 			sidebar: [
-				{label: 'Obědy', collapsed: false, autogenerate: {directory: 'Obědy', collapsed: true}},
+				{label: 'Obědy', collapsed: true, autogenerate: {directory: 'Obědy'}},
+				{label: 'Omáčky', collapsed: true, autogenerate: {directory: 'Omáčky'}},
 				{label: 'Polévky', collapsed: true, autogenerate: {directory: 'Polévky'}},
-				{label: 'Přílohy', collapsed: true, autogenerate: {directory: 'Přílohy'}},
 				{label: 'Pečení', collapsed: false, autogenerate: {directory: 'Pečení', collapsed: true}},
 				{label: 'Pomazánky', collapsed: true, autogenerate: {directory: 'Pomazánky'}},
 				{label: 'Vánoce', collapsed: true, autogenerate: {directory: 'Vánoce'}},
+				{label: 'Přílohy', collapsed: true, autogenerate: {directory: 'Přílohy'}},
 				{label: 'Zavařování', collapsed: true, autogenerate: {directory: 'Zavařování'}},
 			],
 		}),
