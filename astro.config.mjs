@@ -30,6 +30,7 @@ export default defineConfig({
 				{label: 'Omáčky', collapsed: true, autogenerate: {directory: 'Omáčky'}},
 				{label: 'Polévky', collapsed: true, autogenerate: {directory: 'Polévky'}},
 				{label: 'Pečení', collapsed: false, autogenerate: {directory: 'Pečení', collapsed: true}},
+				{label: 'Sladké', collapsed: true, autogenerate: {directory: 'Sladké', collapsed: true}},
 				{label: 'Pomazánky', collapsed: true, autogenerate: {directory: 'Pomazánky'}},
 				{label: 'Vánoce', collapsed: true, autogenerate: {directory: 'Vánoce'}},
 				{label: 'Přílohy', collapsed: true, autogenerate: {directory: 'Přílohy'}},

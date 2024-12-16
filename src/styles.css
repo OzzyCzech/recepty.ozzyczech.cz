@@ -22,6 +22,12 @@ iframe {
 		background: none !important;
 	}
 
+	code {
+		background: inherit;
+		border: inherit;
+		padding: 0;
+	}
+
 
 	header, footer, nav, iframe, img {
 		display: none !important;
