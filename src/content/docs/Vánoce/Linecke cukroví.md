@@ -11,7 +11,7 @@ slug: linecke-cukrovi
 - vanilkový cukr
 - sůl (větší špetka)
 
-Vyválíme na 7mm (spíše tlustší). Pečeme **bez pečícího papíru** na plechu cca 10-12 minut na 160 °C.
+Vyválíme na 7mm (spíše tlustší). Pečeme **bez pečícího papíru** na plechu cca 10-12 minut na 160&nbsp;°C.
 
 Upečené linecké nechte úplně vychladnout. 
 Potřete [rybízovou](https://www.dm.cz/dmbio-bio-ovocna-pomazanka-cerny-rybiz-p4058172922817.html) nebo jinou marmeládou
