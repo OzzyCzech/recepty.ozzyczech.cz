@@ -26,4 +26,4 @@ Na Vánoce děláme:
 
 * [Medové Perníčky](/medove-pernicky/)
 * [Vanilkové rohlíčky](/vanilkove-rohlicky/)
-* [Linecké](/linecke/)
+* [Linecké](/linecke-cukrovi/)

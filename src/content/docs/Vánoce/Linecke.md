@@ -1,6 +1,6 @@
 ---
 title: Linecké cukroví
-slug: linecke
+slug: linecke-cukrovi
 ---
 
 - 300 g hladké mouky
