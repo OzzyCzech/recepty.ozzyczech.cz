@@ -16,7 +16,7 @@ Smícháme mouku, cukr, sůl a jednou sodu. Rozpustíme máslo společně s mede
 vypracujeme těsto.
 
 Těsto vyválíme na cca 1 až 1.5 cm tlustý plát. Pokud je moc měkké, můžeme jej dát na hodinu do lednice. Těsto se nejlépe
-vyvaluje mezi dvěma pláty pečícího papíru - na tom spodním jej pak rovnou upečeme. Do těsta je dobré udě lat vidličkou
+vyvaluje mezi dvěma pláty pečícího papíru - na tom spodním jej pak rovnou upečeme. Do těsta je dobré udělat vidličkou
 díry, aby se nevytvořila bubina.
 
 :::tip[Pečení]
