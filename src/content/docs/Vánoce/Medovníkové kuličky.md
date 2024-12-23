@@ -28,7 +28,7 @@ strouhané mandle nebo ořechy. Část drobečků si dejte stranou na obalován�
 
 Dále budete potřebovat:
 
-- 1/2 karamelové nebo klasické Salko
+- 1/2 karamelové nebo klasické Salko (397g)
 - 125 g změklého másla
 
 Z karamelového kondenzovaného slazeného mléka a změklého másla utřeme hladký krém a přidáme drobečky. Vyvalujeme
