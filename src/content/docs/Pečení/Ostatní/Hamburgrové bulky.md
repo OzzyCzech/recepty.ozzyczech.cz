@@ -1,5 +1,5 @@
 ---
-title: Bulky na burgery
+title: 🍔 Bulky na burgery
 slug: bulky-na-burgery
 ---
 
@@ -10,8 +10,9 @@ Na těsto:
 - 500 g hladké mouky
 - 2 vejce (nechat kousek stranou na potření)
 - 160 ml slunečnicového oleje
-- špetka soli
-
+- 14 g soli
+- sezamová semínka na posypání
+ 
 Na kvásek:
 
 - 250 ml vlažného mléka
