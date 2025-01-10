@@ -3,7 +3,7 @@ title: Vosí Hnízda
 slug: vosi-hnizda
 ---
 
-na 30 středních úlků
+Množství vystačí na cca 30 středních úlků.
 
 ### Těsto
 
@@ -19,7 +19,7 @@ Ořechy a piškoty nameleme. Přidáme cukr, kakao, rum a máslo. Těsto zpracuj
 těsto by nemělo lepit, spíš by mělo držet pohromadě, když ho stiskneme v ruce.
 
 :::tip[]
-Pokud nejde vyklepávat, stačí formu vyložit potravinářskou fólií nebo mikoténovým sáčkem.¨
+Pokud těsto nejde vyklepávat, stačí formu vyložit před tvarováním potravinářskou fólií nebo mikoténovým sáčkem.
 :::
 
 ### Náplň

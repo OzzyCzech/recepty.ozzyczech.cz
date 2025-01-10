@@ -17,9 +17,6 @@ Nejčastěji pečeme:
 
 ## 🧆 Oběd
 
-Nejčastěji vaříme [Libanonské kari](/libanonske-kari/) a
-[Svíčkovou na smetaně](/svickova-na-smetane/).
-
 ## 🎄 Vánoční recepty
 
 Na Vánoce děláme:
@@ -27,3 +24,4 @@ Na Vánoce děláme:
 * [Medové Perníčky](/medove-pernicky/)
 * [Vanilkové rohlíčky](/vanilkove-rohlicky/)
 * [Linecké](/linecke-cukrovi/)
+* [Vosí Hnízda](/vosi-hnizda/)
