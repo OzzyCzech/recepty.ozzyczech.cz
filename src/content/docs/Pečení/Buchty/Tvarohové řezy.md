@@ -27,4 +27,6 @@ Na druhé těsto:
 Těsto rozdělíme na polovinu do druhé poloviny přidáme 3x lžíce kakaa popřípadě mléko a promícháme. Tmavé těsto vylejeme
 na vymazaný plech nejprve poté tvaroh a na závěr světlé těsto.
 
-:::tip[Pečení] Peřeme na 180 °C zhruba 35 až 40 minut (spíš déle) :::
+:::tip[Pečení]
+Peřeme na 180 °C zhruba 35 až 40 minut (spíš déle)
+:::
