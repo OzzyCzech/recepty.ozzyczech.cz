@@ -22,9 +22,9 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz/edit/master/',
 			},
-			social: {
-				github: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz',
-			},
+			social: [
+				{icon: 'github', label: 'GitHub', href: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz'},
+			],
 			sidebar: [
 				{label: 'Obědy', collapsed: true, autogenerate: {directory: 'Obědy'}},
 				{label: 'Omáčky', collapsed: true, autogenerate: {directory: 'Omáčky'}},
