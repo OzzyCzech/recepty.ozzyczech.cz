@@ -3,8 +3,7 @@ title: 🍎 Bábovka s jablky
 slug: babovka-s-jablky
 ---
 
-- 1 hrnek hladké mouky
-- 1 hrnek polohrubé mouky
+- 2 hrnky hladké nebo polohrubé mouky
 - 1 lžička (mírně navršená) mleté skořice
 - balení prášku do pečiva
 - půl čajové lžičky jedlé sody
