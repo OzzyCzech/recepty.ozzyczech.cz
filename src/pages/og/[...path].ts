@@ -22,7 +22,8 @@ export const {getStaticPaths, GET} = OGImageRoute({
 	getImageOptions: async (_, {data}: (typeof pages)[string]): Promise<OGImageOptions> => {
 		return {
 			format: 'WEBP',
-			title: data.title || "Naše recepty",
+			// replace all emojis with empty string
+			title: data.title.replace(/[\uD800-\uDBFF][\uDC00-\uDFFF] +/g, '') || "Naše recepty",
 			quality: 95,
 			logo: {path: './src/pages/og/og-logo.png', size: [300]},
 			description: data.description || "Naše rodinné recepty",
