@@ -1,5 +1,6 @@
 ---
 title: Kynutý jahodový koláč
+slug: kynuty-jahodovy-kolac
 ---
 
 - 70 g cukr moučka

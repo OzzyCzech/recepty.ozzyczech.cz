@@ -15,6 +15,9 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
+			components: {
+				Head: './src/components/Head.astro',
+			},
 			title: 'Naše recepty',
 			tableOfContents: false,
 			pagination: false,

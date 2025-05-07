@@ -1,6 +1,7 @@
 ---
 title: 🍕 Pizza
 slug: pizza
+description: Nejlepší domácí pizza!
 ---
 
 ## Těsto na pizzu
