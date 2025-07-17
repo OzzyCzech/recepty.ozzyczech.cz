@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "0.34.3",
-    "astro": "5.7.13",
+    "@astrojs/starlight": "0.35.0",
+    "astro": "5.12.0",
     "astro-og-canvas": "^0.7.0",
-    "prettier": "^3.5.3",
-    "sharp": "^0.34.1",
+    "prettier": "^3.6.2",
+    "sharp": "^0.34.3",
     "typescript": "^5.8.3",
     "unist-util-visit": "^5.0.0"
   }
