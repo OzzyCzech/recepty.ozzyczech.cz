@@ -3,22 +3,25 @@ title: Okurky od Dr. Bubenče
 slug: okurky
 ---
 
-Postup vhodný pro 0.72l sklenice (bez vaření nálevu):
+Postup vhodný pro 0,72 l sklenice (bez vaření nálevu):
 
 - 8 tablety sacharínu
 - 5 kuličky nového koření
 - 5 kuliček celého pepře
 - kopr
-- mrkev
-- cibule
-- křen (stačí jedna kostička)
+- pár koleček mrkve 
+- několik plátků cibule
+- kousek křenu (např. 1×1 cm kostka)  
 - 1 mírně navršená čajová lžička soli nahoru
-- 0,85 ml octa (necelý decilitr), zbytek odlít vodou
+- 0,85 ml octa (necelý decilitr) - zbytek odlít vodou - ne úplně do plna
 
-Víčka je dobré odmastit - spařit 100 °C vodou a nechat 5 - 10 minut odstát.
+
+#### Příprava sklenic:
+- Sklenice sterilizovat v troubě na **150 °C** po dobu **15 minut**  
+- Víčka zalít vodou a sterilizovat také **15 minut v troubě**
 
 :::tip[Zavařování]
-20 minut vařit na **80-85°C**
+Zavařovat 20 minut při teplotě **80–85 °C**
 :::
 
-Na 10Kg okurek je potřeba cca 30 sklenic.
+💡 Na 10 kg okurek potřebujete přibližně **30 sklenic (0,72 l)**
