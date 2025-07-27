@@ -3,11 +3,6 @@ title: Okurky od Dr. Bubenče
 slug: okurky
 ---
 
-Okurky je nutné před zavařením důkladně umýt a zbavit nečistot. Nejlepší jsou
-čerstvé, pevné a zdravé okurky velikost do 10 cm.
-
-![okurky.jpg](../../../assets/okurky/okurky.jpg)
-
 Postup vhodný pro 0,72 l sklenice (bez vaření nálevu):
 
 - 8 tablety sacharínu
@@ -24,12 +19,14 @@ Vodu doléváme tak, aby okurky byly ponořené a voda dosahovala cca **1.5-2 cm
 
 #### Sklenice a víčka
 
-- Sklenice důkladně umýt a vyčistit (myčka na 70 °C nebo ručně saponátem).
-- Sklenice sterilizovat v troubě na **150 °C** po dobu **15 minut**
-- Víčka zalít horkou vodou - sterilizovat nejméně 10 minut
-- Víčka musí být **suchá a čistá**, aby dobře těsnila.
+Používáme šroubovací víčka a sklenice o objemu 0,72 l (ideálně s širokým hrdlem).
 
-Používáme šroubovací víčka. **Víčka nedotahovat!!!** Jen lehce přitáhnout. Víčka drží podtlakem po zavaření.
+- Sklenice důkladně umýt (myčka na 70 °C nebo ručně saponátem).
+- Sklenice **sterilizovat v troubě** na **150 °C** po dobu **15 minut**
+- Víčka zalít horkou vodou - sterilizovat nejméně 10 minut
+- Víčka musí být před nasazením **suchá**, jinak nechytnou.
+
+**Víčka nedotahovat!!!** Jen lehce přitáhnout, víčka drží podtlakem po zavaření.
 
 ![naplneno.jpg](../../../assets/okurky/naplneno.jpg)
 
@@ -41,7 +38,7 @@ Nejlepší zkušenosti mám se zavařováním okurek v troubě:
 - Hluboký plech nebo pekáč vyložíme utěrkou.
 - Zalejeme předehřátou vodou (85 °C) do výšky cca 4-5 cm.
 - Do vody vložíme sklenice s okurkami.
-- 
+
 ![voda.jpg](../../../assets/okurky/voda.jpg)
 
 :::tip[Zavařování v troubě]
@@ -51,7 +48,7 @@ Zavařovat 30-40 minut v předehřáté troubě **150 °C**
 Sklenice se nesmí dotýkat, aby nepraskly. Při zavařování v troubě je **nutné hlídat teplotu**, aby nedošlo k přehřátí a
 prasknutí sklenic. Ideální je dosáhnout teploty vody 80–85 °C
 
-Sklenice vyjmeme, otočíme dnem vzhůru a necháme vychladnout. Pokud jsou dobře zavařené, víčka se prohnou dovnitř a
+Sklenice vyjmeme, otočíme dnem vzhůru a necháme vychladnout. Pokud jsou dobře zavařené, **víčka se prohnou dovnitř** a
 sklenice drží podtlak.
 
 ![teplota.jpg](../../../assets/okurky/teplota.jpg)
