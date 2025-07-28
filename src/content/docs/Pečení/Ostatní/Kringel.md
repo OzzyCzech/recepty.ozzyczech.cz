@@ -3,6 +3,8 @@ title: Estonský kringel
 slug: kringel
 ---
 
+![](../../../../assets/peceni/kringel-hotovy.jpg)
+
 #### Recept na těsto
 
 - 300g hladké mouky
@@ -43,10 +45,18 @@ slug: kringel
 - 6 lžic mléka
 - lžička citronové šťávy.
 
+![](../../../../assets/peceni/kringel-testo.jpg)
+
 Těsto po vykynutí znovu prohněteme a vyválíme na tenkou placku. Potřeme náplní po celé ploše a zarolujeme do těsného
-hada. Ostrým nožem rozřízněte podélně napůl a zapleteme do kruhu. Necháme na plechu ještě trochu nakynout.
+hada.
 
+![](../../../../assets/peceni/kringel-rozvaleny.jpg)
+
+Ostrým nožem rozřízněte podélně napůl a zapleteme do kruhu. Necháme na plechu ještě trochu nakynout.
+
+![](../../../../assets/peceni/kringel-neupeceny.jpg)
+
+
+:::tip[Pečení]
 Pečeme na 180°C asi 20-30 minut do zlatova.
-
-![](./kringel-testo.jpg) ![](./kringel-rozvaleny.jpg)
-![](./kringel-neupeceny.jpg) ![](./kringel-hotovy.jpg)
+:::

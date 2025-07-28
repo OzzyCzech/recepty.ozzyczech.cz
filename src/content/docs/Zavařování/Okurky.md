@@ -1,6 +1,6 @@
 ---
 title: Okurky od Dr. Bubenče
-slug: okurky
+slug: zavarovani
 ---
 
 Postup vhodný pro 0,72 l sklenice (bez vaření nálevu):
@@ -33,7 +33,7 @@ Používáme šroubovací sklenice o objemu 0,72 l se širokým hrdlem.
 Víčka musí být utažená tak, aby mohl při zavařování unikat vzduch.
 Po vychladnutí se díky podtlaku víčka přichytí pevně k hrdlu sklenice.
 
-![naplneno.jpg](../../../assets/okurky/naplneno.jpg)
+![naplneno.jpg](../../../assets/zavarovani/okurky-naplneno.jpg)
 
 #### Zavařování v troubě
 
@@ -49,7 +49,7 @@ Při zavařování v troubě je **nutné hlídat teplotu** Ideální je dosáhno
 sklenicích se musí dělat **jen malé bublinky**, nesmí vřít. Po zavaření ihned vyndej a **otoč dnem vzhůru na cca 5 minut**.
 
 
-![voda.jpg](../../../assets/okurky/voda.jpg)
+![voda.jpg](../../../assets/zavarovani/okurky-voda.jpg)
 
 :::tip[Zavařování v troubě]
 Zavařovat **30–40 minut** při **150 °C** v předehřáté troubě.
@@ -59,7 +59,7 @@ Po vychladnutí:
 - Víčka se musí **prohnout dovnitř** (podtlak).
 - Pokud víčko při stisku "kliká", sklenice nechytla – lze znovu přezavařit s novým víčkem, nebo co nejdříve spotřebovat.
 
-![teplota.jpg](../../../assets/okurky/teplota.jpg)
+![teplota.jpg](../../../assets/zavarovani/okurky-teplota.jpg)
 
 #### Zavařování v hrnci
 

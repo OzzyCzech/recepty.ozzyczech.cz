@@ -38,4 +38,4 @@ vymazaného a moukou vysypaného plechu a pečte na 180 °C cca 35 minut.
 Pečeme na cca 180 °C cca. 35 minut.
 :::
 
-![](./mrkvovo-jablecny-kolac.jpg)
+![](../../../../assets/peceni/mrkvovo-jablecny-kolac.jpg)

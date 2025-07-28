@@ -20,6 +20,8 @@ Těsto se nenechává kynout! Rovnou se vyvaluje na cca 3 mm a krájí na tyčin
 tyčinky klademe na plech a potíráme rozšlehaným vejcem (kvůli lesku). Klademe vedle sebe na plech na pečící papír. Před
 pečením osolíme tyčinky hrubou solí.
 
-:::tip[Pečení] Pečeme na 120°C cca 12 minut do růžova. :::
+:::tip[Pečení]
+Pečeme na 120°C cca 12 minut do růžova.
+:::
 
-![](./syrove-tycinky.jpg)
+![](../../../../assets/peceni/syrove-tycinky.jpg)

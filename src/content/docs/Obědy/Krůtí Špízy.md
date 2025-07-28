@@ -5,4 +5,4 @@ sidebar:
   label: 🦃 Krůtí Špízy
 ---
 
-![](spizy-a-priloha.jpg) ![](spizy-hotove.jpg)
+![](../../../assets/obedy/spizy-a-priloha.jpg) ![](../../../assets/obedy/spizy-hotove.jpg)

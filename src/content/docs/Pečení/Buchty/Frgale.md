@@ -42,4 +42,4 @@ Pečeme na 170-180°C asi 20 - 35 minut - před pečením necháme chvilku nakyn
 (10 minut).
 :::
 
-![](./frgale.jpg)
+![](../../../../assets/peceni/frgale.jpg)

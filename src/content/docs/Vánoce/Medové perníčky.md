@@ -45,4 +45,4 @@ papíru nebo do speciálního zdobícího sáčku s plastovou trubičkou.
 _Doporučení_: Do polevy můžeme přidat pár kapek citrónu, bude příjemně nakyslá. Lze obarvit potravinářským barvivem,
 můžeme zdobit i barevnými motivy.
 
-![](./pernicky.jpg)
+![](../../../assets/vanoce/pernicky.jpg)

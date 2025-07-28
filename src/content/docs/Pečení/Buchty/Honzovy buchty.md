@@ -37,4 +37,4 @@ slug: honzovy-buchty
 9. Zapneme troubu a necháme předehřát na 180 °C peřeme prudce 10 minut, porté snížíme teplotu na 150-160 °C a pozvólna
    dopékáme 40-50 minut
 
-![](./honzovy-buchty.jpg)
+![](../../../../assets/peceni/honzovy-buchty.jpg)

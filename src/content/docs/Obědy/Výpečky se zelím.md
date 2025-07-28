@@ -27,8 +27,8 @@ Pečeme na 160°C - 180°C zhruba dvě hodiny.
 Maso během pečení kontrolujeme, ale ne moc často. Občas promíchejte. Podléváme podle potřeby - ideálně vařící vodou.
 Nejprve pečeme maso pod poklicí nebo alobalem. Poté odkryjeme a pečte další půlhodinu, aby se maso opeklo dozlatova.
 
-![](vypecky-priprava.jpg)
-![](vypecky-hotove.jpg)
+![](../../../assets/obedy/vypecky-priprava.jpg)
+![](../../../assets/obedy/vypecky-hotove.jpg)
 
 ### Zelí
 

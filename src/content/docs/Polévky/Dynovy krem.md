@@ -26,6 +26,6 @@ Poté přidáme nakrájenou zeleninu a dýni. Zalijeme vodou a vaříme do měkk
 Vše rozmixujeme a přidáme smetanu, kmín, sůl a pepř dle chuti a ještě krátce povaříme. Případně můžeme ještě znovu
 promixovat, aby byla polévka opravdu krémová. Pro zjemnění chuti můžeme přidat ještě trochu másla a smetanu.
 
-![](./dynovy-krem-priprava.jpg)
+![](../../../assets/polevky/dynovy-v-hrnci.jpg)
 
-![](./dynovy-krem.jpg)
+![](../../../assets/polevky/dynovy-krem.jpg)

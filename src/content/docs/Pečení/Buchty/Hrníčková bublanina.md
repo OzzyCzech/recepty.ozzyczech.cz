@@ -26,5 +26,5 @@ hnědého cukru.
 Pečeme cca 20 - 30 minut na 180 °C
 :::
 
-![Bublanina](./hrnickova-bublanina-one.jpg)
-![Bublanina](./hrnickova-bublanina-two.jpg)
+![Bublanina](../../../../assets/peceni/hrnickova-bublanina-one.jpg)
+![Bublanina](../../../../assets/peceni/hrnickova-bublanina-two.jpg)
