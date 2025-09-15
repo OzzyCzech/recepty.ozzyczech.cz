@@ -23,7 +23,7 @@ export default defineConfig({
 			pagination: false,
 			customCss: ['./src/styles.css'],
 			editLink: {
-				baseUrl: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz/edit/master/',
+				baseUrl: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz/edit/main/',
 			},
 			social: [
 				{icon: 'github', label: 'GitHub', href: 'https://github.com/OzzyCzech/recepty.ozzyczech.cz'},
