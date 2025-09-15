@@ -1,30 +1,28 @@
 ---
-title: 🍪Ovesné sušenky
+title: 🍪 Ovesné sušenky
 slug: ovesne-susenky
 ---
 
-- ovesné vločky (dle potřeby cca hrnek)
-- 4 lžíce hladké mouky
-- 4 lžíce medu
-- 20 g másla
-- špatka soli
-- dva banány
-- lžička kakaa
-- 1/2 prášku do pečiva
-- vanilkový extrakt, skořice
-- volitelné: sekaná čokoláda, oříšky, sušené ovoce, rozinky - dle chuti
+- 1 hrnek ovesných vloček
+- 1 hrnek špaldové mouky (můžete použít klasickou hladkou)
+- 1/2 hrnku třtinového cukru
+- 1/2 hrnku strouhaných vlašských nebo lískových ořechů
+- špetka skořice
+- 130 g másla
+- 3 lžíce javorového sirupu nebo medu
+- 2 lžíce vody
+- lžička a půl jedlé sody
+- lžička vanilkové esence
+- vanilkový cukr
+- lžíce kakaového prášku
+- citronová kůra
+- sůl
 
-1. Smícháme mouku, vločky, prášek do pečiva, kakao a sůl.
-2. Rozpustíme máslo a smícháme s medem.
-3. Rozmačkáme banány a přidáme k suchým ingrediencím.
+Postup:
 
-Výsledné těsto by nemělo být příliš tuhé ani příliš řídké. 
-Podle potřeby přidáme vločky nebo mouku - přépadně naředíme mlékem.
-
-Těsto můžeme trochu ochutnat, neobsahuje žádné surové vejce, takže je to bezpečné.
-
-Na pečící papír vytvarujeme lžící sušenky a dáme péct.
-
-:::tip[Pečení]
-Pečeme v předehřáté troubě na 180 °C cca 20-30 minut, dle tlouštky sušenek.
-:::
+- Smíchejte vločky, mouku, cukr, skořici, vanilku a ořechy
+- Přidejte rozpuštěné máslo s medem (sirupem) vodou a vše promíchejte.
+- Vytvarujte malé kuličky (2-3 cm), položte na plech s pečícím papírem
+- Pečeme 150°C cca 15-25 minut
+- Nechte vychladnou na mřížce
+- Skladujeme v dóze, bez přístupu vlhkosti
