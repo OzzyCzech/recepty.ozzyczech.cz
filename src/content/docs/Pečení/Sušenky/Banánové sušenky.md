@@ -1,5 +1,5 @@
 ---
-title: 🍪Banánové sušenky
+title: 🍪 Banánové sušenky
 slug: bananove-susenky
 ---
 
@@ -24,6 +24,8 @@ Podle potřeby přidáme vločky nebo mouku - přépadně naředíme mlékem.
 Těsto můžeme trochu ochutnat, neobsahuje žádné surové vejce, takže je to bezpečné.
 
 Na pečící papír vytvarujeme lžící sušenky a dáme péct.
+
+![bananove-susenky.jpg](../../../../assets/peceni/bananove-susenky.jpg)
 
 :::tip[Pečení]
 Pečeme v předehřáté troubě na 180 °C cca 20-30 minut, dle tlouštky sušenek.
