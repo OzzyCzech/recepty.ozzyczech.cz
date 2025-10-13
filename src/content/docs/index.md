@@ -15,8 +15,6 @@ Nejčastěji pečeme:
 * [Rychlou bábovku](/rychla-babovka/)
 * [Perník na plech](/pernik-na-plech/)
 
-## 🧆 Oběd
-
 ## 🎄 Vánoční recepty
 
 Na Vánoce děláme:

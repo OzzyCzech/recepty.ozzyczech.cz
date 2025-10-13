@@ -36,6 +36,7 @@ export default defineConfig({
 				{label: 'Sladké', collapsed: true, autogenerate: {directory: 'Sladké', collapsed: true}},
 				{label: 'Pomazánky', collapsed: true, autogenerate: {directory: 'Pomazánky'}},
 				{label: 'Vánoce', collapsed: true, autogenerate: {directory: 'Vánoce'}},
+				{label: 'Rychlovky', collapsed: true, autogenerate: {directory: 'Rychlovky'}},
 				{label: 'Přílohy', collapsed: true, autogenerate: {directory: 'Přílohy'}},
 				{label: 'Zavařování', collapsed: true, autogenerate: {directory: 'Zavařování'}},
 			],
