@@ -5,7 +5,7 @@ sidebar:
   label: 🐥 Butter Chicken
 ---
 
-## Ingredience
+### Ingredience
   
 * kuřecí maso 500 g
 * bílá cibule 1 ks
