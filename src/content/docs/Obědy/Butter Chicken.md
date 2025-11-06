@@ -42,3 +42,5 @@ Nakonec přilijte asi **150 ml smetany ke šlehání**.
 Vše vařte cca 15-20 minut, dokud není maso měkké.
 
 Butter chicken podávejte s bílou rýží posypané čerstvým koriandrem.
+
+![](../../../assets/obedy/butter-chicken.jpg) 
