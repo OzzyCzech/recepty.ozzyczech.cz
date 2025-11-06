@@ -1,6 +1,8 @@
 ---
 title: Butter Chicken
 slug: butter-chicken
+sidebar:
+  label: 🐥 Butter Chicken
 ---
 
 * kuřecí maso 500 g
