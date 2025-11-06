@@ -25,15 +25,15 @@ sidebar:
 
 ### Postup
 
-Maso nakrájíme na větší kousky. Přidáme **lžičku kurkumi a kajenského pepře** (pokud nechceme pálivé, vynecháme). Necháme cca 15 minut odležet.
+**Maso nakrájíme** na větší kousky. Přidáme **lžičku kurkumi a kajenského pepře** (pokud nechceme pálivé, vynecháme). Necháme cca 15 minut odležet.
 
-Rozehřejeme lžíci másla na pánvi a osmahneme na něm maso ze všech stran dozlatova. Po osmažení dáme maso stranou.
+Rozehřejeme lžíci másla na pánvi a **osmahneme na něm maso** ze všech stran dozlatova. Maso dáme stranou.
 
 Přdáme další lžíci másla a **osmažíme cibuli dozlatova**.
 
-Přidáme česnek a zázvor, které také krátce osmahneme.
+Přidáme **česnek a zázvor**, které také krátce osmahneme.
 
-Přidejte římský kmín, kurkumu, garam másala, kardamom a skořici. Krátce zarestujte.
+**Přidejte koření** římský kmín, kurkumu, garam másala, kardamom a skořici. Krátce zarestujte.
 
 Do pánve **přidáme krájená rajčata** a vaříme asi 10 minut, dokud směs nezhoustne.
 
