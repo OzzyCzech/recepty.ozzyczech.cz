@@ -19,16 +19,22 @@ slug: medove-pernicky
   - badyán - cca 2-3 hvězdičky
   - citronová kůra z ½ citronu
 
-Máslo a med společně rozpustit v teplé vodní lázni za stálého míchání. Těsto se díky tomu pak bude lépe zpracovávat. Vše
-pořádně promícháme až vznikne těsto. Konzistence těsta se odvíjí od použitého medu - pokud je těsto moc suché je možné
-přidat lžičku vody nebo trochu medu.
+Máslo a med společně rozpustit v teplé vodní lázni za stálého míchání. Těsto se díky tomu pak bude lépe zpracovávat.
 
-V lednici zabalené ve folii **nechat den odpočinout**. Vyvalujeme cca na 3 mm
-(tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky). Pečeme ve vyhřáté troubě na **180 °C asi 8
-minut**.
+Vše pořádně promícháme. Konzistence těsta se odvíjí od použitého medu - pokud je těsto moc suché je možné přidat lžičku
+vody nebo trochu medu.
 
-Po upečení ještě horké perníčky **potřít vajíčkem** rozšlehaným s jednou lžičkou vody - pro lesk. Nechat zaschnout.
-Uložit do papírové bedny. Takže by se měly vyrábět cca 2-3 týdny před Vánoci.
+Hotové těsto necháme 24 hodin odpočinou v lednici zabalené v potravinové folii.
+
+Vyvalujeme cca na 3 mm (tlustší těsto = měkké perníčky, tenčí těsto = křupavé a sušší perníčky). 
+Od tloušťky těsta se odvíjí i doba pečení.
+
+:::tip[Pečení]
+Pečeme ve vyhřáté troubě na **180 °C asi 8 minut** na pečícím papíru.
+:::
+
+Pro lesk potřete horké perníčky rozšlehaným vejcem s lžičkou vody. Upečené perníčky skladujte v krabičce nebo plechové
+dóze, kde postupně změknou.
 
 #### Poleva
 
