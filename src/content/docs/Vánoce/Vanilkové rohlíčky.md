@@ -24,7 +24,9 @@ přímo na plech vedle sebe.
 
 ![](../../../assets/vanoce/rohlicky-plech.jpg)
 
-:::tip[Pečení] Pečeme v mírně **vyhřáté troubě na 150°C** do růžova **10 až 15 minut**. :::
+:::tip[Pečení]
+Pečeme v mírně **vyhřáté troubě na 150°C** do růžova **10 až 15 minut**.
+:::
 
 ![](../../../assets/vanoce/rohlicky.jpg)
 
