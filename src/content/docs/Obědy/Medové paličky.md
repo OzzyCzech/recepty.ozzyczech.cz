@@ -32,4 +32,6 @@ Pečení:
 
 Během pečení občas přelejeme marinádou a otočíme. Podobně lze připravit i kuřecí křidélka:
 
-https://www.youtube.com/watch?v=wRGV6NlmRLg
+https://youtu.be/wRGV6NlmRLg
+
+https://youtu.be/7E4hW93sl_E?t=560
