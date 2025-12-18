@@ -13,7 +13,7 @@ title: Oblíbené recepty
 * 🧁 [Jablkové muffiny](/jablkove-muffiny/)
 * 🍋 [Citrónové muffiny](/citronove-muffiny/)
 
-případně taky často pečeme:
+Často taky pečeme:
 
 * [Rychlou bábovku](/rychla-babovka/)
 * [Perník na plech](/pernik-na-plech/)
