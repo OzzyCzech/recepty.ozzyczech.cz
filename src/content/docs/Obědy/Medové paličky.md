@@ -3,21 +3,22 @@ title: 🍗 Medové paličky
 slug: medove-palicky
 ---
 
-
 - 8-12 ks kuřecích paliček
 - 2 lžíce olej
-- 6 lžíce med
-- 4 lžíce worcestrová omáčka
+- 6 lžíce med (případně hnědý cukr)
+- 3 lžíce worcestrová omáčka
 - 4 lžíce sojová omáčka
-- 1 lžička česnek sušený
 - 1 lžíce škrobu
-- mletá paprika
-- pepř mletý
-- sůl
-- chilli
+- 1 lžíce balsamikový ocet
+- 1 lžíce hrubozrnné hořčice
+- 1 lžička česnek sušený
+- 1 lžička mleté papriky
+- pepř, chilli a sůl dle chuti
 
+Pro intenzivnější chuť můžeme nechat marinovat v lednici cca 2 - 4 hodiny.
 
-Marinujeme cca 2 - 4 hodiny. Pečeme v troubě zakryté na 200°C cca 45 minut - další 15 minut odkryté.
+Pečeme na 200 °C prvních 15 minut odkryté. Poté zakryjeme a pečeme dalších 45-70 minut na 180 °C
+Na závěr dopečeme, do zlatavé barvy odkryté cca 10-15 minut.
 
 Podobně lze připravit i kuřecí křidélka:
 
