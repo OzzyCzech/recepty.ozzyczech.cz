@@ -30,8 +30,16 @@ Pečení:
 3. Zakryté pečeme na cca 180 °C dalších 45-60
 4. Závěrem odkryjeme a dopečeme na ventilátor cca 10-15 minut (nutno hlídat, aby se nepřipálila marináda)
 
-Během pečení občas přelejeme marinádou a otočíme. Podobně lze připravit i kuřecí křidélka:
+Během pečení občas přelejeme marinádou a otočíme.
+
+### Video recepty
+
+Podobně lze připravit i kuřecí křidélka:
+
+Chicken wings by Brian Lagerstrom:
 
 https://youtu.be/wRGV6NlmRLg
+
+Chicken wings by Jamie Oliver:
 
 https://youtu.be/7E4hW93sl_E?t=560
