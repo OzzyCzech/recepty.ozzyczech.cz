@@ -34,9 +34,7 @@ Během pečení občas přelejeme marinádou a otočíme.
 
 ### Video recepty
 
-Podobně lze připravit i kuřecí křidélka:
-
-Chicken wings by Brian Lagerstrom:
+Podobně lze připravit i kuřecí křidélka. Chicken wings by Brian Lagerstrom:
 
 https://youtu.be/wRGV6NlmRLg
 
