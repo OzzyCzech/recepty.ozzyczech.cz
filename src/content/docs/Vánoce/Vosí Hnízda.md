@@ -8,9 +8,9 @@ Množství vystačí na cca 30 středních úlků.
 ### Těsto
 
 - 100 g cukru moučka
-- 150 g piškotů
-- 100 g vlašských ořechů
-- 70 g másla
+- 200 g piškotů
+- 150 g vlašských ořechů
+- 100 g másla
 - 2 lžíce kakaa
 - 3 lžíce rumu
 - studená voda dle potřeby
@@ -24,9 +24,9 @@ Pokud těsto nejde vyklepávat, stačí formu vyložit před tvarováním potrav
 
 ### Náplň
 
-- 80 g cukru moučka
-- 80 g másla
-- 3 lžíce rumu
-- 4 lžíce salka (použít můžeme i jeho zkaramelizovanou variantu)
+- 40 g cukru moučka
+- 40 g másla
+- 2-3 lžíce rumu
+- 2 lžíce salka - připadně Jesenku
 
 Vyšleháme na tuhý krém, kterým poté plníme včelí úly.
