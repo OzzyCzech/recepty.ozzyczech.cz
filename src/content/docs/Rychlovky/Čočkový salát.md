@@ -21,4 +21,6 @@ Na jednu porci Čočkového salátu potřebujeme:
 Vše promícháme a ochutíme limetkovou šťávou, balzamikem, olivovým olejem, solí a pepřem.
 Nakonec přidáme nasekanou mátu a podáváme samostatně nebo jako přílohu k masu.
 
+![](../../../assets/rychlovky/cockovy-salat.jpeg)
+
 Zdroj: https://kuchynelidlu.cz/recept/cockovy-salat
