@@ -13,7 +13,7 @@ const pages = Object.fromEntries(
 );
 
 // @see https://github.com/withastro/docs/blob/main/src/pages/open-graph/%5B...path%5D.ts
-export const {getStaticPaths, GET} = OGImageRoute({
+export const {getStaticPaths, GET} = await OGImageRoute({
 	param: 'path',
 	pages: pages,
 	getSlug(_, page: (typeof pages)[string]) {
