@@ -3,7 +3,7 @@
 ## Instalace
 
 ```bash
-pnpm install
+yarn install
 ```
 
 ## Postup
@@ -11,7 +11,7 @@ pnpm install
 **Lokální vývoj**
 
 ```bash
-pnpm dev
+yarn dev
 ```
 
 Stránky běží na http://localhost:4321
@@ -19,8 +19,8 @@ Stránky běží na http://localhost:4321
 **Build a náhled produkce**
 
 ```bash
-pnpm build
-pnpm preview
+yarn build
+yarn preview
 ```
 
 **Deploy na GitHub Pages**
