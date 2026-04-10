@@ -7,8 +7,8 @@ type OGImageOptions = Awaited<ReturnType<Parameters<typeof OGImageRoute>[0]['get
 const allPages = await getCollection('docs')
 const pages = Object.fromEntries(
 	allPages.map(
-		({filePath, id, data, slug}) =>
-			[filePath, {data, slug, id}] as [string, Pick<CollectionEntry<'docs'>, 'id' | 'data' | 'slug'>]
+		({filePath, id, data}) =>
+			[filePath, {data, id}] as [string, Pick<CollectionEntry<'docs'>, 'id' | 'data'>]
 	)
 );
 
@@ -17,7 +17,7 @@ export const {getStaticPaths, GET} = await OGImageRoute({
 	param: 'path',
 	pages: pages,
 	getSlug(_, page: (typeof pages)[string]) {
-		return page.slug + '.webp';
+		return page.id + '.webp';
 	},
 	getImageOptions: async (_, {data}: (typeof pages)[string]): Promise<OGImageOptions> => {
 		return {
