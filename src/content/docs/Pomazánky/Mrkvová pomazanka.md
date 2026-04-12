@@ -17,6 +17,6 @@ sidebar:
 ### Postup
 
 Mrkve oloupeme a **nastrouháme najemno**. Přidáme tvaroh, prolisovaný česnek, citronovou šťávu, sůl a pepř.
-Dochutíme podle potřeby přidáme měkký sýr. Vše dobře promícháme a necháme chvíli odležet v lednici.
+Dochutíme a podle potřeby přidáme měkký sýr. Vše dobře promícháme a necháme chvíli odležet v lednici.
 
 Trocha zelené petržele nebo pažitky na dozdobení.

@@ -18,15 +18,15 @@ Na první těsto:
 Na druhé těsto:
 
 - 500 g tvarohu (nepoužívat vaničku, ale klasický tvaroh)
-- cukr dle chutí
+- cukr dle chuti
 - mléko dle potřeby
 - 1 ks celá vejce
 - 1 sáček vanilkového cukru
 - 1 ks vanilkový pudink (není nutné)
 
-Těsto rozdělíme na polovinu do druhé poloviny přidáme 3x lžíce kakaa popřípadě mléko a promícháme. Tmavé těsto vylejeme
+Těsto rozdělíme na polovinu, do druhé poloviny přidáme 3 lžíce kakaa, popřípadě mléko, a promícháme. Tmavé těsto vylejeme
 na vymazaný plech nejprve poté tvaroh a na závěr světlé těsto.
 
 :::tip[Pečení]
-Peřeme na 180 °C zhruba 35 až 40 minut (spíš déle)
+Pečeme na 180 °C zhruba 35 až 40 minut (spíš déle)
 :::

@@ -21,5 +21,5 @@ promícháme.
 Nakonec vmícháme tuhý sníh z bílků. Těsto krémové konzistence dáme do připravené formy: vyšší pekáček, dortová forma...a
 rovnoměrně uhladíme.
 
-Pečeme v předehřáté troubě na 180°C dorůžova, cca 30-40 minut - vyzkoušíme špejlí. Po vychladnutí můžeme posypat
+Pečeme v předehřáté troubě na 180°C do růžova, cca 30-40 minut - zkusíme špejlí. Po vychladnutí můžeme posypat
 moučkovým cukrem nebo polít citronovou polevou.

@@ -35,7 +35,7 @@ Pečeme na 170°C cca 35-40 minut, dokud povrch nezezlátne.
 :::
 
 Příprava koláče: ![Drobenkový koláč](../../../../assets/peceni/drobenkovy-kolac.jpg)
-![První vstrva drobenky](../../../../assets/peceni/drobenkovy-kolac-prvni-vrstva.jpg)
+![První vrstva drobenky](../../../../assets/peceni/drobenkovy-kolac-prvni-vrstva.jpg)
 ![Druhá vrstva](../../../../assets/peceni/drobenkovy-kolac-druha-vrstva.jpg)
 
 Před pečením: ![Před pečením](../../../../assets/peceni/drobenkovy-kolac-neupeceny.jpg)

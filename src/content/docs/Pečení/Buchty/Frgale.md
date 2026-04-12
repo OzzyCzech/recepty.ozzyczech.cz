@@ -14,7 +14,7 @@ Těsto na čtyři koláče:
 - citronové kůry z jednoho citrónu
 - a špetku soli
 
-Ohřejeme mléko, přidáme lžičku cukru a kostrku droždí - necháme vzejít. Rozpustíme máslo. Promícháme cukr a mouku.
+Ohřejeme mléko, přidáme lžičku cukru a kostku droždí - necháme vzejít. Rozpustíme máslo. Promícháme cukr a mouku.
 Přidáme dva žloutky, máslo a mléko s droždím. Zaděláme těsto, necháme 40 minut kynout pod fólii.
 
 #### Posypka
@@ -34,7 +34,7 @@ Přidáme dva žloutky, máslo a mléko s droždím. Zaděláme těsto, necháme
 
 - 250 g tvaroh (ve vaničce)
 - vanilkový cukr
-- cukr dle chutí
+- cukr dle chuti
 - dvě lžíce vanilkového pudinku
 
 :::tip[Pečení]
