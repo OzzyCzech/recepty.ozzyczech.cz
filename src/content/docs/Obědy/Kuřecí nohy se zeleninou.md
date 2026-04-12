@@ -1,6 +1,6 @@
 ---
-title: 🥕 Kuře nohy se zeleninou
-slug: kure-nohy-se-zeleninou
+title: 🥕 Kuřecí nohy se zeleninou
+slug: kureci-nohy-se-zeleninou
 ---
 
 * Kuřecí nohy - šest kusů
