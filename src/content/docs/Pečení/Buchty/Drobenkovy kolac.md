@@ -7,7 +7,7 @@ Těsto:
 
 - 400 g polohrubé mouky
 - 3/4 balíčku prášku do pečiva
-- 150 g cukr krupice
+- 150 g cukru krupice
 - 1 vanilkový cukr
 - 1 vejce
 - 200 g másla
@@ -17,7 +17,7 @@ Jablečná náplň:
 - cca 1 kg jablek
 - 1 pudinkový prášek vanilkový
 - 1/2 lžíce skořice
-- 120 g cukr krupice (dle chuti a sladkosti jablek)
+- 120 g cukru krupice (dle chuti a sladkosti jablek)
 
 Postup:
 
@@ -35,7 +35,7 @@ Pečeme na 170°C cca 35-40 minut, dokud povrch nezezlátne.
 :::
 
 Příprava koláče: ![Drobenkový koláč](../../../../assets/peceni/drobenkovy-kolac.jpg)
-![První vstrva drobenky](../../../../assets/peceni/drobenkovy-kolac-prvni-vrstva.jpg)
+![První vrstva drobenky](../../../../assets/peceni/drobenkovy-kolac-prvni-vrstva.jpg)
 ![Druhá vrstva](../../../../assets/peceni/drobenkovy-kolac-druha-vrstva.jpg)
 
 Před pečením: ![Před pečením](../../../../assets/peceni/drobenkovy-kolac-neupeceny.jpg)

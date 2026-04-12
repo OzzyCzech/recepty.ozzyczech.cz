@@ -10,5 +10,5 @@ sidebar:
 - 1 tavený sýr 50 gramů (Madetka)
 - 1 menší cibule
 
-Salám nakrájíme, projedeme tyčovým mixérem společně s tvarohem a taveným sýrem. Přidáme na jemno nakrájenou cibulku,
+Salám nakrájíme, projíždíme tyčovým mixérem společně s tvarohem a taveným sýrem. Přidáme na jemno nakrájenou cibulku,
 opepříme.

@@ -9,7 +9,7 @@ slug: citronova-buchta
 - citron z jednoho citronu
 - 270 g polohrubá mouka
 - 1 ks vanilkový cukr
-- 220 g cukr krupice
+- 220 g cukru krupice
 - 1 ks prášek do pečiva
 - tuk nebo formy
 - moučkový cukr nebo citronová poleva

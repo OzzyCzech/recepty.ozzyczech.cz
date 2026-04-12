@@ -12,14 +12,14 @@ slug: vanilkove-rohlicky
 - sůl (cca 1g)
 - trocha citrónové kůry
 
-Smícháme hladkou mouku a curk a vše 2x přesejeme přes cedník. Přidáme změklé máslo, dva žloutky, vanilku a jemně
-nastrouhané ořechy. Osolíme a přidáme trochu citrónové kůry. Zpracujeme vláční těsto, hotové těsto zabalíme do
-potravinové folie a necháme v lednici odležet do ruhého dne.
+Smícháme hladkou mouku a cukr a vše 2x přesejeme přes cedník. Přidáme změklé máslo, dva žloutky, vanilku a jemně
+nastrouhané ořechy. Osolíme a přidáme trochu citrónové kůry. Zpracujeme vláčné těsto, hotové těsto zabalíme do
+potravinové folie a necháme v lednici odležet do druhého dne.
 
 ![](../../../assets/vanoce/rohlicky-testo.jpg)
 
 Hotové těsto musí být po celou dobu studené, vždy odkrojte kousek, se kterým budete pracovat. Vytvarujte cca 1 cm
-širokého hada a rozkrájejte jej na 5 cm dlouhé kousky. Vytvarujte malé rohlíčky, ty pokládajte na pečící papír nebo
+širokého hada a rozkrájejte jej na 5 cm dlouhé kousky. Vytvarujte malé rohlíčky, ty pokládejte na pečící papír nebo
 přímo na plech vedle sebe.
 
 ![](../../../assets/vanoce/rohlicky-plech.jpg)

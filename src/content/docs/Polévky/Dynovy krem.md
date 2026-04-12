@@ -5,12 +5,12 @@ slug: dynovy-krem
 
 #### Ingredience
 
-- cca 1 kg dýně (ideálně máslová nebo hokaido)
+- cca 1 kg dýně (ideálně máslová nebo hokkaido)
 - 1 cibule
 - 1 stroužek česneku
-- 2 mrkev
+- 2 mrkve
 - cca třetinu celeru
-- 2 petržel
+- 2 petržele
 - 1 lžíce olivového oleje
 - 1 lžíce másla
 - smetana
@@ -18,7 +18,7 @@ slug: dynovy-krem
 - mletý pepř
 - sůl
 
-Oloupeme si mrkev, celer, petržel a dýni a nakrájíme na kostičky Na rozpuštěném másle orestujeme oloupanou cibuli
+Oloupeme si mrkev, celer, petržel a dýni a nakrájíme na kostičky. Na rozpuštěném másle orestujeme oloupanou cibuli
 nakrájenou na kostičky. Až cibule zezlátne, přidáme prolisovaný česnek.
 
 Poté přidáme nakrájenou zeleninu a dýni. Zalijeme vodou a vaříme do měkka.

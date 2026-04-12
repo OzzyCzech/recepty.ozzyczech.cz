@@ -7,7 +7,7 @@ Zelenina:
 
 - 350 g květáku (půl hlavy)
 - 8 - 10 sušených rajčat
-- dvě vetší mrkve (nastrouhané)
+- dvě větší mrkve (nastrouhané)
 - pórek, jarní cibulku, nebo bylinky podle chuti
 - sůl
 - pepř

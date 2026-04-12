@@ -6,11 +6,11 @@ slug: bananova-babovka
 - 200 g špaldové mouky
 - 200 g polohrubé
 - 150 g cukru
-- vanilkový curk
+- vanilkový cukr
 - prášek do pečiva
 - špetka soli
 
-Nejprve promícháme vše sypké a přídáme
+Nejprve promícháme vše sypké a přidáme
 
 - 2 vajíčka
 - 200 ml mléka

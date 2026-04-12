@@ -3,13 +3,13 @@ title: 🐷 Výpečky se zelím
 slug: vypecky-se-zelim
 ---
 
-### Vypřové výpečky
+### Vepřové výpečky
 
-- 600 g veprvového masa (vepřová plec nebo krkovice)
+- 600 g vepřového masa (vepřová plec nebo krkovice)
 - 1 střední cibule
 - mletý kmín
 - pepř kuličky
-- mletá paprika (volitelně
+- mletá paprika (volitelně)
 - stroužek česneku
 
 #### Příprava výpečků
@@ -25,7 +25,7 @@ Pečeme na 160°C - 180°C zhruba dvě hodiny.
 :::
 
 Maso během pečení kontrolujeme, ale ne moc často. Občas promíchejte. Podléváme podle potřeby - ideálně vařící vodou.
-Nejprve pečeme maso pod poklicí nebo alobalem. Poté odkryjeme a pečte další půlhodinu, aby se maso opeklo dozlatova.
+Nejprve pečeme maso pod poklicí nebo alobalem. Poté odkryjeme a pečeme další půlhodinu, aby se maso opeklo dozlatova.
 
 ![](../../../assets/obedy/vypecky-priprava.jpg)
 ![](../../../assets/obedy/vypecky-hotove.jpg)

@@ -13,7 +13,7 @@ Dále promícháme
 
 - 1 vajíčko
 - 1/2 hrnku oleje
-- 1/2 hrnku mléka (přídáme podle potřeby)
+- 1/2 hrnku mléka (přidáme podle potřeby)
 - dvě vrchovaté lžíce povidel
 - špetka soli
 

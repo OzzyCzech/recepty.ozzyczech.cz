@@ -1,5 +1,5 @@
 ---
-title: 🍌 Banánové mufiny
+title: 🍌 Banánové muffiny
 slug: bananove-mufiny
 ---
 
