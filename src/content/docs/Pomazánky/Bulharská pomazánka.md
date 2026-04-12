@@ -2,7 +2,7 @@
 title: Bulharská pomazánka
 slug: bulharska-pomazanka
 sidebar:
-  label: Bulharka
+  label: Bulharská
 ---
 
 - červená paprika (ne kapie)

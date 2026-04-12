@@ -21,7 +21,7 @@ Nejprve si **připravíme všechny ingredience**. Namočte čočku na cca 20 min
 kostičky. Pokud máme tak **nakrájíme klobásu** nebo uzené maso.
 
 Osmažíme cibuli, přidáme česnek, klobásu a vše ještě krátce orestujeme. Přidáme mrkev a opět krátce orestujeme. Nakonec
-zalijeme horkou vodou (cca 1,5 litru) a přihodíme čočku. Přidáme hrst vloček na zahuštění. Osolíme, opepříme dle chutí.
+zalijeme horkou vodou (cca 1,5 litru) a přihodíme čočku. Přidáme hrst vloček na zahuštění. Osolíme, opepříme dle chuti.
 
 :::tip[Čočka v tlakovém hrnci] V tlakovém hrnci **stačí čočku vařit 16 minut** :::
 

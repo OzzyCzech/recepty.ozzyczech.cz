@@ -9,7 +9,7 @@ slug: linecke-cukrovi
 - 2 žloutky
 - lžička citronové šťávy
 - citronová kůra
-- vanilkový cukr (burbon vanilka, vanilkový extrakt...)
+- vanilkový cukr (bourbon vanilka, vanilkový extrakt...)
 - sůl (cca 1 g - větší špetka)
 
 Hotové těsto necháme **24 hodin odpočinou** v lednici zabalené v potravinové folii.

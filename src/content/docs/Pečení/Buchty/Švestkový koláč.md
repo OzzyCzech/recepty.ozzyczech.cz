@@ -14,7 +14,7 @@ slug: svestkovy-kolac
 - citronová kůra
 - 45 švestek (1,5 kg)
 
-Droždí smícháme s mlékem (ohrátým na cca 30 stupňů) a lžičkou cukru. Necháme vzejít kvásek. Smícháme mouku, rozpuštěné
+Droždí smícháme s mlékem (ohřátým na cca 30 stupňů) a lžičkou cukru. Necháme vzejít kvásek. Smícháme mouku, rozpuštěné
 máslo a sádlo s olejem, vajíčky atd. závěrem přidáme kvasek. Hotové těsto necháme cca hodinu kynout (zakryté ideálně
 potravinovou fólii s dostatkem vzduchu).
 
