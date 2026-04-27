@@ -8,6 +8,10 @@ title: Oblíbené recepty
 * 🍗 [Medové paličky](/medove-palicky/)
 * 🐥 [Butter chicken](/butter-chicken/)
 
+## Rychlovky
+
+* 🥗 [Čočkový salát](/cockovy-salat/) — podle [Kuchyně Lidlu](https://kuchynelidlu.cz/recept/cockovy-salat)
+
 ## Pečeme
 
 * 🧁 [Jablkové muffiny](/jablkove-muffiny/)
