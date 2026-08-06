@@ -1,6 +1,6 @@
 ---
 title: Maso se slaninou a bramborami v alobalu
-slug: maso-v-alabalu
+slug: maso-v-alobalu
 sidebar:
   label: 🥓 Maso v alobalu
 ---

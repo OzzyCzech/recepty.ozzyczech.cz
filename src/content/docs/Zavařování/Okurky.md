@@ -1,6 +1,6 @@
 ---
 title: Okurky od Dr. Bubenče
-slug: zavarovani
+slug: okurky
 ---
 
 Postup vhodný pro 0,72 l sklenice (bez vaření nálevu):
